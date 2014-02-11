@@ -6,9 +6,9 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            RMUoHP Jekyll Tester
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column Jekyll theme with prominent sidebar'
+title:            Rocky Mountain University of Health Professions Physician Assistant Program
+tagline:          'Educating Clinicians to Practice in a Digital World'
+description:      'educating clinicians to practice in a digital world'
 url:              http://rmupap.github.io
 
 author:
