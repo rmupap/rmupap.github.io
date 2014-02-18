@@ -55,7 +55,7 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 2rem .5rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
@@ -65,7 +65,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 12rem;
+    width: 13rem;
     text-align: left;
   }
 }
@@ -83,19 +83,30 @@ html {
   line-height:2.75rem;
   margin-bottom:1rem;
   margin-top:0;
+  margin-left: 0.5rem;
+}
+
+.sidebar-about img {
+  width:90%;
+  max-width: 180px;
 }
 
 /* About section descriptor*/
 .sidebar-about p {
-  color:#91d0e6;
+  color:#a9a9a9;
   font-family:'yanone kaffeesatz', sans-serif;
   font-size:1rem;
+  line-height: 1.1rem;
 }
 
 /* Sidebar nav */
 .sidebar-nav {
   padding-left: 0;
   list-style: none;
+  font-family:'yanone kaffeesatz', sans-serif;
+  font-size: 1.25rem;
+  line-height: 1.5rem;
+  margin-left: 0.5rem;
 }
 .sidebar-nav-item {
   display: block;
