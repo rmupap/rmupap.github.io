@@ -2,12 +2,12 @@
 
 ### Summer Semester - Year 1
 
-| Code    | Course Title                                                 | Credits |
-|---------|--------------------------------------------------------------|---------|  
-| PAS 511 | The Digitally Literate, Self-Reflective Medical Practitioner | 2       |
-| PAS 512 | History & Physical Exam                                      | 3       |
-| PAS 513 | Fundamentals of Pharmacology                                 | 3       |
-| PAS 514 | Mechanisms of Disease                                        | 2       |
+|   Code  |                         Course Title                         | Credits |
+|---------|--------------------------------------------------------------|---------|
+| PAS 511 | The Digitally Literate, Self-Reflective Medical Practitioner |       2 |
+| PAS 512 | History & Physical Examination                               |       3 |
+| PAS 513 | Fundamentals of Pharmacology                                 |       3 |
+| PAS 514 | Mechanisms of Disease                                        |       2 |
 
 
 
