@@ -7,11 +7,10 @@
     </div>
 
     <ul class="sidebar-nav">
-      <li class="sidebar-nav-item{% if page.title == "RMUPAP Home" %} active{% endif %}">
-        <a href="/">Home</a>
-      </li>
+      <li class="sidebar-nav-item{% if page.title == "RMUPAP Home" %} active{% endif %}"><a href="/">Home</a></li>
+      {% include navigation-menu.html %}
 
-      {% comment %}
+<!--       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
@@ -25,8 +24,11 @@
             </li>
           {% endif %}
         {% endif %}
-      {% endfor %}
+      {% endfor %} -->
     </ul>
+   <div>
+    
+  </div>
 
   </div>
 </div>

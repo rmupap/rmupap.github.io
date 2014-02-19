@@ -79,11 +79,11 @@ html {
 .sidebar-about h1 {
   color:#FFFFFF;
   font-family:'yanone kaffeesatz', sans-serif;
-  font-size:2.5rem;
-  line-height:2.75rem;
+  font-size:2.25rem;
+  line-height:2.5rem;
   margin-bottom:1rem;
   margin-top:0;
-  margin-left: 0.5rem;
+  margin-left: 0.7rem;
 }
 
 .sidebar-about img {
@@ -103,19 +103,37 @@ html {
 .sidebar-nav {
   padding-left: 0;
   list-style: none;
-  font-family:'yanone kaffeesatz', sans-serif;
-  font-size: 1.25rem;
-  line-height: 1.5rem;
+  font-family: 'Abel', sans-serif;
+  font-size: .9rem;
+  line-height: 1.1rem;
   margin-left: 0.5rem;
+  text-transform: uppercase;
 }
+
 .sidebar-nav-item {
   display: block;
 }
+
+/* Sidebar nav subitems */
+
+.sidebar-nav-submenu-item {
+  font-size: 90%;
+  display: block;
+  margin-left: .5rem;
+  margin-bottom: .1rem;
+  text-transform: lowercase;
+  line-height: .9rem;
+}
+
+.sidebar-nav-submenu-item a {
+  color: #a9a9a9;
+}
+
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: underline;
 }
-.sidebar-nav-item.active {
+a.sidebar-nav-item.active {
   font-weight: bold;
 }
 
