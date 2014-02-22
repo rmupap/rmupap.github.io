@@ -167,7 +167,7 @@ pre {
   white-space: pre-wrap;
   word-break: break-all;
   word-wrap: break-word;
-  background-color: #f9f9f9;
+  background-color: #fafafa;
 }
 pre code {
   padding: 0;
@@ -186,17 +186,22 @@ pre code {
 /* Quotes */
 blockquote {
   padding: .5rem 1rem;
-  margin: .8rem 0;
-  color: #7a7a7a;
-  border-left: .25rem solid #e5e5e5;
+  margin: .8rem;
+  margin-right: 3rem;
+  color: #ffffff;
+  border-left: .25rem solid #59b7f9;
+  background-color: #268bd2;
 }
 blockquote p:last-child {
   margin-bottom: 0;
+  font-size:95%;
+  font-style:italic;
+
 }
 @media (min-width: 30rem) {
   blockquote {
-    padding-right: 5rem;
-    padding-left: 1.25rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
   }
 }
 

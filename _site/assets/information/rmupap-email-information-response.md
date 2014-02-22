@@ -1,12 +1,12 @@
 **Greetings, NAME**
 
-Thank you for your interest in the Rocky Mountain University of Health Professions Physician Assistant Program (RMUPAP). We are excited to develop an innovative new program designed to educate self-reflective professionals who value and practice evidence-based, patient-centered care!
+{% include applicant-greetings.md %}
 
-RMUPAP has applied for _Accreditation - Provisional_ from the Accreditation Review Commission on Education for the Physician Assistant (ARC-PA). RMUPAP anticipates matriculating its first class on June 1, 2015, pending achieving _Accreditation - Provisional_ status at the March 2015 ARC-PA meeting. _Accreditation - Provisional_ is an accreditation status for a new PA program that, at the time of its initial accreditation review, demonstrated its preparedness to initiate a program in accordance with the accreditation Standards.
+{% include arc-pa-language.md %}
 
 ## Application Information
 
-RMUPAP will utilize the Central Application Service for Physician Assistants (CASPA) for its application process. The next CASPA cycle will launch April 16, 2014. However, because we are a developing program, applicants will not be able to submit information to apply for our program until a few days thereafter, likely April 18 or April 19, 2014. 
+RMUPAP will utilize the Central Application Service for Physician Assistants (CASPA) for its application process. The next CASPA cycle will launch April 16, 2014. However, because we are a developing program, applicants will not be able to submit information to apply for our program until a few days thereafter, likely April 21st, 2014. 
 
 Please refer to the following web pages for detailed information regarding prerequisite courses, application requirements, application analysis, interview process, candidate selection, and post-acceptance requirements.
 
@@ -72,11 +72,7 @@ The ARC-PA describes the provisional accreditation process as follows:
 
 ### Implications for RMUPAP Applicants
 
-Only graduates of programs accredited by the ARC-PA or its predecessors are eligible to take the [Physician Assistant National Certifying Examination][pance] ([PANCE][pance]). Certification is required to be eligible for licensure to practice as a Physician Assistant.
-
-The RMUPAP application cycle for the inaugural class anticipated to matriculate in June 2015 will run from April 20th through December 2014. Applications will be evaluated, candidates will be interviewed, and seats will be offered prior to March 2015, the month when the official decision will be rendered as to whether the RMUPAP has received accreditation.
-
-In the event RMUPAP is not awarded accreditation for its PA Program in March 2015, the inaugural class will not be matriculated in June 2015. Therefore, candidates who accept a seat for the inaugural class are doing so with the understanding that the program will begin contingent on successfully being awarded the status of _Accreditation - Provisional_.
+{% include accreditation-implications.md %}
 
 ### Additional Information
 
