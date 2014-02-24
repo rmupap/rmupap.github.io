@@ -1,3 +1,8 @@
+---
+layout: page
+title: Email Information
+---
+
 **Greetings, NAME**
 
 {% include applicant-greetings.md %}
@@ -6,16 +11,17 @@
 
 ## Application Information
 
-RMUPAP will utilize the Central Application Service for Physician Assistants (CASPA) for its application process. The next CASPA cycle will launch April 16, 2014. However, because we are a developing program, applicants will not be able to submit information to apply for our program until a few days thereafter, likely April 21st, 2014. 
+RMUoHP-PAP will utilize the Central Application Service for Physician Assistants (CASPA) for its application process. The next CASPA cycle will launch April 16, 2014. However, because we are a developing program, applicants will not be able to submit information to apply for our program until April 21st, 2014. 
 
 Please refer to the following web pages for detailed information regarding prerequisite courses, application requirements, application analysis, interview process, candidate selection, and post-acceptance requirements.
 
-- [Prerequisite Courses]()
-- [Application Requirements]()
-- [Application Analysis]()
-- [Interview Process]()
-- [Candidate Selection]()
-- [Post-Acceptance Requirements]()
+- [Prerequisite Courses]({{site.url}}/admissions/prerequisite-courses)
+- [Application Requirements]({{site.url}}/admissions/application-requirements)
+- [Application Analysis]({{site.url}}/admissions/application-analysis)
+- [Interview Process]({{site.url}}/admissions/interview-process)
+- [Candidate Selection]({{site.url}}/admissions/candidate-selection)
+- [Post-Acceptance Requirements]({{site.url}}/admissions/post-acceptance-requirements)
+- [Program Costs]({{site.url}}/admissions/program-costs)
 
 ## Program Information
 
@@ -89,3 +95,10 @@ For more information about the PANCE, please visit the official website of the N
 [standards]: http://www.arc-pa.org/acc_standards/
 [arc-provisional]: http://www.arc-pa.org/provisional_acc/information.html
 [dP]: http://bit.ly/dP-CV
+[prerequisite-courses]: /admissions/prerequisite-courses
+[application-requirements]: /admissions/application-requirements
+[application-analysis]: /admissions/application-analysis
+[interview-process]: /admissions/interview-process
+[candidate-selection]: /admissions/candidate-selection
+[post-acceptance-requirements]: /admissions/post-acceptance-requirements
+[program-costs]: /admissions/program-costs

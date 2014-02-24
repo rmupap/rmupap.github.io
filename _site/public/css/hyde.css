@@ -229,6 +229,16 @@ a.sidebar-nav-item.active {
   }
 }
 
+/*
+ * Miscellaneous
+ *
+ */
+
+.highlight {
+  background-color: #f8f190;
+  padding-left:3px;
+  padding-right:3px;
+}
 
 
 /*
