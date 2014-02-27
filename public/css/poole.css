@@ -179,7 +179,7 @@ pre code {
 }
 .highlight {
   margin-bottom: 1rem;
-  border-radius: 4px;
+  border-radius: 5px;
 }
 .highlight pre {
   margin-bottom: 0;
@@ -202,6 +202,14 @@ blockquote p:last-child {
 
 blockquote a {
   color: #f8f190;
+  background-color: #565b87;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+  padding-left:4px;
+  padding-right:4px;
+  padding-top: 2px;
+  padding-bottom: 1px;
+  font-weight: bold;
 }
 
 blockquote span.reference {
@@ -271,6 +279,18 @@ tbody tr:nth-child(odd) th {
   padding:1.25rem;
   font-size: 90%;
   border-left: .3rem solid #c3c3c3;
+}
+
+.message a {
+  color: #f8f190;
+  background-color: #303030;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+  padding-left:4px;
+  padding-right:4px;
+  padding-top: 2px;
+  padding-bottom: 1px;
+  font-weight: bold;
 }
 
 
