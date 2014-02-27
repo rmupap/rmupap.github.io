@@ -8,3 +8,10 @@ title: Admissions
 </p>
 
 ↓ much information to come ↓
+
+- some info here
+- and more here, etc.
+
+### Advanced Placement
+
+{% include advanced-placement.md %}

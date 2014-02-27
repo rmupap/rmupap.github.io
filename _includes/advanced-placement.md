@@ -1,0 +1,1 @@
+Advanced placement will not be granted under any circumstances. All students who enter the program must fulfill all program requirements.

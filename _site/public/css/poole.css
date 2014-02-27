@@ -88,12 +88,13 @@ h1 {
   font-size: 2rem;
 }
 h2 {
-  margin-top: 1rem;
+  margin-top: 1.25rem;
   font-size: 1.5rem;
 }
 h3 {
-  margin-top: 1.5rem;
+  margin-top: 1rem;
   font-size: 1.25rem;
+  margin-bottom: .5rem;
 }
 h4, h5, h6 {
   margin-top: 1rem;
@@ -115,6 +116,7 @@ strong {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
+  margin-right: 1rem;
 }
 
 dt {
@@ -187,7 +189,7 @@ pre code {
 blockquote {
   padding: 1rem 1rem;
   margin: 1.25rem;
-  margin-right: 3rem;
+  margin-right: 2rem;
   color: #ffffff;
   border-left: .3rem solid #565b87;
   background-color: #8c94db;
@@ -195,7 +197,6 @@ blockquote {
 blockquote p:last-child {
   margin-bottom: 0;
   font-size:95%;
-  font-style:italic;
 
 }
 
@@ -263,7 +264,10 @@ tbody tr:nth-child(odd) th {
 .message {
   background-color:#F0F0F0;
   color:#717171;
-  margin-bottom:1rem;
+  margin-bottom:1.25rem;
+  margin-top:1.25rem;
+  margin-right: 1rem;
+
   padding:1.25rem;
   font-size: 90%;
   border-left: .3rem solid #c3c3c3;

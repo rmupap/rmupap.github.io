@@ -185,8 +185,9 @@ a.sidebar-nav-item.active {
  */
 
 .content {
-  padding-top:    1rem;
+  padding-top:    1.25rem;
   padding-bottom: 1rem;
+  padding-right: 1.5rem;
 }
 
 @media (min-width: 48rem) {
@@ -238,6 +239,8 @@ a.sidebar-nav-item.active {
   background-color: #f8f190;
   padding-left:3px;
   padding-right:3px;
+  color: #303030;
+  font-weight: bold;
 }
 
 

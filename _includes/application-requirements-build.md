@@ -16,6 +16,22 @@
 
 {% include early-consideration-deadline.md %}
 
+## GPA Requirements
+
+{% include gpa-requirements.md %}
+
+## Health Care Experience
+
+{% include health-care-experience-intro.md %}
+
+### Direct Patient Contact Experience
+
+{% include direct-patient-contact-experience.md %}
+
+### Provider Shadowing
+
+{% include provider-shadowing.md %}
+
 ## Standardized Test Scores
 
 ### Graduate Record Examination (GRE) 
