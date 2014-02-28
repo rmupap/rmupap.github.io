@@ -1,0 +1,4 @@
+The **minimum required cumulative GPA is 3.20** and the **minimum required science GPA is 3.00**. However, <span class="highlight">applicants with lower GPAs will be considered</span> for interview <span class="highlight">when there is strong evidence of improved academic performance in more recently completed coursework</span> as evidenced by meeting the following criteria:
+
+- <span class="highlight">Cumulative GPA of 3.40 or higher</span> for the <span class="highlight">most recent 30 semester hours</span>...  
+- <span class="highlight">Fifteen or more</span> of which must be <span class="highlight">prerequisite science or upper-level science courses (300 level or higher)</span>

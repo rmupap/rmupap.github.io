@@ -1,0 +1,3 @@
+There is great enthusiasm about our developing physician assistant program. And for good reason! <span class="highlight">We desperately need highly competent, genuinely caring medical professionals who provide excellent care for all</span>. Rocky Mountain University of Health Professions **feels privileged to have the opportunity to deliver an innovative program** designed to educate expert PAs who will prove to make a dramatic difference in the communities they serve.
+
+We invite you to browse through this website to learn more. Our hope is that as you do, you will become as energized as we are!

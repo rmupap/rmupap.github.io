@@ -45,7 +45,6 @@ html {
   }
 }
 
-
 /*
  * Sidebar
  *
@@ -55,7 +54,7 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 1.5rem .5rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
@@ -65,7 +64,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 12rem;
+    width: 13rem;
     text-align: left;
   }
 }
@@ -79,32 +78,61 @@ html {
 .sidebar-about h1 {
   color:#FFFFFF;
   font-family:'yanone kaffeesatz', sans-serif;
-  font-size:2.5rem;
-  line-height:2.75rem;
+  font-size:2.25rem;
+  line-height:2.5rem;
   margin-bottom:1rem;
   margin-top:0;
+  margin-left: 0.7rem;
+}
+
+.sidebar-about img {
+  width:90%;
+  max-width: 180px;
 }
 
 /* About section descriptor*/
 .sidebar-about p {
-  color:#91d0e6;
+  color:#a9a9a9;
   font-family:'yanone kaffeesatz', sans-serif;
   font-size:1rem;
+  line-height: 1.1rem;
 }
 
 /* Sidebar nav */
 .sidebar-nav {
   padding-left: 0;
   list-style: none;
+  font-family: 'Abel', sans-serif;
+  font-size: .9rem;
+  line-height: 1.1rem;
+  margin-left: 0.5rem;
+  text-transform: uppercase;
 }
+
 .sidebar-nav-item {
   display: block;
 }
+
+/* Sidebar nav subitems */
+
+.sidebar-nav-submenu-item {
+  font-size: 90%;
+  display: block;
+  margin-left: .5rem;
+  margin-bottom: .1rem;
+  text-transform: lowercase;
+  line-height: .9rem;
+}
+
+.sidebar-nav-submenu-item a {
+  color: #a9a9a9;
+}
+
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: underline;
 }
-.sidebar-nav-item.active {
+a.sidebar-nav-item.active {
   font-weight: bold;
 }
 
@@ -123,6 +151,32 @@ a.sidebar-nav-item:focus {
   }
 }
 
+/* Header Image
+ *
+ * Stuff About the Header Image
+ */
+
+.header-image-div {
+  overflow:hidden;
+}
+
+ .header-image {
+    width:100%;
+    max-width: 1160px;
+    min-width: 720px;
+ }
+
+@media (min-width: 58rem) {
+  .header-image {
+
+  }
+}
+
+@media (min-width: 48rem) {
+  .header-image {
+
+  }
+}
 
 /* Container
  *
@@ -131,21 +185,22 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
-  padding-bottom: 4rem;
+  padding-top:    1.25rem;
+  padding-bottom: 1rem;
+  padding-right: 1.5rem;
 }
 
 @media (min-width: 48rem) {
   .content {
     max-width: 38rem;
-    margin-left: 20rem;
+    margin-left: 15rem;
     margin-right: 2rem;
   }
 }
 
 @media (min-width: 64rem) {
   .content {
-    margin-left: 22rem;
+    margin-left: 16rem;
     margin-right: 4rem;
   }
 }
@@ -175,6 +230,19 @@ a.sidebar-nav-item:focus {
   }
 }
 
+/*
+ * Miscellaneous
+ *
+ */
+
+.highlight {
+  background-color: #f8f190;
+  padding-left:4px;
+  padding-right:4px;
+  padding-top:1px;
+  color: #303030;
+  font-weight: bold;
+}
 
 
 /*
