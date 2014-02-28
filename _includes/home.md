@@ -2,7 +2,7 @@
 
 {% include program-introduction.md %}
 
-# Learn More and Share in Our Excitement
+# Learn More and Share in the Excitement
 
 {% include invitation-to-learn-more.md %}
 
