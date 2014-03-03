@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Core Values & Principles
+title: Core Values
 ---
 
 ## Striving to Serve Students the R.I.G.H.T Way

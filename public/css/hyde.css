@@ -244,6 +244,32 @@ a.sidebar-nav-item.active {
   font-weight: bold;
 }
 
+.highlight-ih {
+  padding-left:8px;
+  padding-right:8px;
+  padding-top:2px;
+  font-weight: bold;
+  font-size: 2rem;
+  border-radius: 8px;
+  color: #ffffff;
+  /*border-left: .1rem solid #a09bbe;*/
+ /* border-right: .1rem solid #565b87;*/
+  background-color: #8c94db;
+}
+
+.highlight-rgt {
+  padding-left:8px;
+  padding-right:8px;
+  padding-top:2px;
+  font-weight: bold;
+  font-size: 2rem;
+  border-radius: 8px;
+  color: #ffffff;
+  /*border-left: .1rem solid #a09bbe;*/
+ /* border-right: .1rem solid #8c94db;*/
+  background-color: #565b87;
+}
+
 
 /*
  * Themes
