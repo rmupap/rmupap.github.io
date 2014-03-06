@@ -1,6 +1,6 @@
 All applicants **must complete the required prerequisite coursework in the below table prior to matriculation into the Physician Assistant Program**. All _courses do not have to be completed prior to application_, but there _must be a feasible plan for their completion prior to the program start date_ for which application is being made. Under no circumstances will applicants be allowed to begin the Physician Assistant Program if these courses are not completed prior to the program start date.
 
-## Prerequisite Performace
+## Prerequisite Performance
 
 To be considered for the Physician Assistant Program, **all prerequisite courses must be successfully completed with a grade of "C" or better**.  
 
