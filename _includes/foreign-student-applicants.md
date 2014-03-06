@@ -1,4 +1,4 @@
-Applicants who have completed coursework and/or obtained a degree from an educational institution outside the United States are required to have their educational credentials evaluated by a [National Association of Credential Evaluation Services (NACES)][naces] accredited U.S. equivalency reporting agency. Examples of accredited credentialing service include:
+Applicants who have **completed coursework and/or obtained a degree from an educational institution outside the United States (U.S.)** <span class="highlight">are required to have their educational credentials evaluated by a [National Association of Credential Evaluation Services (NACES)][naces] accredited U.S. equivalency reporting agency</span>. Examples of accredited credentialing service include:
 
 - [World Education Services (WES)][wes]
 - [Education Credential Evaluators (ECE)][ece]

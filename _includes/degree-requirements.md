@@ -1,0 +1,1 @@
+All applicants **must have completed a bachelor's degree or higher from a regionally accredited institution prior to matriculation into the program**. Degrees earned from outside the United States must be evaluated for and meet United States equivalency as described in the 'Foreign Student Applicants' section.

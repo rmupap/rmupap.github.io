@@ -16,7 +16,13 @@
 
 {% include early-consideration-deadline.md %}
 
-## GPA Requirements
+## Academic Requirements
+
+### Degree Requirements
+
+{% include degree-requirements.md %}
+
+### GPA Requirements
 
 {% include gpa-requirements.md %}
 

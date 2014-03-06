@@ -193,9 +193,10 @@ blockquote {
   color: #ffffff;
   border-left: .3rem solid #565b87;
   background-color: #8c94db;
-  font-family: 'Neucha', cursive;
-  font-size: 105%;
-  line-height: 115%;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-weight: 300;
+  font-size: 100%;
+  line-height: 140%;
 }
 blockquote p:last-child {
   margin-bottom: 0;
@@ -279,9 +280,8 @@ tbody tr:nth-child(odd) th {
   margin-bottom:1.25rem;
   margin-top:1.25rem;
   margin-right: 1rem;
-
   padding:1.25rem;
-  font-size: 90%;
+  font-size: 95%;
   border-left: .3rem solid #c3c3c3;
 }
 
