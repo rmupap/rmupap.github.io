@@ -2,33 +2,57 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
   <head>
-  <link href="http://gmpg.org/xfn/11" rel="profile">
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-  <!-- Enable responsiveness on mobile devices-->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+	<link href="http://gmpg.org/xfn/11" rel="profile">
+	
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	
+	<!-- Enable responsiveness on mobile devices -->
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+	
+	<!-- Cause all non-host links to open in new window -->
+	
+	<script>
+	
+		function linkTargeting()
+		{
+			
+			var links = document.getElementsByTagName("a");
+			
+			for (var i = 0, linksLength = links.length; i < linksLength; i++) {	
+				if (links[i].hostname != window.location.hostname) {
+				links[i].target = '_blank';
+				} 
+			}
+		}
+	</script>  
+	
+	<title>
+	
+	Application Requirements &middot; RMUoHP Physician Assistant Program
+	
+	</title>
+	
+	<!-- CSS -->
+	
+	<link rel="stylesheet" href="/public/css/poole.css">
+	<link rel="stylesheet" href="/public/css/syntax.css">
+	<link rel="stylesheet" href="/public/css/hyde.css">
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:300,400">
+	<link rel="stylesheet" href='http://fonts.googleapis.com/css?family=Abel' rel='stylesheet'>
+	<link href='http://fonts.googleapis.com/css?family=Alegreya+Sans:300,400' rel='stylesheet' type='text/css'>
+	
+	<!-- Icons -->
+	
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
+	<link rel="shortcut icon" href="/public/favicon.ico">
+	
+	<!-- RSS -->
+	
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
-  <title>
-    
-      Application Requirements &middot; RMUoHP Physician Assistant Program
-    
-  </title>
-
-  <!-- CSS -->
-  <link rel="stylesheet" href="/public/css/poole.css">
-  <link rel="stylesheet" href="/public/css/syntax.css">
-  <link rel="stylesheet" href="/public/css/hyde.css">
-  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
-  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:300,400">
-  <link rel="stylesheet" href='http://fonts.googleapis.com/css?family=Abel' rel='stylesheet'>
-  <link href='http://fonts.googleapis.com/css?family=Alegreya+Sans:300,400' rel='stylesheet' type='text/css'>
-
-  <!-- Icons -->
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
-                                 <link rel="shortcut icon" href="/public/favicon.ico">
-
-  <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 </head>
 
 
@@ -93,11 +117,11 @@
 
 <p>Thank you for your interest in the Rocky Mountain University of Health Professions Physician Assistant Program (RMUoHP-PAP). <span class="highlight">We are excited to develop an innovative new program designed to educate reflective professionals who value and practice evidence-based, patient-centered care!</span></p>
 
-<p>RMUoHP-PAP is in the process of applying for ‘Accreditation-Provisional’ from the <a href="http://www.arc-pa.org/">Accreditation Review Commission on Education for the Physician Assistant</a> (<a href="http://www.arc-pa.org/">ARC-PA</a>). <strong>RMUoHP-PAP anticipates matriculating its first class on June 1, 2015, pending achieving ‘Accreditation-Provisional’ status at the March 2015 ARC-PA meeting.</strong> ‘Accreditation-Provisional’ is an accreditation status for a new PA program that, at the time of its initial accreditation review, demonstrated its preparedness to initiate a program in accordance with the <a href="http://www.arc-pa.org/acc_standards/">accreditation Standards</a>.</p>
+<p>RMUoHP-PAP is in the process of applying for ‘Accreditation-Provisional’ from the <a href="http://www.arc-pa.org/">Accreditation Review Commission on Education for the Physician Assistant</a> (<a href="http://www.arc-pa.org/">ARC-PA</a>). <strong>RMUoHP-PAP anticipates matriculating its first class on June 1, 2015, pending achieving ‘Accreditation-Provisional’ status at the March 2015 ARC-PA meeting.</strong> ‘Accreditation-Provisional’ is an accreditation status for a new PA program that, at the time of its initial accreditation review, demonstrated its preparedness to initiate a program in accordance with the <a href="http://www.arc-pa.org/acc_standards/">Accreditation Standards</a>.</p>
 
 <h2 id="application-timeline-information">Application Timeline Information</h2>
 
-<p><strong>The application cycle for the inaugural class anticipated to matriculate on June 1st, 2015</strong>, pending achieving ‘Accreditation-Provisional’ status in March 2015, <span class="highlight">will run from April 21st, 2014 through December 2014</span>. Interested individuals will be required to apply through the <a href="https://portal.caspaonline.org/">Central Application Service for Physician Assistants</a> (<a href="https://portal.caspaonline.org/">CASPA</a>).</p>
+<p><strong>The application cycle for the inaugural class anticipated to matriculate on June 1st, 2015</strong>, pending achieving ‘Accreditation-Provisional’ status in March 2015, <span class="highlight">will run from April 21st, 2014 through December 2014</span>. Interested individuals must apply through the <a href="https://portal.caspaonline.org/">Central Application Service for Physician Assistants</a> (<a href="https://portal.caspaonline.org/">CASPA</a>).</p>
 
 <h3 id="application-deadline">Application Deadline</h3>
 
@@ -105,9 +129,11 @@
 
 <blockquote>
   <p>…To ensure the application is verified on time, applications must be completed (e-submitted, payment received, transcripts received, and two letters of recommendation received) at least four weeks in advance of the deadline date.</p>
+
+  <p><span class="reference"><a href="https://portal.caspaonline.org/caspaHelpPages/frequently-asked-questions/school-information/deadlines/">~ reference link</a></span></p>
 </blockquote>
 
-<p>In other words, ensure that all of your materials have been submitted around October 1st if you want to ensure your application will be scored.  </p>
+<p>In other words, ensure that all of your materials have been submitted around October 1st if you want to ensure your application will be scored. </p>
 
 <h3 id="early-consideration-deadline">Early Consideration Deadline</h3>
 
@@ -153,38 +179,69 @@
 
 <p>Examples of <strong>specific positions that would qualify for direct patient contact experience include</strong> but are not limited to:  </p>
 
-<ul>
-  <li>Athletic Trainer</li>
-  <li>Chiropractor</li>
-  <li>Dental Hygienist</li>
-  <li>Dentist</li>
-  <li>Dietician</li>
-  <li>Emergency Room Technician</li>
-  <li>Home Health Aide</li>
-  <li>Medical/Nursing Assistant</li>
-  <li>Midwife</li>
-  <li>Military Medic or Corpsman</li>
-  <li>Nurse (LPN, RN)</li>
-  <li>Occupational Therapist</li>
-  <li>Ophthalmology Technician</li>
-  <li>Paramedic/EMT</li>
-  <li>Patient Care Technician</li>
-  <li>Phlebotomist</li>
-  <li>Physical Therapist</li>
-  <li>Physical Therapy Assistant</li>
-  <li>Radiologic Technician</li>
-  <li>Respiratory Therapist</li>
-  <li>Surgical Technologist</li>
-</ul>
+<table>
+  <tbody>
+    <tr>
+      <td>Athletic Trainer</td>
+      <td>Chiropractor</td>
+    </tr>
+    <tr>
+      <td>Dental Hygienist</td>
+      <td>Dentist</td>
+    </tr>
+    <tr>
+      <td>Dietician</td>
+      <td>Emergency Room Technician</td>
+    </tr>
+    <tr>
+      <td>Home Health Aide</td>
+      <td>Medical/Nursing Assistant</td>
+    </tr>
+    <tr>
+      <td>Midwife</td>
+      <td>Military Medic or Corpsman</td>
+    </tr>
+    <tr>
+      <td>Nurse (LPN, RN)</td>
+      <td>Occupational Therapist</td>
+    </tr>
+    <tr>
+      <td>Ophthalmology Technician</td>
+      <td>Paramedic/EMT</td>
+    </tr>
+    <tr>
+      <td>Patient Care Technician</td>
+      <td>Phlebotomist</td>
+    </tr>
+    <tr>
+      <td>Physical Therapist</td>
+      <td>Physical Therapy Assistant</td>
+    </tr>
+    <tr>
+      <td>Radiologic Technician</td>
+      <td>Respiratory Therapist</td>
+    </tr>
+    <tr>
+      <td>Surgical Technologist</td>
+      <td>Others as well :)</td>
+    </tr>
+  </tbody>
+</table>
 
 <p><strong>Volunteer experience with which</strong> <span class="highlight">you have actively worked with patients and influenced their care</span> <strong>also qualifies for direct patient contact experience</strong>. Examples may include but are not limited to:</p>
 
-<ul>
-  <li>Hospice </li>
-  <li>Medical Mission </li>
-  <li>Nursing Home  </li>
-  <li>Peace Corps  </li>
-</ul>
+<table>
+  <tbody>
+    <tr>
+      <td>Hospice</td>
+      <td>Medical Mission</td>
+    </tr>
+    <tr>
+      <td>Nursing Home</td>
+      <td>Peace Corps</td>
+    </tr>
+  </tbody>
+</table>
 
 <p>Other health care experiences having minimal or no direct patient care responsibility, such as administrative jobs and pharmacy assistant, do not count for direct patient contact experience.</p>
 

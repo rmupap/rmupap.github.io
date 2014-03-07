@@ -1,6 +1,6 @@
 #### Provisional Accreditation Process
 
-For more information on the provisional accreditation process, please visit the official ARC-PA website, subsection: <span class="highlight">[Provisional Accreditation][arc-provisional]</span> 
+For more information on the provisional accreditation process, please visit the official ARC-PA website, subsection: <span class="highlight">[Provisional Accreditation][arc-provisional]</span>  
 
 #### Physician Assistant National Certifying Examination (PANCE) 
 
