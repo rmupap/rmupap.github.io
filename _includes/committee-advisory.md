@@ -20,8 +20,9 @@
 | Community Medical/ED Leader   | CEO Guy of Psych Hospital       | Taryn->Dave |
 | Community Medical/ED Leader   | ?? IHC Administrator ??         |             |
 | Community Medical/ED Leader   | ?? Central Utah Clinic Admin ?? |             |
-| Others ??                     |                                 |             |
-| Others ??                     |                                 |             |
+| Community Medical/ED Leader   | ?? Roseman Pharmacy Dean ??     |             |
+| Community Medical/ED Leader   | ?? David Clark ??               |             |
+|                               |                                 |             |
 
 ## Invitees Not On Committee
 
