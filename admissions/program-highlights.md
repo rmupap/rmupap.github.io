@@ -3,19 +3,23 @@ layout: page
 title: Program Highlights
 ---
 
-coming soon :)
+It would be wise to determine whether this program will be a good fit for you before expending too much energy examining the details of our application requirements. Hence, **why this <span class="highlight">program highlights page</span> appears at the top of the admissions pages link list**!
 
-<!-- 
+If you have not done so already, you should check out the <a href="/core-values" target="_blank">Core Values</a> and <a href="/mission-vision-goals" target="_blank">Mission-Vision-Goals</a> pages. Once those are checked off, take a look below. <span class="highlight">Here we discuss some of the specific highlights of the program of which we are so enthused...</span>
+
+<!--
 
 // **Note to Self:** This is patterned in conjunction with the rmupap-email-information-response.md! Consider any changes for both documents. 
 
 insert introduction here
 
-and TOC here
+and TOC here (if possible)
 
-{% include program-introduction.md %}
+-->
 
-### Genuiness and Honesty
+
+
+### Genuineness and Honesty
 
 Hmm, genuiness and honesty. Do these attributes both warrant exclusive attention? My 8th grade English teacher would probably argue to never include them in the same phrase, as most would conclude it a redundancy. However, I...
 
@@ -52,18 +56,3 @@ If you have not done so already, feel free to schedule a brief phone appointment
 Thanks!
 
 RMUoHP Admissions Team
-
-
-## Additional Details Regarding Accreditation
-
-{% include accreditation-details.md %}
-
-### Implications for RMUoHP-PAP Applicants
-
-{% include accreditation-implications.md %}
-
-### Additional Information
-
-{% include additional-accreditation-information.md %}
-
--->

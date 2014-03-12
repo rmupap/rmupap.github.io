@@ -51,3 +51,7 @@
 ## Foreign Student Applicants  
 
 {% include foreign-student-applicants.md %}
+
+## Advanced Placement
+
+{% include advanced-placement.md %}
