@@ -25,8 +25,8 @@ We sincerely hope our program is a great fit for you, and look forward to receiv
 - [Frequently Asked Questions][faq]
 - [Information Web Group][info-web-group]
 
-[program-highlights]: /admissions/program-highlights
+[program-highlights]: /coming-soon
 [prereqs]: /admissions/prerequisite-courses
 [app-requirements]: /admissions/application-requirements
-[faq]: /admissions/frequently-asked-questions
-[info-web-group]: /admissions/rmuohp-pap-information-group
+[faq]: /coming-soon
+[info-web-group]: /coming-soon

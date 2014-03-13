@@ -78,11 +78,11 @@ html {
 .sidebar-about h1 {
   color:#FFFFFF;
   font-family:'yanone kaffeesatz', sans-serif;
-  font-size:2.25rem;
-  line-height:2.5rem;
-  margin-bottom:1rem;
+  font-size:2.2rem;
+  line-height:2.3rem;
+  margin-bottom:0.8rem;
   margin-top:0;
-  margin-left: 0.7rem;
+  margin-left: 1rem;
 }
 
 .sidebar-about img {
@@ -118,22 +118,24 @@ html {
 .sidebar-nav-submenu-item {
   font-size: 90%;
   display: block;
-  margin-left: .5rem;
+  margin-left: .1rem;
   margin-bottom: .1rem;
-  text-transform: lowercase;
+  text-transform: capitalize;
   line-height: .9rem;
 }
 
 .sidebar-nav-submenu-item a {
-  color: #a9a9a9;
+  color: #ded3ff;
 }
 
-a.sidebar-nav-item:hover,
-a.sidebar-nav-item:focus {
-  text-decoration: underline;
+.sidebar-nav-submenu-item a:hover,
+.sidebar-nav-submenu-item a:focus {
+  text-decoration: none;
+  color: #F8F190;
 }
-a.sidebar-nav-item.active {
-  font-weight: bold;
+
+.sidebar-nav-submenu-item a:active {
+  color: #F8F190;
 }
 
 /* Sticky sidebar
@@ -345,7 +347,7 @@ a.sidebar-nav-item.active {
   background-color: #90a959;
 }
 .theme-base-0b .content a,
-.theme-base-0b .related-posts li a:hover {
+								.theme-base-0b .related-posts li a:hover {
   color: #90a959;
 }
 

@@ -1,6 +1,6 @@
 The vision of RMUoHP-PAP is to:
 
-- foster a <span class="highlight">culture of growth-mindedness</span>, <span class="highlight">unity of purpose</span>, <span class="highlight">collegiality</span>, and <span class="highlight">insatiable thirst for learning</span>, 
-- deliver a <span class="highlight-orange">richly-balanced</span>, <span class="highlight-orange">application-based curriculum centered on critical principles</span> of health and disease,
-- produce <span class="highlight-red">self-reflective professionals with adept clinical reasoning skills</span> 
-- empower students with <span class="highlight">advanced knowledge of information technology and collaborative networking skills</span> to <span class="highlight">leverage the advantages of the digital age to deliver the highest quality care</span> for unique patients
+- **foster a culture** of <span class="highlight">growth-mindedness</span>, <span class="highlight">unity of purpose</span>, <span class="highlight">collegiality</span>, and insatiable <span class="highlight">thirst for learning</span>, 
+- deliver a <span class="highlight">richly-balanced</span>, <span class="highlight">application-based curriculum</span> **centered on critical principles** of health and disease,
+- graduate <span class="highlight">self-reflective professionals</span> with **adept clinical reasoning skills** and <span class="highlight">keen sensitivity</span> **to unique patient needs**
+- empower digitally-literate clinicians with <span class="highlight">advanced knowledge of information technology</span> and <span class="highlight">collaborative networking skills</span> who **will leverage the advantages of the information age** to deliver the highest quality care
