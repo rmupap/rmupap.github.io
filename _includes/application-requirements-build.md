@@ -1,7 +1,5 @@
 ## Information Regarding Accreditation 
 
-<div class="toc"></div>
-
 {% include applicant-greetings.md %}
 
 {% include arc-pa-language.md %}
