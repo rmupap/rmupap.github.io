@@ -234,11 +234,11 @@ html {
 
 /*
  * Miscellaneous
- *
+ * original highlight yellow: #f8f190
  */
 
 .highlight {
-  background-color: #f8f190;
+  background-color: #fbf6ad;
   padding-left:4px;
   padding-right:4px;
   padding-top:1px;
