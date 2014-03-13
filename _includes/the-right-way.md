@@ -4,14 +4,14 @@ Actions are predicated upon values. <span class="highlight">Inasmuch as we commi
 ## RMUoHP Core Values 
 
 |--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Clinical Inquiry**     | The University **advocates clinical inquiry that challenges** practice standards, expands evidence-based practice, increases clinical research, develops healthcare change agents, and encourages experiential learning. |
-| **Student-Centeredness** | The University **provides a student-centered environment** through relevant and participatory courses and a supportive University community.                                                                             |
-| **Integrity**            | The University **demonstrates integrity in its interactions** with all its constituents.                                                                                                                                 |
-| **Diversity**            | The University **cultivates diversity** through academic freedom, varied educational experiences, and broad recruitment of students and faculty.                                                                         |
-| **Leadership**           | The University **fosters skills essential to leadership roles** in healthcare, academia, research, and the community.                                                                                                    |
-| **Sustainability**       | The University **operates with respect for the natural environment**.                                                                                                                                                    |
-| **Viability**            | The University **generates and manages its resources in a manner that will ensure the long-term success** and operation of the institution.                                                                              |
-| **Service**              | The University **promotes service** to community, healthcare, and education.                                                                                                                                             |
+| **Clinical Inquiry**     | The University advocates clinical inquiry that challenges practice standards, expands evidence-based practice, increases clinical research, develops healthcare change agents, and encourages experiential learning. |
+| **Student-Centeredness** | The University provides a student-centered environment through relevant and participatory courses and a supportive University community.                                                                             |
+| **Integrity**            | The University demonstrates integrity in its interactions with all its constituents.                                                                                                                                 |
+| **Diversity**            | The University cultivates diversity through academic freedom, varied educational experiences, and broad recruitment of students and faculty.                                                                         |
+| **Leadership**           | The University fosters skills essential to leadership roles in healthcare, academia, research, and the community.                                                                                                    |
+| **Sustainability**       | The University operates with respect for the natural environment.                                                                                                                                                    |
+| **Viability**            | The University generates and manages its resources in a manner that will ensure the long-term success and operation of the institution.                                                                              |
+| **Service**              | The University promotes service to community, healthcare, and education.                                                                                                                                             |
 
 ## RMUoHP-PAP Additional Core Values 
 

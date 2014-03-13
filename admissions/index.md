@@ -11,7 +11,7 @@ title: Admissions
 
 PAs are in high demand--and rightfully so.  <span class="highlight">They provide a great breadth and depth of high quality health care services</span>. **We need the best available to join the profession and serve as exemplars in filling one of society’s greatest needs**. The elderly population will double in the United States over the next 10-15 years.  Add to this the data showing that this same population consumes the greatest percentage of healthcare resources, and you can understand the daunting challenge ahead.
 
-As a <span class="highlight">well-educated and highly skilled physician assistant, you will enjoy a rewarding career of service to those in need</span>. And not only those who have surpassed the 65-year mark; as more energy is expended by the entire industry to serve the aging population, PAs will be in high demand throughout all areas of medicine.**  
+As a <span class="highlight">well-educated and highly skilled physician assistant, you will enjoy a rewarding career of service to those in need</span>. And not only those who have surpassed the 65-year mark; as more energy is expended by the entire industry to serve the aging population, PAs will be in high demand throughout all areas of medicine. 
 
 There has never been a better time to consider becoming a Physician Assistant.  The profession is amazing!  And it’s burgeoning now more than ever.
 
