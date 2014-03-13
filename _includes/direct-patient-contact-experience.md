@@ -13,7 +13,7 @@ Examples of **specific positions that would qualify for direct patient contact e
 | Patient Care Technician  | Phlebotomist               |
 | Physical Therapist       | Physical Therapy Assistant |
 | Radiologic Technician    | Respiratory Therapist      |
-| Surgical Technologist    | Others as well :)          |
+| Surgical Technologist    |                            |
 
 **Volunteer experience with which** <span class="highlight">you have actively worked with patients and influenced their care</span> **also qualifies for direct patient contact experience**. Examples may include but are not limited to:
 
