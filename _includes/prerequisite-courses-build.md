@@ -4,7 +4,7 @@ Under no circumstances will applicants be allowed to begin the Physician Assista
 
 ## Prerequisite Performance
 
-**Prerequisite courses must be successfully completed with a grade of "C" or better**. In plus-minus grading systems, **a grade of "C⎯" does not qualify as a "C"**. Applicants offered seats contingent upon successful completion of outstanding prerequisites must complete each remaining course with a grade of "B" or better. **A grade of "B⎯" does not qualify as a "B"**.
+**Prerequisite courses must be successfully completed with a grade of "C" or better**. In plus-minus grading systems, **a grade of "C⎯" does not qualify as a "C"**. Applicants offered seats contingent upon successful completion of outstanding prerequisites must complete each remaining course with a grade of "B" or better. **A grade of "B⎯" does not qualify as a "B"**.[^grades]
 
 ## Prerequisite Timeline Requirements
 
@@ -28,6 +28,7 @@ To be considered for the Physician Assistant Program, <span class="highlight">ea
 <span style="display:block;font-size:85%;margin-left:.5rem;margin-right:.5rem;">_*A two-semester combined Human Anatomy and Physiology course series is acceptable._</span> 
 <span style="display:block;font-size:85%;margin-left:.5rem;margin-right:.5rem;">_**Though not mandatory, application scoring will improve with successful completion and high performance. More importantly, these courses help better prepare students for the rigors of PA program coursework._</span> 
 
+[^grades]: just a test footnote
 
 
 
