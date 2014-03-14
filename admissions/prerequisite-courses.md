@@ -1,5 +1,5 @@
 ---
-layout: testfooter
+layout: page
 title: Prerequisite Courses
 ---
 
