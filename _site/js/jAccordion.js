@@ -40,14 +40,12 @@ $(function() {
 		
 		// Animate (add) the padding in the new link
 		$(this).stop().animate( {
-			paddingLeft:"1.875rem",
-			backgroundColor: #ffffff
+			paddingLeft:"1.875rem"
 		} );
 		
 		// Animate (remove) the padding in the old link
 		old.prev().stop().animate( {
-			paddingLeft:".625rem",
-			backgroundColor: #eeeeee;
+			paddingLeft:".625rem"
 		} );
 	} );
 });
