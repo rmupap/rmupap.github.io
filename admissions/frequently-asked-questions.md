@@ -3,11 +3,9 @@ layout: page
 title: Frequently Asked Questions
 ---
 
-coming soon :)
+<span class="highlight-red">STOP!</span>
 
-<!-- 
-
-STOP... before going any further, please make sure you have carefully read through each of the following pages as most questions we receive are satisfactorily addressed therein...
+Before proceeding further, please make sure you have carefully read through each of the following pages. Most questions we receive, particularly inquiries related to admissions, are satisfactorily addressed therein...
 
 - insert
 - insert
@@ -16,4 +14,7 @@ If still you have not discovered the information you seek, please refer to the l
 
 line goes here
 
-// brainstorming list... -->
+// brainstorming list... 
+
+
+{% include faq-accordion.html %}
