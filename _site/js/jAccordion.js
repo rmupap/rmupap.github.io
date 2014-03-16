@@ -4,7 +4,7 @@ $(function() {
 	
 	// Add a padding to the first link
 	$('.accordion li:first').animate( {
-		paddingLeft:"1.5rem"
+		paddingLeft:"1.875rem"
 	} );
 	
 	// Add the dimension class to all the content
@@ -40,7 +40,7 @@ $(function() {
 		
 		// Animate (add) the padding in the new link
 		$(this).stop().animate( {
-			paddingLeft:"1.5rem"
+			paddingLeft:"1.875rem"
 		} );
 		
 		// Animate (remove) the padding in the old link
