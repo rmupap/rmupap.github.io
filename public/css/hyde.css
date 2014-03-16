@@ -683,12 +683,12 @@ html {
 
 .accordion {
 	width: 100%;
-	margin: 20px auto;
+	margin: 1.25rem auto;
 }
 
 .accordion li {
 	list-style-type: none;
-	padding: 0 5px;
+	padding: 0 .3rem;
 }
 
 
@@ -699,9 +699,9 @@ html {
 	
 .even, .odd {
 	font-weight: bold;
-	height: 27px;
-	padding-top: 3px;
-	padding-left: 10px;
+	height: 1.75rem;
+	padding-top: .2rem;
+	padding-left: .625rem;
 }
 	
 .even {
@@ -710,7 +710,7 @@ html {
 }
 	
 .odd {
-	border: 1px solid black;
+	border: thin solid black;
 	background: #333;
 	color: white;
 }
