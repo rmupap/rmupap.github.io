@@ -1,31 +1,31 @@
 $(function() {
 	// Hide all the content except the first
-	$('.accordian li:odd:gt(0)').hide();
+	$('.accordion li:odd:gt(0)').hide();
 	
 	// Add a padding to the first link
-	$('.accordian li:first').animate( {
+	$('.accordion li:first').animate( {
 		paddingLeft:"30px"
 	} );
 	
 	// Add the dimension class to all the content
-	$('.accordian li:odd').addClass('dimension');
+	$('.accordion li:odd').addClass('dimension');
 	
 	// Set the even links with an 'even' class
-	$('.accordian li:even:even').addClass('even');
+	$('.accordion li:even:even').addClass('even');
 	
 	// Set the odd links with a 'odd' class
-	$('.accordian li:even:odd').addClass('odd');
+	$('.accordion li:even:odd').addClass('odd');
 	
 	// Show the correct cursor for the links
-	$('.accordian li:even').css('cursor', 'pointer');
+	$('.accordion li:even').css('cursor', 'pointer');
 	
 	// Handle the click event
-	$('.accordian li:even').click( function() {
+	$('.accordion li:even').click( function() {
 		// Get the content that needs to be shown
 		var cur = $(this).next();
 		
 		// Get the content that needs to be hidden
-		var old = $('.accordian li:odd:visible');
+		var old = $('.accordion li:odd:visible');
 		
 		// Make sure the content that needs to be shown 
 		// isn't already visible

@@ -515,7 +515,6 @@ html {
   -o-transform: scale(1) translateZ(0);
   transform: scale(1) translateZ(0);
   opacity: 0.97;
-  back
 }
 .footnote-content.bottom {
   -webkit-transform-origin: top;
@@ -682,19 +681,21 @@ html {
 
 /* Accordion FAQ CSS */
 
-.accordian {
-	width: 400px;
-	margin: 50px auto;
+.accordion {
+	width: 100%;
+	margin: 20px auto;
 }
 
-.accordian li {
+.accordion li {
 	list-style-type: none;
 	padding: 0 5px;
 }
 
+
 .dimension {
 	height: 400px;
 }
+
 	
 .even, .odd {
 	font-weight: bold;
