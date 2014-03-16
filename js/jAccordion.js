@@ -40,8 +40,8 @@ $(function() {
 		
 		// Animate (add) the padding in the new link
 		$(this).stop().animate( {
-			paddingLeft:"1.875rem"
-			background-color: #ffffff;
+			paddingLeft:"1.875rem",
+			background-color: #ffffff
 		} );
 		
 		// Animate (remove) the padding in the old link
