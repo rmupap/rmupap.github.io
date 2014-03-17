@@ -13,7 +13,7 @@ $(function() {
 	// Set the even links with an 'even' class
 	$('.accordion li:even:even').addClass('even');
 	
-	// Set the odd links with a 'odd' class
+	// Set the odd links with an 'odd' class
 	$('.accordion li:even:odd').addClass('odd');
 	
 	// Show the correct cursor for the links
