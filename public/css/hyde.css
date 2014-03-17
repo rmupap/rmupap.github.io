@@ -269,11 +269,11 @@ html {
 }
 
 .highlight-red {
-  background-color: #f89d9d;
-  padding-left:4px;
-  padding-right:4px;
-  padding-top:1px;
-  color: #303030;
+  background-color: #ff3030;
+  padding-left:6px;
+  padding-right:6px;
+  padding-top:3px;
+  color: #ffffff;
   margin-bottom: 1rem;
   border-radius: 5px;
   font-weight: bold;
@@ -700,7 +700,7 @@ html {
 	
 .even, .odd {
 	font-weight: bold;
-	height: 2.6rem;
+	height: 2.55rem;
 	padding-top: .2rem;
 	padding-left: .625rem;
 }
