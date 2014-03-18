@@ -1,4 +1,4 @@
-<ul name="toc" class="table-of-contents">
+<ul class="table-of-contents">
 <li><a href="#information-regarding-accreditation">Information Regarding Accreditation</a></li>
 <li><a href="#application-timeline-information">Application Timeline Information</a>
     <ul>
@@ -33,8 +33,6 @@
 {% include applicant-greetings.md %}
 
 {% include arc-pa-language.md %}
-
-<a class="back-to-top" href="#toc">back to top</a>
 
 ## Application Timeline Information
 
