@@ -782,5 +782,31 @@ hr.hr-sidebar {
   position:relative;
 }
 
+/* Table of Contents CSS */
 
+ul.table-of-contents {
+  font-size: 80%;
+  display: block;	
+  font-weight: bold;
+  list-style-type: none;
+  margin-bottom: 0;
+  margin-top: 1rem;
+}
+
+ul.table-of-contents ul {
+  font-size: 95%;
+  display: block;
+  font-weight: normal;
+  margin-bottom: 0;
+}
+
+a.back-to-top {
+  font-size: 70%;	
+  background-color: #f5f5f5;
+  padding: 0 .4rem .05rem;
+  border-radius: .5rem;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #d6d6d6;
+}
 
