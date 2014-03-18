@@ -41,13 +41,13 @@ $(function() {
 		
 		// Animate (add) the padding in the new link
 		$(this).stop().animate( {
-			paddingLeft:"1.25rem"
+			paddingLeft:"1.25rem",
 			backgroundColor: "#eced9b"
 		} );
 		
 		// Animate (remove) the padding in the old link
 		old.prev().stop().animate( {
-			paddingLeft:".625rem"
+			paddingLeft:".625rem",
 			backgroundColor: ""
 		} );
 	} );
