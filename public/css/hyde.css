@@ -167,6 +167,11 @@ html {
     max-width: 1160px;
     min-width: 720px;
  }
+ 
+ .rmu-logo {
+	width: 100%;
+	max-width: 200px;
+ }
 
 @media (min-width: 58rem) {
   .header-image {
@@ -770,7 +775,7 @@ div.faq-answer-grey {
 /* Sidebar Dividing Line */
 
 hr.hr-sidebar {
-  border-top-color:#4c4c4c;
+  border-top-color:#383838;
   border-top-style:solid;
   border-width:1px 0 0 0;
   margin:1.3rem 0;
