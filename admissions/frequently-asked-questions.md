@@ -3,9 +3,7 @@ layout: page
 title: Frequently Asked Questions
 ---
 
-<span class="highlight-red">STOP!</span> **Before proceeding further**, <span class="highlight">please make sure you have carefully read through the following pages: [Accreditation][accreditation], [Prerequisite Courses][prereqs] and [Application Requirements][app-requirements].</span> Most inquiries, particularly related to admissions, should be satisfactorily addressed therein.
-
-If you were unable to find the information you seek, **please refer to the frequently asked questions outlined below and scan through any questions previously submitted in our** <span class="highlight">[Information Web Group][info-web-group]</span>. If that fails?... feel free to post your question within the group and we will respond ASAP. Feel free to contact our admissions team as well, they are always happy to help! **801.375.5125**
+<span class="highlight-red">STOP!</span> **Before proceeding further**, <span class="highlight">please make sure you have carefully read through the following pages</span>: <span class="highlight">[Accreditation][accreditation]</span>, <span class="highlight">[Prerequisite Courses][prereqs]</span> and <span class="highlight">[Application Requirements][app-requirements]</span>.[^1]
 
 [accreditation]: /accreditation
 [prereqs]: /admissions/prerequisite-courses  
@@ -13,3 +11,10 @@ If you were unable to find the information you seek, **please refer to the frequ
 [info-web-group]: /admissions/rmuohp-pap-information-sgroup 
 
 {% include faq-accordion.html %}
+
+Hopefully the FAQs above helped. If you were unable to find the information you seek, your next step is to **scan through any questions previously submitted in our** <span class="highlight">[Information Web Group][info-web-group]</span>. 
+
+And if that fails?... post your question within the group and we will respond ASAP.[^2] Of course, you are always more than welcome to contact our admissions team as well; they are always happy to help! <span class="highlight">801.375.5125</span>
+
+[^1]: Most inquiries, particularly related to admissions, should be satisfactorily addressed within these web pages.
+[^2]: Of course, you are always more than welcome to contact our admissions team; they are always happy to help! <span class="highlight">801.375.5125</span>
