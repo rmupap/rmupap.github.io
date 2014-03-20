@@ -8,13 +8,11 @@ title: Frequently Asked Questions
 [accreditation]: /accreditation
 [prereqs]: /admissions/prerequisite-courses  
 [app-requirements]: /admissions/application-requirements  
-[info-web-group]: /admissions/rmuohp-pap-information-sgroup 
+[info-web-group]: /admissions/rmuohp-pap-information-group 
 
 {% include faq-accordion.html %}
 
-Hopefully the FAQs above helped. If you were unable to find the information you seek, your next step is to **scan through any questions previously submitted in our** <span class="highlight">[Information Web Group][info-web-group]</span>. 
-
-And if that fails?... post your question within the group and we will respond ASAP.[^2] Of course, you are always more than welcome to contact our admissions team as well; they are always happy to help! <span class="highlight">801.375.5125</span>
+Hopefully the FAQs above helped. If you were unable to find the information you seek, your next step is to **scan through any questions previously submitted in our** <span class="highlight">[Information Web Group][info-web-group]</span>. If that fails?... post your question within the group and we will respond ASAP.[^2]
 
 [^1]: Most inquiries, particularly related to admissions, should be satisfactorily addressed within these web pages.
-[^2]: Of course, you are always more than welcome to contact our admissions team; they are always happy to help! <span class="highlight">801.375.5125</span>
+[^2]: Of course, you are always more than welcome to contact our admissions team. They're a great bunch and always happy to help! <span class="highlight">801.375.5125</span>
