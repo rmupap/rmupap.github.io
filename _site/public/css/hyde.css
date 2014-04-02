@@ -74,6 +74,10 @@ html {
   color: #fff;
 }
 
+.sidebar-updates a{
+  color: #cede58;
+}
+
 /* About section header*/
 .sidebar-about h1 {
   color:#FFFFFF;
@@ -111,6 +115,41 @@ html {
 
 .sidebar-nav-item {
   display: block;
+}
+
+/* Sidebar signup Button */
+
+.signup {
+  font-size: 90%;
+  line-height: .9rem;
+  margin-left: 0.6rem;
+  margin-right: auto;
+  margin-top:1.75rem;
+  }
+
+.signup a {
+  color: #7e88d1;
+  background-color: #ffffff;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  padding-left:12px;
+  padding-right:12px;
+  padding-top: 4px;
+  padding-bottom: 3px;
+  font-weight: bold;
+}
+
+.signup a:hover,
+.signup a:focus {
+  text-decoration: none;
+  cursor: pointer;
+  background-color: #f8f89c;
+  color: #6741ff;
+}
+
+.signup a:active {
+  color: #6741ff;
 }
 
 /* Sidebar nav subitems */
