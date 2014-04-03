@@ -727,7 +727,7 @@ html {
 
 .accordion {
 	width: 95%;
-	margin-right: 2rem;
+	margin-right: 1rem;
 /* 	margin: .625rem auto; */
 }
 
@@ -787,11 +787,13 @@ span.faq-header-grey {
 /* FAQ Questions and Answers */
 
 div.faq-question {
+  font-size:95%;
   font-weight: bold;
   margin: .2rem 0 .3rem .25rem;
 }
 
 div.faq-answer-purple {
+  font-size:85%%;
   background-color: #ecedfa;
   padding: .625rem .8rem;
   border-radius: 0 0 .3rem .3rem;
@@ -802,6 +804,7 @@ div.faq-answer-purple {
 }
 
 div.faq-answer-grey {
+  font-size:85%%;
   background-color: #f5f5f5;
   padding: .625rem .8rem;
   border-radius: 0 0 .3rem .3rem;

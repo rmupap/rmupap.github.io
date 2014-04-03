@@ -12,13 +12,13 @@ To be considered for the Physician Assistant Program, <span class="highlight">ea
 
 | Course                                                    | Description                                                                                                        | Semester Credits   |
 | --------------------------------------------------------  | ------------------------------------------------------------------------------------------------------------------ | :----------------: |
-| <span class="highlight">Human Anatomy w lab</span>[^2]    | Gross human anatomy course covering all body regions and systems designed for Biology majors.                      | 4                  |
-| <span class="highlight">Human Physiology w lab</span>[^3] | Course covering human physiologic processes designed for Biology majors.                                           | 4                  |
+| <span class="highlight">Human Anatomy w lab</span>[^2]    | Gross human anatomy course covering all body regions and systems designed for Biology or Physiology majors.        | 3-4                |
+| <span class="highlight">Human Physiology w lab</span>[^3] | Course covering human physiologic processes designed for Biology or Physiology majors.                             | 4                  |
 | **General Biology w lab**                                 | General biology course designed for Biology majors.                                                                | 4                  |
 | <span class="highlight">Microbiology w lab</span>         | Microbiology course designed for Biology majors.                                                                   | 4                  |
 | **General Chemistry I w lab**                             | General Chemistry I course in two-part series designed for Chemistry majors.                                       | 4                  |
 | **General Chemistry II w lab**                            | General Chemistry II course in two-part series designed for Chemistry majors.                                      | 4                  |
-| <span class="highlight">Statistics</span>                 | A 100-level or higher course directed towards an understanding of foundational statistics.                         | 3                  |
+| <span class="highlight">Statistics</span>[^6]             | A 100-level or higher course directed towards an understanding of foundational statistics.                         | 2-3                |
 | **College Algebra or Higher**                             | A 100-level or higher course covering the foundations of Algebra. An introductory Calculus course is acceptable.   | 3                  |
 | **Psychology**                                            | A 100-level or higher introductory or abnormal psychology course. Both are highly recommended.                     | 3                  |
 | <span class="highlight">Medical Terminology</span>        | Any course in medical terminology is acceptable. A higher-level version is recommended.                            | 1-3                |
@@ -26,7 +26,8 @@ To be considered for the Physician Assistant Program, <span class="highlight">ea
 | **Organic Chemistry or Biochemistry**[^5]                 | While not mandatory, taking at least one of these courses is highly recommended.                                   | 3-4                |
 
 [^1]: earning a grade of B- does not qualify as a B
-[^2]: a two-semester combined human anatomy and physiology course series is acceptable
-[^3]: a two-semester combined human anatomy and physiology course series is acceptable
+[^2]: a two-semester combined Human Anatomy and Physiology course series is acceptable
+[^3]: a two-semester combined Human Anatomy and Physiology course series is acceptable
 [^4]: though not mandatory, application scoring will improve with successful completion and high performance--more importantly, these courses help better prepare students for the rigors of PA program coursework
 [^5]: though not mandatory, application scoring will improve with successful completion and high performance--more importantly, these courses help better prepare students for the rigors of PA program coursework
+[^6]: generally a three-credit Statistics course is required; a two-credit Statistics course only qualifies when included as part of the requirements for earning a graduate degree
