@@ -15,6 +15,10 @@ author:
   name:           	'David Payne'
   url:            	https://twitter.com/DavidAPaynePAC
 
+paginate:			5
+paginate_path: 		"blog/page:num"
+safe:				false
+
 # Custom vars
 version:          	2.0.0
 github:				davidpaynepac

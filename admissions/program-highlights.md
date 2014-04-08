@@ -3,25 +3,12 @@ layout: page
 title: Program Highlights
 ---
 
-It would be wise to determine whether this program will be a good fit for you before expending too much energy examining the details of our application requirements. Hence, **why this <span class="highlight">program highlights page</span> appears at the top of the admissions pages link list**!
+We have designed this page to help you, and our other website visitors, determine whether they would be a good fit for our program.[^fit] For starters, if you have not done so already, please check out the following pages:
 
-If you have not done so already, you should check out the <a href="/core-values" target="_blank">Core Values</a> and <a href="/mission-vision-goals" target="_blank">Mission-Vision-Goals</a> pages. Once those are checked off, take a look below. <span class="highlight">Here we discuss some of the specific highlights of the program of which we are so enthused...</span>
+- <a href="/core-values" target="_blank">Core Values</a>
+- <a href="/mission-vision-goals" target="_blank">Mission-Vision-Goals</a> 
 
-<!--
-
-// **Note to Self:** This is patterned in conjunction with the rmupap-email-information-response.md! Consider any changes for both documents. 
-
-insert introduction here
-
-and TOC here (if possible)
-
--->
-
-
-
-### Genuineness and Honesty
-
-Hmm, genuiness and honesty. Do these attributes both warrant exclusive attention? My 8th grade English teacher would probably argue to never include them in the same phrase, as most would conclude it a redundancy. However, I...
+Once those pages are checked off your list... if you remain interested, please take a look below. **Here we share several specific highlights of the program we are so excited to launch!**
 
 ### Principle-Centered Pedagogy
 
@@ -56,3 +43,5 @@ If you have not done so already, feel free to schedule a brief phone appointment
 Thanks!
 
 RMUoHP Admissions Team
+
+[^fit]: there are nearly 200 PA programs throughout the nation, each providing a unique approach -- ensuring you find a good fit is key to maintaining your sanity during this stressful life period -- in other words, don't apply to a program with a strong emphasis in research if you hate research!

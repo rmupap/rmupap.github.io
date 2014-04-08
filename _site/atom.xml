@@ -4,7 +4,7 @@
  <title>Rocky Mountain University of Health Professions Physician Assistant Program</title>
  <link href="http://rmupap.github.io/atom.xml" rel="self"/>
  <link href="http://rmupap.github.io/"/>
- <updated>2014-04-08T04:10:02-06:00</updated>
+ <updated>2014-04-08T15:13:45-06:00</updated>
  <id>http://rmupap.github.io</id>
  <author>
    <name>David Payne</name>
@@ -13,126 +13,39 @@
 
  
  <entry>
-   <title>Introducing Hyde</title>
-   <link href="http://rmupap.github.io/2013/12/28/introducing-hyde/"/>
-   <updated>2013-12-28T00:00:00-07:00</updated>
-   <id>http://rmupap.github.io/2013/12/28/introducing-hyde</id>
-   <content type="html">&lt;p&gt;Hyde is a brazen two-column &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that pairs a prominent sidebar with uncomplicated content. It’s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
+   <title>Focus on the Roots</title>
+   <link href="http://rmupap.github.io/2014/04/08/focus-on-the-roots/"/>
+   <updated>2014-04-08T15:13:44-06:00</updated>
+   <id>http://rmupap.github.io/2014/04/08/focus-on-the-roots</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://googledrive.com/host/0B8sxZSEkeQweQjQxa1l1dlNTaWc/focus-on-roots-tree.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;built-on-poole&quot;&gt;Built on Poole&lt;/h3&gt;
+&lt;h2 id=&quot;approaches-to-learning-medicine&quot;&gt;Approaches to Learning Medicine&lt;/h2&gt;
 
-&lt;p&gt;Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt;. Poole, and every theme built on it (like Hyde here) includes the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/404&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&quot;/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Mobile friendly design and development&lt;/li&gt;
-  &lt;li&gt;Easily scalable text and component sizing with &lt;code&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
-  &lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
-  &lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
-  &lt;li&gt;Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;hyde-features&quot;&gt;Hyde features&lt;/h3&gt;
-
-&lt;p&gt;In addition to the features of Poole, Hyde adds the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sidebar includes support for textual modules and a dynamically generated navigation with active link support&lt;/li&gt;
-  &lt;li&gt;Two orientations for content and sidebar, default (left sidebar) and &lt;a href=&quot;https://github.com/poole/lanyon#reverse-layout&quot;&gt;reverse&lt;/a&gt; (right sidebar), available via &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/poole/hyde#themes&quot;&gt;Eight optional color schemes&lt;/a&gt;, available via &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/poole/hyde#readme&quot;&gt;Head to the readme&lt;/a&gt; to learn more.&lt;/p&gt;
-
-&lt;h3 id=&quot;browser-support&quot;&gt;Browser support&lt;/h3&gt;
-
-&lt;p&gt;Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.&lt;/p&gt;
-
-&lt;h3 id=&quot;download&quot;&gt;Download&lt;/h3&gt;
-
-&lt;p&gt;Hyde is developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/poole/hyde&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
-
-&lt;p&gt;Thanks!&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Example content</title>
-   <link href="http://rmupap.github.io/2012/02/07/example-content/"/>
-   <updated>2012-02-07T00:00:00-07:00</updated>
-   <id>http://rmupap.github.io/2012/02/07/example-content</id>
-   <content type="html">&lt;p&gt;This blog post shows a few different types of content that’s supported and styled with Hyde. Basic typography, images, and code are all supported.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Curabitur blandit tempus porttitor. &lt;strong&gt;Nullam quis risus eget urna mollis&lt;/strong&gt; ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Etiam porta &lt;em&gt;sem malesuada magna&lt;/em&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
-
-&lt;h2 id=&quot;heading&quot;&gt;Heading&lt;/h2&gt;
-
-&lt;p&gt;Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
-
-&lt;h3 id=&quot;sub-heading&quot;&gt;Sub-heading&lt;/h3&gt;
-
-&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;a&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;b&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;return a + b&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.&lt;/p&gt;
-
-&lt;h3 id=&quot;sub-heading-1&quot;&gt;Sub-heading&lt;/h3&gt;
-
-&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/li&gt;
-  &lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;/li&gt;
-  &lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
+&lt;p&gt;**There are two: &lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
-  &lt;li&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/li&gt;
-  &lt;li&gt;Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Content-centered&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Principle-centered&lt;/strong&gt; &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;highlight&quot;&gt;Knowing the difference is critical!&lt;/span&gt; &lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;A &lt;span class=&quot;highlight-red&quot;&gt;content-centered approach&lt;/span&gt; may allow you to pass your courses. You may even pass the boards, get licensed, find a job, and function just well enough to perform at a basic level and stay employed. However, you will not find much satisfaction in your career, your understanding of medicine will be limited, you will consistently find yourself frustrated, and you will never be able to grow into an outstanding clinician. **A principle-centered approach, on the other hand, will provide the foundation you need to truly have a remarkable career, one where you consistently feel stimulated, where you challenge yourself to develop further and further. ** Consequently, you will stand as a tall, full, flourishing oak of knowledge and ability.&lt;/p&gt;
 
-&lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/mdo/hyde/issues/new&quot;&gt;Open an issue.&lt;/a&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>What's Jekyll?</title>
-   <link href="http://rmupap.github.io/2012/02/06/whats-jekyll/"/>
-   <updated>2012-02-06T00:00:00-07:00</updated>
-   <id>http://rmupap.github.io/2012/02/06/whats-jekyll</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Here’s the difference. A student who is content-centered focuses on the individual leaves of the tree while the student who is principle-centered focuses on the roots.&lt;/strong&gt; When learning about coronary artery disease the content-centered student pulls out the list of typical symptoms and management options and tries to memorize, whereas the principle-centered student seeks deeper understanding of involved pathophysiology and fundamental pharmacology in order to make sense out of why those symptoms occur, and why we choose certain treatments over others.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;When learning about physical examination the content-centered student learns the techniques so she can perform well enough to be checked off the list during her practical exams. &lt;strong&gt;The principle-centered student wonders why&lt;/strong&gt; certain techniques are performed the way they are performed. She asks, “Why do I need to use a bracing finger when using an otoscope?” or “Why is it important to listen to the apex of the heart with the bell of the stethoscope while the patient is in the left lateral decubitus position?” &lt;strong&gt;And not only does she ask, she seeks out the answer&lt;/strong&gt;, even though that practical exam is only going to assess whether she performs the technique correctly, not whether she understands its purpose.&lt;/p&gt;
 
-&lt;p&gt;It’s an immensely useful tool and one we encourage you to use here with Hyde.&lt;/p&gt;
+&lt;p&gt;There are two major advantages to choosing a principle-centered approach. The first is that &lt;strong&gt;when you make sense out of the material, you retain the information much better. Secondly, when you strive to understand principles, you start to see connections everywhere.&lt;/strong&gt; Oftentimes the principles underlying one disease process or treatment approach also apply to many others. In other words, focusing on the roots allows your knowledge base to be connected to every leaf of the tree whereas focusing on the individual leaves supplies no such connection. That student who sought to understand principles during her physical examination course will learn much more once she begins her study of cardiology.&lt;/p&gt;
 
-&lt;p&gt;Find out more by &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Always ask “why?” Make sure you attach meaning to everything you learn. To the extent possible, master as much physiology, pathophysiology, anatomy, basic pharmacology, and laboratory medicine possible. These are the roots. Nourish them. Before you know it, you will be enjoying the fruits of your labors.&lt;/p&gt;
+
+&lt;p&gt;Tags: &lt;a href=&quot;http://physician-assistant-ed.com/tag/perspective/&quot;&gt;perspective&lt;/a&gt;, &lt;a href=&quot;http://physician-assistant-ed.com/tag/study-tips/&quot;&gt;study tips&lt;/a&gt;, &lt;a href=&quot;http://physician-assistant-ed.com/tag/studying/&quot;&gt;studying&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://physician-assistant-ed.com/2012/03/knowing-your-patients-and-the-art-of-medicine-2/&quot;&gt;← Knowing Your Patients and the Art of Medicine&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://physician-assistant-ed.com/2012/04/newly-accredited-physician-assistant-programs/&quot;&gt;Newly Accredited Physician Assistant Programs →&lt;/a&gt;&lt;/p&gt;
+
 </content>
  </entry>
  
