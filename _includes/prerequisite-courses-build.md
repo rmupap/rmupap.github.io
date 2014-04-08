@@ -16,11 +16,11 @@ To be considered for the Physician Assistant Program, <span class="highlight">ea
 | <span class="highlight">Human Physiology w lab</span>[^physiology]  | Course covering human physiologic processes designed for Biology or Physiology majors.                           | 4                  |
 | **General Biology w lab**                                           | General biology course designed for Biology majors.                                                              | 4                  |
 | <span class="highlight">Microbiology w lab</span>                   | Microbiology course designed for Biology majors.                                                                 | 4                  |
-| **General Chemistry Course Series w lab**                           | General Chemistry course series designed for Chemistry majors.[^chem]                                            | 8                |
+| **General Chemistry Course Series w lab**                           | General Chemistry course series designed for Chemistry majors.[^chem]                                            | 8                  |
 | <span class="highlight">Statistics</span>[^stats]                   | 100-level or higher course directed towards an understanding of foundational statistics.                         | 2-3                |
 | **College Algebra or Higher**                                       | 100-level or higher course covering the foundations of Algebra. A calculus course fulfills this requirement.     | 3                  |
 | **Psychology**                                                      | 100-level or higher introductory or abnormal psychology course. Both are highly recommended.                     | 3                  |
-| <span class="highlight">Medical Terminology</span>                  | Any course in medical terminology is acceptable. A higher-level version is recommended.                          | 1-3                |
+| <span class="highlight">Medical Terminology</span>                  | 100-level or higher medical terminology course. An upper-level version is recommended.                           | 1-3                |
 | **Genetics or Cellular Biology**[^extrabio]                         | While not mandatory, taking at least one of these courses is highly recommended.                                 | 3-4                |
 | **Organic Chemistry or Biochemistry**[^extrachem]                   | While not mandatory, taking at least one of these courses is highly recommended.                                 | 3-4                |
 
