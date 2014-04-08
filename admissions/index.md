@@ -7,7 +7,9 @@ title: Admissions
 	Welcome to the admissions section of Rocky Mountain University of Health Profession's developing physician assistant program (RMUoHP-PAP)! What an exciting time to pursue your dream of becoming a physician assistant (PA)! We need you now, more than ever!
 </p>
 
-PAs are in high demand--and rightfully so.  **They provide a great breadth and depth of high quality health care services. We need dedicated individuals to join the profession and serve as exemplars in filling one of society’s greatest needs**. The elderly population will double in the United States over the next 10-15 years.  Add to this the data showing that this same population consumes the greatest percentage of healthcare resources, and you can understand the daunting challenge ahead.
+PAs are in high demand--and rightfully so.  **They provide a great breadth and depth of high quality healthcare services. We need dedicated individuals to join the profession and serve as exemplars in filling one of society’s greatest needs**. 
+
+The elderly population will double in the United States over the next 10-15 years.  Add to this the data showing that this same population consumes the greatest percentage of healthcare resources, and you can understand the daunting challenge ahead.
 
 **As a well-educated and highly skilled physician assistant, you will enjoy a rewarding career of service to those in need.** Service not only for those surpassing the 65-year mark, but as more energy is expended by the entire industry on the aging population, PAs will be in high demand in all areas of medicine. 
 
