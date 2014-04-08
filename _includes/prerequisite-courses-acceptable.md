@@ -1,47 +1,102 @@
-### Acceptable Physician Assistant Program Prerequisite Courses from Various Utah Universities and Colleges
+We have included below help tables listing courses available at Universities and Colleges throughout Utah that meet prerequisite course requirements for Rocky Mountain University of Health Professions Physician Assistant Program.
 
-include brief introductory paragraph
+<p class="univ-heading-byu">Brigham Young University - Provo (BYU-Provo)</p>                                                                           
 
-#### Brigham Young University - Provo (BYU-Provo)                                                                             
+|   **PREREQUISITE**   |                                                                   **COURSE, COURSE SERIES, or COURSE COMBO**                                                                  |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Human Anatomy**    | PDBIO-210{{ page.3h }} **--OR--** PDBIO-220{{ page.3h }}                                                                                                                      |
+| **Human Physiology** | PDBIO-305{{ page.4h }} **--OR--** PDBIO-362{{ page.3h }} & PDBIO-363{{ page.1h }} _combo_                                                                                     |
+| **General Biology**  | BIO-130{{ page.4h }} **--OR--** PDBIO-120{{ page.2h }} & MMBIO-240{{ page.3h }} _combo_                                                                                       |
+| **Microbiology**     | MMBIO-221{{ page.3h }} & MMBIO-222{{ page.1h }} _combo_ **--OR--** MMBIO-407{{ page.4h }}                                                                                     |
+| **General Chem**     | CHEM-111{{ page.3h }} & CHEM-112{{ page.3h }} & CHEM-113{{ page.2h }} _series_ **--OR--**<br/> CHEM-105{{ page.4h }} & CHEM-106{{ page.3h }} & CHEM-107{{ page.1h }} _series_ |
+| **Statistics**       | STAT-121{{ page.3h }}, STAT-151{{ page.3h }}, STAT-201{{ page.3h }}, **--OR--** PSYCH-308{{ page.4h }}                                                                        |
+| **Math**             | MATH-110{{ page.3h }}, MATH-111{{ page.3h }}, MATH-112{{ page.4h }}, **--OR--** MATH-119{{ page.4h }}                                                                         |
+| **Psychology**       | PSYCH-111{{ page.3h }} **--OR--** PSYCH-342{{ page.3h }}                                                                                                                      |
+| **Med Terminology**  | LATIN-123{{ page.2h }} **--OR--** NURS-102{{ page.2h }}                                                                                                                       |
 
-|       **PREREQUISITE**       |                    **COURSE, COURSE SERIES, or COURSE COMBO**                   |
-|------------------------------|---------------------------------------------------------------------------------|
-| **Human Anatomy**            | PDBIO-210(3) or PDBIO-220(3)                                                    |
-| **Human Physiology**         | PDBIO-305(4) or PDBIO-362(3)/PDBIO-363(1) Combo                                 |
-| **General Biology**          | BIO-130(4) or completion of both PDBIO-120(2) & MMBIO-240(3)                    |
-| **Microbiology**             | MMBIO-221(3)/MMBIO-222(1) Combo or MMBIO-407(4)                                 |
-| **General Chemistry Series** | CHEM-111(3)/CHEM-112(3)/CHEM-113(2) or <br/>CHEM-105(4)/CHEM-106(3)/CHEM-107(1) |
-| **Statistics**               | STAT-121(3), STAT-151(3), STAT-201(3), or PSYCH-308(4)                          |
-| **Math**                     | MATH-110(3), MATH-111(3), MATH-112(4), or MATH-119(4)                           |
-| **Psychology**               | PSYCH-111(3) or PSYCH-342(3)                                                    |
-| **Med Terminology**          | LATIN-123(2) or NURS-102(2)                                                     |
+<p class="univ-heading-uvu">Utah Valley University (UVU)</p>   
+
+|   **PREREQUISITE**   | **COURSE, COURSE SERIES, or COURSE COMBO** |
+|----------------------|--------------------------------------------|
+| **Human Anatomy**    | insert here                                |
+| **Human Physiology** | insert here                                |
+| **General Biology**  | insert here                                |
+| **Microbiology**     | insert here                                |
+| **General Chem**     | insert here                                |
+| **Statistics**       | insert here                                |
+| **Math**             | insert here                                |
+| **Psychology**       | insert here                                |
+| **Med Terminology**  | insert here                                |
+
+<p class="univ-heading-uofu">University of Utah (UofU)</p>   
+
+|   **PREREQUISITE**   | **COURSE, COURSE SERIES, or COURSE COMBO** |
+|----------------------|--------------------------------------------|
+| **Human Anatomy**    | insert here                                |
+| **Human Physiology** | insert here                                |
+| **General Biology**  | insert here                                |
+| **Microbiology**     | insert here                                |
+| **General Chem**     | insert here                                |
+| **Statistics**       | insert here                                |
+| **Math**             | insert here                                |
+| **Psychology**       | insert here                                |
+| **Med Terminology**  | insert here                                |
+
+<p class="univ-heading-usu">Utah State University (USU)</p>   
+
+|   **PREREQUISITE**   | **COURSE, COURSE SERIES, or COURSE COMBO** |
+|----------------------|--------------------------------------------|
+| **Human Anatomy**    | insert here                                |
+| **Human Physiology** | insert here                                |
+| **General Biology**  | insert here                                |
+| **Microbiology**     | insert here                                |
+| **General Chem**     | insert here                                |
+| **Statistics**       | insert here                                |
+| **Math**             | insert here                                |
+| **Psychology**       | insert here                                |
+| **Med Terminology**  | insert here                                |
+
+<p class="univ-heading-weberst">Weber State University</p>   
+
+|   **PREREQUISITE**   | **COURSE, COURSE SERIES, or COURSE COMBO** |
+|----------------------|--------------------------------------------|
+| **Human Anatomy**    | insert here                                |
+| **Human Physiology** | insert here                                |
+| **General Biology**  | insert here                                |
+| **Microbiology**     | insert here                                |
+| **General Chem**     | insert here                                |
+| **Statistics**       | insert here                                |
+| **Math**             | insert here                                |
+| **Psychology**       | insert here                                |
+| **Med Terminology**  | insert here                                |
+
+<p class="univ-heading-dixiest">Dixie State College of Utah</p>   
+
+|   **PREREQUISITE**   | **COURSE, COURSE SERIES, or COURSE COMBO** |
+|----------------------|--------------------------------------------|
+| **Human Anatomy**    | insert here                                |
+| **Human Physiology** | insert here                                |
+| **General Biology**  | insert here                                |
+| **Microbiology**     | insert here                                |
+| **General Chem**     | insert here                                |
+| **Statistics**       | insert here                                |
+| **Math**             | insert here                                |
+| **Psychology**       | insert here                                |
+| **Med Terminology**  | insert here                                |
+
+<p class="univ-heading-westminster">Westminster College</p>   
+
+|   **PREREQUISITE**   | **COURSE, COURSE SERIES, or COURSE COMBO** |
+|----------------------|--------------------------------------------|
+| **Human Anatomy**    | insert here                                |
+| **Human Physiology** | insert here                                |
+| **General Biology**  | insert here                                |
+| **Microbiology**     | insert here                                |
+| **General Chem**     | insert here                                |
+| **Statistics**       | insert here                                |
+| **Math**             | insert here                                |
+| **Psychology**       | insert here                                |
+| **Med Terminology**  | insert here                                |
 
 
-#### Utah Valley University
-
-#### University of Utah
-
-#### Utah State University
-
-#### Weber State University
-
-#### Dixie State College of Utah
-
-#### Westminster College
-
-?? College of Eastern Utah
-
-?? Salt Lake Community College
-
-?? Southern Utah University
-
-?? Stevens-Henager College
-
-?? Snow College
-
-?? Eagle Gate College
-
-?? Western Governors University
-
-?? Neumont University
 

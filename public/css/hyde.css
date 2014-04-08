@@ -124,7 +124,7 @@ html {
   line-height: .9rem;
   margin-left: 0.6rem;
   margin-right: auto;
-  margin-top:1.75rem;
+  margin-top:1.5rem;
   }
 
 .signup a {
@@ -154,7 +154,8 @@ html {
 
 /* Sidebar nav subitems */
 
-.sidebar-nav-submenu-item {
+.sidebar-nav-submenu-item,
+.sidebar-nav-submenu-item-highlights {
   font-size: 90%;
   display: block;
   margin-left: .1rem;
@@ -163,17 +164,25 @@ html {
   line-height: .9rem;
 }
 
-.sidebar-nav-submenu-item a {
+.sidebar-nav-submenu-item-highlights {
+  margin-top: .15rem;
+}
+
+.sidebar-nav-submenu-item a,
+.sidebar-nav-submenu-item-highlights a  {
   color: #ded3ff;
 }
 
 .sidebar-nav-submenu-item a:hover,
-.sidebar-nav-submenu-item a:focus {
+.sidebar-nav-submenu-item a:focus,
+.sidebar-nav-submenu-item-highlights a:hover, 
+.sidebar-nav-submenu-item-highlights a:focus {
   text-decoration: none;
   color: #F8F190;
 }
 
-.sidebar-nav-submenu-item a:active {
+.sidebar-nav-submenu-item a:active,
+.sidebar-nav-submenu-item-highlights a:active {
   color: #F8F190;
 }
 
@@ -349,6 +358,51 @@ html {
   background-color: #565b87;
 }
 
+.univ-heading-byu, 
+.univ-heading-uvu,
+.univ-heading-uofu,
+.univ-heading-usu,
+.univ-heading-weberst,
+.univ-heading-dixiest,
+.univ-heading-westminster {
+	font-size:120%;
+	color:#ffffff;
+	font-weight:bold;
+	width:100%;
+	padding:0.5rem 1rem;
+	margin-right:auto;
+	margin-left:auto;
+	border: 2px solid #ececec;
+	border-radius: .2rem;
+}
+
+.univ-heading-byu {
+	background-color:#003366;
+}
+
+.univ-heading-uvu {
+	background-color:#4D7123;
+}
+
+.univ-heading-uofu {
+	background-color:#CA0814;
+}
+
+.univ-heading-usu {
+	background-color:#022F58;
+}
+
+.univ-heading-weberst {
+	background-color:#4B096D;
+}
+
+.univ-heading-dixiest {
+	background-color:#D31241;
+}
+
+.univ-heading-westminster {
+	background-color:#93784D;
+}
 
 /*
  * Themes
@@ -485,9 +539,9 @@ html {
 }
 
 .footnote-button:before {
-  content: "note";
+  content: 'note';
   position: absolute;
-  bottom: 0.72em;
+  bottom: 0.68em;
   left: 0;
   right: 0;
   display: block;
@@ -827,7 +881,7 @@ hr.hr-sidebar {
 /* Table of Contents CSS */
 
 ul.table-of-contents {
-  font-size: 80%;
+  font-size: 85%;
   display: block;	
   font-weight: bold;
   list-style-type: none;

@@ -37,4 +37,4 @@ Yes, we are here to serve students. But more importantly, we are here to serve t
 
 ### <span class="highlight-rgt">T</span> - Take Time for Every Person
 
-People come from all walks of life and carry with them unique backgrounds, personalities, philosophies, perspectives, and opinions. They stand as products of the infinite number of combinations that result from genetic diversity, social milieu, environmental influence, and personal choice.At RMUoHP-PAP, **we regard each individual as an equal member of the human family**, and therefore strive to serve each with our utmost attention, concern, and diligence.
+People come from all walks of life and carry with them unique backgrounds, personalities, philosophies, perspectives, and opinions. They stand as products of the infinite number of combinations that result from genetic diversity, social milieu, environmental influence, and personal choice. At RMUoHP-PAP, **we regard each individual as an equal member of the human family**, and therefore strive to serve each with our utmost attention, concern, and diligence.

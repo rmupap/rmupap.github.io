@@ -5,7 +5,7 @@ All test scores are sent directly to [CASPA][caspa] by the Educational Testing S
 To be considered for an interview, **an aggregate score of at least 294 is required for the Verbal Reasoning and Quantitative Reasoning subsections**. Additionally, **an Analytical Writing score of at least 3.0 is required**. For more detailed information about each subsection, please refer to the [GRE Test Content and Structure web page by clicking here][gre-structure]. 
 
 <p class="message">
-<strong>Please Note:</strong> In the event an applicant is not offered a seat into the program for a given cycle, and reapplies for a subsequent cycle, he/she will again be required to request that ETS send official scores to CASPA.
+<strong>PLEASE NOTE:</strong> In the event an applicant is not offered a seat into the program for a given cycle, and reapplies for a subsequent cycle, he/she will again be required to request that ETS send official scores to CASPA.
 </p> 
 
 [caspa]: https://portal.caspaonline.org/

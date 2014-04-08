@@ -13,4 +13,4 @@ Please make sure you have carefully read through the following pages prior to su
 [prereqs]: /admissions/prerequisite-courses  
 [app-requirements]: /admissions/application-requirements  
 
-[^1]: Most inquiries, particularly related to admissions, should be satisfactorily addressed within these web pages.
+[^1]: most inquiries, particularly related to admissions, should be satisfactorily addressed within these web pages
