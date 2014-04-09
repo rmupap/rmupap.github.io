@@ -6,6 +6,8 @@ All applicants **must complete the required prerequisite coursework in the table
 
 **Prerequisite courses must be successfully completed with a grade of C or better**. In plus-minus grading systems, **a grade of C- does not qualify as a C**. Applicants offered seats contingent upon successful completion of outstanding prerequisites must complete each remaining course with a grade of B or better.[^grade]
 
+<img src="https://googledrive.com/host/0B8sxZSEkeQweQjQxa1l1dlNTaWc/hover_note_clear.gif" width="75%" style="margin:2.5rem 0 2.5rem 3.5rem;">
+
 ## Prerequisite Timeline Requirements
 
 To be considered for the Physician Assistant Program, <span class="highlight">each prerequisite course highlighted below must have been completed within ten years of the cohort start date</span>.

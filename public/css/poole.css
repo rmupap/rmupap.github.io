@@ -293,8 +293,8 @@ tbody tr:nth-child(odd) td {
   color:#717171;
   margin-bottom:1.25rem;
   margin-top:1.25rem;
-  margin-right: 1rem;
-  padding:1.25rem;
+  margin-right: .75rem;
+  padding:1.25rem .75rem 1.25rem 1.25rem;
   font-size: 95%;
   border-left: .3rem solid #c3c3c3;
 }
