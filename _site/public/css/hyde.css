@@ -407,6 +407,34 @@ html {
 	background-color:#93784D;
 }
 
+.heading-color-purple, 
+.heading-color-magenta {
+	font-size:120%;
+	color:#ffffff;
+	font-weight:bold;
+	width:100%;
+	padding:0.5rem .85rem;
+	margin-top: 10px;
+	margin-right:auto;
+	margin-left:auto;
+	margin-bottom: 12px;
+	border: 2px solid #ececec;
+	border-radius: .2rem;
+}
+
+.heading-color-purple {
+	background-color:#4f267f;
+}
+
+.heading-color-magenta {
+	background-color:#8b266a;
+}
+
+.iframe-pdf {
+	border: 1px solid #ececec;
+	border-radius: .3rem;
+}
+
 /*
  * Themes
  *
