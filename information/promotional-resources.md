@@ -5,6 +5,8 @@ title: RMUoHP-PAP Promotional Resources
 
 ## One-Sheet Flyers
 
+We have developed these succinct one-page PDF flyers in order to help those interested quickly learn about the fundamentals of our program! Feel free to download and print a copy for yourself. If you are a pre-PA advisor, you're more than welcome to print several and disseminate to your advisees. You are also free to maintain them a stack in a container to serve 
+
 <p class="heading-color-magenta">General Program Information PDF</p>
 
 <center><a href="https://docs.google.com/uc?export=download&id=0B8sxZSEkeQweeXpBN3hzQUtWdDA"><img width="30%" src="https://googledrive.com/host/0B8sxZSEkeQweQjQxa1l1dlNTaWc/GIF_ANIMATION__Download_PDF.gif"></a></center>
