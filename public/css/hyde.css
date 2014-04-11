@@ -158,7 +158,8 @@ html {
 /* Sidebar nav subitems */
 
 .sidebar-nav-submenu-item,
-.sidebar-nav-submenu-item-highlights {
+.sidebar-nav-submenu-item-highlights,
+.sidebar-nav-submenu-item-web-group {
   font-size: 90%;
   display: block;
   margin-left: .1rem;
@@ -171,23 +172,33 @@ html {
   margin-top: .15rem;
 }
 
+.sidebar-nav-submenu-item-web-group {
+  padding-bottom: .15rem;	
+}
+
 .sidebar-nav-submenu-item a,
-.sidebar-nav-submenu-item-highlights a  {
+.sidebar-nav-submenu-item-highlights a,
+.sidebar-nav-submenu-item-web-group a  {
   color: #ded3ff;
 }
 
 .sidebar-nav-submenu-item a:hover,
 .sidebar-nav-submenu-item a:focus,
 .sidebar-nav-submenu-item-highlights a:hover, 
-.sidebar-nav-submenu-item-highlights a:focus {
+.sidebar-nav-submenu-item-highlights a:focus,
+.sidebar-nav-submenu-item-web-group a:hover,
+.sidebar-nav-submenu-item-web-group a:focus   {
   text-decoration: none;
   color: #F8F190;
 }
 
 .sidebar-nav-submenu-item a:active,
-.sidebar-nav-submenu-item-highlights a:active {
+.sidebar-nav-submenu-item-highlights a:active,
+.sidebar-nav-submenu-item-web-group a:active  {
   color: #F8F190;
 }
+
+
 
 /* Sticky sidebar
  *

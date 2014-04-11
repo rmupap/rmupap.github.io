@@ -5,7 +5,9 @@ title: RMUoHP-PAP Promotional Resources
 
 ## One-Sheet Flyers
 
-We have developed these succinct one-page PDF flyers in order to help those interested quickly learn about the fundamentals of our program! Feel free to download and print a copy for yourself. If you are a pre-PA advisor, you're more than welcome to print several and disseminate to your advisees. You are also free to maintain them a stack in a container to serve 
+Below you'll find **succinct one-page PDF promotional flyers** providing key information about our program as well as website and contact info! 
+
+Feel free to download and print copies as you see fit. Pre-PA advisors are more than welcome to leave a stack in a brochure holder available to students and/or disseminate these flyers to their advisees.
 
 <p class="heading-color-magenta">General Program Information PDF</p>
 
