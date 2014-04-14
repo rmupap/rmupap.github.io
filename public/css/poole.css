@@ -277,7 +277,7 @@ tbody tr:nth-child(odd) td {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
-  margin-left: .4rem;
+  margin-left: .1rem;
 }
 
 
@@ -320,8 +320,8 @@ tbody tr:nth-child(odd) td {
 
 .container {
   max-width: 44rem;
-  padding-left:  1.5rem;
-  padding-right: 1.5rem;
+  padding-left:  1.3rem;
+  padding-right: 1.3rem;
   margin-left:  auto;
   margin-right: auto;
 }
