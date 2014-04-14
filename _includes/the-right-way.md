@@ -1,7 +1,9 @@
 
-Actions are predicated upon values. **Inasmuch as we commit ourselves to values that are in harmony with correct principles, our influence for good is limitless.** Rocky Mountain University of Health Professions (RMUoHP) has thoughtfully selected core values of which the Physician Assistant Program (RMUoHP-PAP) embraces: 
+Actions are predicated upon values. **Inasmuch as we commit ourselves to values that are in harmony with correct principles, our influence for good is limitless.** Rocky Mountain University of Health Professions (RMUoHP) has [thoughtfully selected core values][rmu-core-values]. The Physician Assistant Program (RMUoHP-PAP) embraces these values. 
 
-## RMUoHP Core Values 
+[rmu-core-values]: http://rmuohp.edu/university/mission-vision-core-values/
+
+<!-- ## RMUoHP Core Values 
 
 |--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Clinical Inquiry**     | The University advocates clinical inquiry that challenges practice standards, expands evidence-based practice, increases clinical research, develops healthcare change agents, and encourages experiential learning. |
@@ -11,11 +13,11 @@ Actions are predicated upon values. **Inasmuch as we commit ourselves to values 
 | **Leadership**           | The University fosters skills essential to leadership roles in healthcare, academia, research, and the community.                                                                                                    |
 | **Sustainability**       | The University operates with respect for the natural environment.                                                                                                                                                    |
 | **Viability**            | The University generates and manages its resources in a manner that will ensure the long-term success and operation of the institution.                                                                              |
-| **Service**              | The University promotes service to community, healthcare, and education.                                                                                                                                             |
+| **Service**              | The University promotes service to community, healthcare, and education.                                                                                                                                             | -->
 
 ## RMUoHP-PAP Additional Core Values 
 
-In addition to those above, RMUoHP-PAP espouses those values listed below. **Our commitment is to provide the best education possible for our students. To achieve this, we strive to think, make decisions, and act in accordance with these core values**. As a natural extension, **we strongly emphasize their importance and encourage their adoption to every student** we have the privilege of teaching and mentoring. **As anchors, these values serve as the pillars upon which all else is in the program stands**. The acronym **R.I.G.H.T.** helps us easily remember and communicate these values:
+In addition to RMUoHP core values, RMUoHP-PAP espouses those values listed below. **Our commitment is to provide the best education possible for our students. To achieve this, we strive to think, make decisions, and act in accordance with these core values**. As a natural extension, **we strongly emphasize their importance and encourage their adoption to every student** we have the privilege of teaching and mentoring. **As anchors, these values serve as the pillars upon which all else is in the program stands**. The acronym **R.I.G.H.T.** helps us easily remember and communicate these values:
 
 ### <span class="highlight-rgt">R</span> - Relationships Come First
 
