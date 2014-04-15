@@ -192,10 +192,10 @@ html {
   margin-left:auto;
   margin-right:auto;
   display: block;
-  background: -webkit-linear-gradient(#202020, #51405e); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(#202020, #51405e); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(#202020, #51405e); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(#202020, #51405e); /* Standard syntax */
+  background: -webkit-linear-gradient(#202020, #3e3a6e); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#202020, #3e3a6e); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#202020, #3e3a6e); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#202020, #3e3a6e); /* Standard syntax */
   padding: 3px 2px 2px 2px;
   text-transform: capitalize;
   line-height: 1rem;
@@ -212,7 +212,7 @@ html {
 .sidebar-nav-submenu-item a,
 .sidebar-nav-submenu-item-highlights a,
 .sidebar-nav-submenu-item-web-group a  {
-  color: #dfd4ff;
+  color: #e7dfff;
 }
 
 .sidebar-nav-submenu-item a:hover,
