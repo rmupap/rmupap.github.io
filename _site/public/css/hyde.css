@@ -36,12 +36,12 @@ html {
 }
 @media (min-width: 48rem) {
   html {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 @media (min-width: 58rem) {
   html {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
@@ -54,10 +54,10 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 1.5rem .5rem;
+  padding: 1.2rem .5rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
-  font-size: 20px;
+  font-size: 18px;
 }
 @media (min-width: 48rem) {
   .sidebar {
@@ -67,8 +67,7 @@ html {
     bottom: 0;
     padding-right: 0rem;
 	padding-left: 0rem;
-    width: 265px;
-    text-align: left;
+    width: 255px;
   }
 }
 
@@ -94,7 +93,7 @@ html {
 
 .sidebar-about img {
   width:90%;
-  max-width: 180px;
+  max-width: 130px;
 }
 
 /* About section descriptor*/
@@ -102,6 +101,7 @@ html {
   color:#a9a9a9;
   font-family:'yanone kaffeesatz', sans-serif;
   font-size:.9rem;
+  max-width: 20rem;
   line-height: 1rem;
 }
 
@@ -112,12 +112,21 @@ html {
   font-family: 'Abel', sans-serif;
   font-size: .8rem;
   line-height: 1rem;
-  margin-left: 0.2rem;
+  width:100%;
   text-transform: uppercase;
+  
 }
 
 .sidebar-nav-item {
   display: block;
+  padding: 3px 2px 2px 2px;
+  width: 100%;  
+  text-align: center;
+  background: -webkit-linear-gradient(#202020, #383838); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#202020, #383838); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#202020, #383838); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#202020, #383838); /* Standard syntax */
+  
 }
 
 /* Sidebar signup Button */
@@ -160,12 +169,16 @@ html {
 .sidebar-nav-submenu-item,
 .sidebar-nav-submenu-item-highlights,
 .sidebar-nav-submenu-item-web-group {
-  font-size: 90%;
+  font-size: 95%;
+  width:100%;
   display: block;
-  margin-left: .1rem;
-  margin-bottom: .1rem;
+  background: -webkit-linear-gradient(#202020, #51405e); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#202020, #51405e); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#202020, #51405e); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#202020, #51405e); /* Standard syntax */
+  padding: 3px 2px 2px 2px;
   text-transform: capitalize;
-  line-height: .9rem;
+  line-height: 1rem;
 }
 
 .sidebar-nav-submenu-item-highlights {
@@ -179,7 +192,7 @@ html {
 .sidebar-nav-submenu-item a,
 .sidebar-nav-submenu-item-highlights a,
 .sidebar-nav-submenu-item-web-group a  {
-  color: #ded3ff;
+  color: #dfd4ff;
 }
 
 .sidebar-nav-submenu-item a:hover,
@@ -226,7 +239,7 @@ html {
 
  .header-image {
     width:100%;
-    max-width: 1160px;
+    max-width: 1080px;
     min-width: 960px;
  }
  
@@ -254,9 +267,9 @@ html {
  */
 
 .content {
-  padding-top:    1.25rem;
+  padding-top:    1.1rem;
   padding-bottom: 1rem;
-  padding-right: 1.5rem;
+  padding-right: 1.3rem;
 }
 
 @media (min-width: 48rem) {

@@ -2,15 +2,14 @@
   <div class="container">
     <div class="sidebar-about">
       <center>
-      	<img class="rmu-logo" src="/assets/images/rmutransparent.png" size>
-      	<p style="margin-top:-8px;font-family: Copperplate, sans-serif;color:#ffffff;font-size:70%;line-height:90%;">Rocky Mountain University<br/>― of Health Professions ―<br/>Physician Assistant Program</p>
+      	<a href="/"><img class="rmu-logo" src="/assets/images/rmutransparent.png" size></a>
+      	<a href="/"><p style="margin-top:-10px;font-family: Copperplate, sans-serif;color:#ffffff;font-size:60%;line-height:95%;">Rocky Mountain University<br/>― of Health Professions ―<br/>Physician Assistant Program</p></a>
       </center>
-      <p class="lead">{{ site.description }}</p>
+      <center><p class="lead">{{ site.description }}</p></center>
     </div>
-    <hr class="hr-sidebar">
     <div>
       <ul class="sidebar-nav">
-        <li class="sidebar-nav-item{% if page.title == "RMUPAP Home" %} active{% endif %}"><!-- <span style="font-size:80%;vertical-align:top;margin-right:4px;">🏠</span> --><a href="/">Home</a> ﹘ {% include navigation-menu.html %}</li>
+        {% include navigation-menu.html %}
       </ul>
     </div>
     <div class="signup">
