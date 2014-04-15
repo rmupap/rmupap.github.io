@@ -3,28 +3,28 @@ layout: page
 title: Policies Table of Contents
 ---
 
-[Policy Administration][01]
-[Academic Performance and Progression][02]
-[Administrative Structure and Program Governance][03]
-[Admissions][04]
-[Dress Standard][05]
-[Program Costs][06]
-[Program Faculty][07]
-[Program Files][08]
-[Program Self-Assessment][09]
-[Safety and Infection Control][10]
-[Social Media][11]
-[Student Advising][12]
-[Student Assessment][13]
-[Student Attendance, Participation, and Inclement Weather][14]
-[Student Employment][15]
-[Student Health][16]
-[Student Role in Classroom and Supervised Clinical Practice Experiences (SCPEs)][17]
-[Supervised Clinical Practice][18]
-[Supervised Clinical Practice Experience (SCPE) Patient Exposure][19]
-[Technology][20]
+- [Policy Administration][01]
+- [Academic Performance and Progression][02]
+- [Administrative Structure and Program Governance][03]
+- [Admissions][04]
+- [Dress Standard][05]
+- [Program Costs][06]
+- [Program Faculty][07]
+- [Program Files][08]
+- [Program Self-Assessment][09]
+- [Safety and Infection Control][10]
+- [Social Media][11]
+- [Student Advising][12]
+- [Student Assessment][13]
+- [Student Attendance, Participation, and Inclement Weather][14]
+- [Student Employment][15]
+- [Student Health][16]
+- [Student Role in Classroom and Supervised Clinical Practice Experiences (SCPEs)][17]
+- [Supervised Clinical Practice][18]
+- [Supervised Clinical Practice Experience (SCPE) Patient Exposure][19]
+- [Technology][20]
 
-[01]: /policies/01_Policy_Administration
+[01]: http://rmupap.github.io/policies/01_Policy_Administration
 [02]: https://docs.google.com/document/d/1s0GBG5iC8ZI2tZ-E4P5drreAp1DHR5nUuILbulJrjf4/edit?usp=sharing
 [03]: https://docs.google.com/document/d/1WPuVGoXGBmnPHemsj8Th6oyxQDe6qkdrASWYt4ZVvlk/edit?usp=sharing
 [04]: https://docs.google.com/document/d/1Z8zBYLiQUSjmXXg-1Bx0F3y2P2X97FHup0IEaTF60og/edit
