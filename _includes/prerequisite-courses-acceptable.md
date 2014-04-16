@@ -12,6 +12,7 @@
 <li><a href="#weberst">➘ Weber State University</a> <span style="font-size:70%;font-style:italic;color:grey;"> coming soon!</span></li>
 <li><a href="#dixiest">➘ Dixie State College of Utah</a> <span style="font-size:70%;font-style:italic;color:grey;"> coming soon!</span></li>
 <li><a href="#westminster">➘ Westminster College</a> <span style="font-size:70%;font-style:italic;color:grey;"> coming soon!</span></li>
+<li><a href="#suu">➘ Southern Utah University (SUU)</a> <span style="font-size:70%;font-style:italic;color:grey;"> coming soon!</span></li>
 </ul>
 
 <h2 class="univ-heading-byu" id="byu" style="margin-top:30px;">Brigham Young University – Provo (BYU-Provo)</h2>                                                                           
@@ -82,15 +83,15 @@
 
 |   **PREREQUISITE**   | **COURSE, COURSE SERIES, or COURSE COMBO** |
 |----------------------|--------------------------------------------|
-| **Human Anatomy**    | insert here                                |
-| **Human Physiology** | insert here                                |
-| **General Biology**  | insert here                                |
-| **Microbiology**     | insert here                                |
-| **General Chem**     | insert here                                |
-| **Statistics**       | insert here                                |
-| **Math**             | insert here                                |
-| **Psychology**       | insert here                                |
-| **Med Terminology**  | insert here                                |
+| **Human Anatomy**    | coming soon                                |
+| **Human Physiology** | coming soon                                |
+| **General Biology**  | coming soon                                |
+| **Microbiology**     | coming soon                                |
+| **General Chem**     | coming soon                                |
+| **Statistics**       | coming soon                                |
+| **Math**             | coming soon                                |
+| **Psychology**       | coming soon                                |
+| **Med Terminology**  | coming soon                                |
 
 {{ page.backtolist }}
 
@@ -98,15 +99,15 @@
 
 |   **PREREQUISITE**   | **COURSE, COURSE SERIES, or COURSE COMBO** |
 |----------------------|--------------------------------------------|
-| **Human Anatomy**    | insert here                                |
-| **Human Physiology** | insert here                                |
-| **General Biology**  | insert here                                |
-| **Microbiology**     | insert here                                |
-| **General Chem**     | insert here                                |
-| **Statistics**       | insert here                                |
-| **Math**             | insert here                                |
-| **Psychology**       | insert here                                |
-| **Med Terminology**  | insert here                                |
+| **Human Anatomy**    | coming soon                                |
+| **Human Physiology** | coming soon                                |
+| **General Biology**  | coming soon                                |
+| **Microbiology**     | coming soon                                |
+| **General Chem**     | coming soon                                |
+| **Statistics**       | coming soon                                |
+| **Math**             | coming soon                                |
+| **Psychology**       | coming soon                                |
+| **Med Terminology**  | coming soon                                |
 
 {{ page.backtolist }}
 
@@ -114,15 +115,31 @@
 
 |   **PREREQUISITE**   | **COURSE, COURSE SERIES, or COURSE COMBO** |
 |----------------------|--------------------------------------------|
-| **Human Anatomy**    | insert here                                |
-| **Human Physiology** | insert here                                |
-| **General Biology**  | insert here                                |
-| **Microbiology**     | insert here                                |
-| **General Chem**     | insert here                                |
-| **Statistics**       | insert here                                |
-| **Math**             | insert here                                |
-| **Psychology**       | insert here                                |
-| **Med Terminology**  | insert here                                |
+| **Human Anatomy**    | coming soon                                |
+| **Human Physiology** | coming soon                                |
+| **General Biology**  | coming soon                                |
+| **Microbiology**     | coming soon                                |
+| **General Chem**     | coming soon                                |
+| **Statistics**       | coming soon                                |
+| **Math**             | coming soon                                |
+| **Psychology**       | coming soon                                |
+| **Med Terminology**  | coming soon                                |
+
+{{ page.backtolist }}
+
+<h2 class="univ-heading-suu" id="suu">Southern Utah University (SUU)</h2>   
+
+|   **PREREQUISITE**   | **COURSE, COURSE SERIES, or COURSE COMBO** |
+|----------------------|--------------------------------------------|
+| **Human Anatomy**    | coming soon                                |
+| **Human Physiology** | coming soon                                |
+| **General Biology**  | coming soon                                |
+| **Microbiology**     | coming soon                                |
+| **General Chem**     | coming soon                                |
+| **Statistics**       | coming soon                                |
+| **Math**             | coming soon                                |
+| **Psychology**       | coming soon                                |
+| **Med Terminology**  | coming soon                                |
 
 {{ page.backtolist }}
 

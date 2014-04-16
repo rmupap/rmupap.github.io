@@ -413,7 +413,8 @@ html {
 .univ-heading-usu,
 .univ-heading-weberst,
 .univ-heading-dixiest,
-.univ-heading-westminster {
+.univ-heading-westminster,
+.univ-heading-suu {
 	font-size:120%;
 	color:#ffffff;
 	font-weight:bold;
@@ -451,6 +452,10 @@ html {
 
 .univ-heading-westminster {
 	background-color:#93784D;
+}
+
+.univ-heading-suu {
+	background-color:#A00B10;
 }
 
 .heading-color-purple, 
