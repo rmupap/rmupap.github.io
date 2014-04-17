@@ -964,7 +964,6 @@ hr.hr-sidebar {
 /* Table of Contents CSS */
 
 ul.table-of-contents {
-  font-size: 85%;
   display: block;	
   font-weight: bold;
   list-style-type: none;
@@ -973,9 +972,10 @@ ul.table-of-contents {
 }
 
 ul.table-of-contents ul {
-  font-size: 95%;
   display: block;
   font-weight: normal;
+  list-style-type: none;
+  margin-left:-8px;
   margin-bottom: 0;
 }
 
