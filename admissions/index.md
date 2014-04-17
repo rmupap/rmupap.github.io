@@ -17,15 +17,19 @@ The elderly population will double in the United States over the next 10-15 year
 
 There has never been a better time to consider becoming a Physician Assistant.  The profession is amazing!  It’s flourishing now more than ever.
 
-We invite you to **learn the details of our admissions criteria by navigating to, and carefully reading through, the information on the following admissions web pages.** Links are provided below and also included in the navigation bar for your convenience. 
+We invite you to **learn the details of our admissions criteria by navigating to, and carefully reading through, the information on the pages listed below.** Links are provided below and also included in the navigation bar for your convenience. 
 
 We sincerely hope our program is a great fit for you, and look forward to receiving your application materials.
 
-### Admissions Pages
+### Admissions Criteria Pages
 
-- [Program Highlights][program-highlights]
 - [Prerequisite Courses][prereqs]
+- [Prerequisite Help Tables][prereqhelptables]
 - [Application Requirements][app-requirements]
+
+### More Helpful Pages for Prospective Applicants
+
+- [Program Highlights][program-highlights] <span style="font-size:70%;font-style:italic;color:grey;"> coming soon!</span>
 - [Frequently Asked Questions][faq]
 - [Information Web Group][info-web-group]
 
@@ -34,3 +38,4 @@ We sincerely hope our program is a great fit for you, and look forward to receiv
 [app-requirements]: /admissions/application-requirements
 [faq]: /admissions/frequently-asked-questions
 [info-web-group]: /admissions/rmuohp-pap-information-group
+[prereqhelptables]: /admissions/prerequisite-help-tables/
