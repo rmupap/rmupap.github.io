@@ -47,13 +47,15 @@ backtolist: '<a href="#list"><span style="font-size:70%;font-style:bold;float:ri
 |----------------------|----------------------------------------------------------------------------------------------------------------------------------|
 | **Human Anatomy**    | ZOOL-2320{{ page.3h }} & ZOOL-2325{{ page.1h }} _combo_                                                                          |
 | **Human Physiology** | ZOOL-2420{{ page.3h }} & ZOOL-2425{{ page.1h }} _combo_                                                                          |
-| **General Biology**  | BIOL-1610{{ page.4h }} & BIOL-1615{{ page.1h }} _combo_                                                                          |
+| **General Biology**  | BIOL-1610{{ page.4h }} & BIOL-1615{{ page.1h }} _combo_[^uvu_bio]                                                                          |
 | **Microbiology**     | MICR-2060{{ page.3h }} & MICR-2065{{ page.1h }} _combo_ <br/>**--OR--** MICR-3450{{ page.3h }} & MICR-3455{{ page.1h }} _combo_  |
 | **General Chem**     | CHEM-1210{{ page.4h }} & CHEM-1215{{ page.1h }} _combo_ <br/>**--AND--** CHEM-1220{{ page.4h }} & CHEM-1225{{ page.1h }} _combo_ |
 | **Statistics**       | MATH-2040{{ page.4h }} **--OR--** BESC-3010{{ page.4h }}                                                                         |
 | **Math**             | MATH-1050{{ page.4h }} or higher                                                                                                 |
 | **Psychology**       | PSY-1010{{ page.3h }} **--OR--** PSY-3400{{ page.3h }}                                                                           |
 | **Med Terminology**  | HLTH-1300{{ page.2h }}                                                                                                           |
+
+[^uvu_bio]: future footnote for uvu bio
 
 {{ page.backtolist }}
 
