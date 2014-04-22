@@ -56,7 +56,7 @@ published: true
 | **Psychology**       | PSY-1010{{ page.3h }} **--OR--** PSY-3400{{ page.3h }}                                                                           |
 | **Med Terminology**  | HLTH-1300{{ page.2h }}                                                                                                           |
 
-[^uvu_bio]: BIOL-1010{{ page.3h }} & BIOL-1015{{ page.1h }} does **not** meet this requirement
+[^uvu_bio]: BIOL-1010{{ page.3h }} & BIOL-1015{{ page.1h }} does not meet this requirement
 
 {{ page.backtolist }}
 
