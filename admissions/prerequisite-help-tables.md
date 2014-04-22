@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Prerequisite Help Tables
-1h: '<sup><span style="color:#afafaf;background-color:#ffffff;font-size:90%;border:1px solid #D8D3FF;border-radius:100%;padding:0rem .3rem 0rem .25rem;margin-left:.15rem;">1</span></sup>'
-2h: '<sup><span style="color:#afafaf;background-color:#ffffff;font-size:90%;border:1px solid #D8D3FF;border-radius:100%;padding:0rem .3rem 0rem .25rem;margin-left:.15rem;">2</span></sup>'
-3h: '<sup><span style="color:#afafaf;background-color:#ffffff;font-size:90%;border:1px solid #D8D3FF;border-radius:100%;padding:0rem .3rem 0rem .25rem;margin-left:.15rem;">3</span></sup>'
-4h: '<sup><span style="color:#afafaf;background-color:#ffffff;font-size:90%;border:1px solid #D8D3FF;border-radius:100%;padding:0rem .3rem 0rem .25rem;margin-left:.15rem;">4</span></sup>'
-backtolist: '<a href="#list"><span style="font-size:70%;font-style:bold;float:right;margin-top:-24px;margin-right:-8px;">back to list</span></a>'
+1h: "<sup><span style=\"color:#afafaf;background-color:#ffffff;font-size:90%;border:1px solid #D8D3FF;border-radius:100%;padding:0rem .3rem 0rem .25rem;margin-left:.15rem;\">1</span></sup>"
+2h: "<sup><span style=\"color:#afafaf;background-color:#ffffff;font-size:90%;border:1px solid #D8D3FF;border-radius:100%;padding:0rem .3rem 0rem .25rem;margin-left:.15rem;\">2</span></sup>"
+3h: "<sup><span style=\"color:#afafaf;background-color:#ffffff;font-size:90%;border:1px solid #D8D3FF;border-radius:100%;padding:0rem .3rem 0rem .25rem;margin-left:.15rem;\">3</span></sup>"
+4h: "<sup><span style=\"color:#afafaf;background-color:#ffffff;font-size:90%;border:1px solid #D8D3FF;border-radius:100%;padding:0rem .3rem 0rem .25rem;margin-left:.15rem;\">4</span></sup>"
+backtolist: "<a href=\"#list\"><span style=\"font-size:70%;font-style:bold;float:right;margin-top:-24px;margin-right:-8px;\">back to list</span></a>"
+published: true
 ---
 
 <p>We have included below help tables listing courses available at Universities and Colleges throughout Utah that meet prerequisite course requirements for <strong>Rocky Mountain University of Health Professions Physician Assistant Program</strong>.</p>
@@ -55,7 +56,7 @@ backtolist: '<a href="#list"><span style="font-size:70%;font-style:bold;float:ri
 | **Psychology**       | PSY-1010{{ page.3h }} **--OR--** PSY-3400{{ page.3h }}                                                                           |
 | **Med Terminology**  | HLTH-1300{{ page.2h }}                                                                                                           |
 
-[^uvu_bio]: future footnote for uvu bio
+[^uvu_bio]: BIOL-1010{{ page.3h }} & BIOL-1015{{ page.1h }} does **not** meet this requirement
 
 {{ page.backtolist }}
 
@@ -169,8 +170,4 @@ backtolist: '<a href="#list"><span style="font-size:70%;font-style:bold;float:ri
 | **Psychology**       | {{ page.3h }} **--OR--** {{ page.3h }}                                                                                        |
 | **Med Terminology**  | {{ page.2h }} **--OR--** {{ page.2h }}                                                                                        |  
 
---> 
-
-
-
-
+-->
