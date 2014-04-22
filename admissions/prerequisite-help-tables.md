@@ -55,13 +55,7 @@ published: true
 | **Math**             | MATH-1050{{ page.4h }} or higher                                                                                                 |
 | **Psychology**       | PSY-1010{{ page.3h }} **--OR--** PSY-3400{{ page.3h }}                                                                           |
 | **Med Terminology**  | HLTH-1300{{ page.2h }}                                                                                                           |
-
-<<<<<<< HEAD
-[^uvu_bio]: BIOL-1010 and BIOL-1015 does not meet requirements
-[]
-=======
 [^uvu_bio]: BIOL-1010{{ page.3h }} & BIOL-1015{{ page.1h }} _combo_ does not meet this requirement
->>>>>>> FETCH_HEAD
 
 {{ page.backtolist }}
 
