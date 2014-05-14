@@ -83,7 +83,7 @@ published: true
 | **Human Anatomy**    | BIOL-2320{{ page.4h }}                                                                                                           |
 | **Human Physiology** | BIOL-2420{{ page.4h }}                                                                                                           |
 | **General Biology**  | BIOL-1610{{ page.4h }}                                                                                                           |
-| **Microbiology**     | BIOL-3300{{ page.4h }}                                                                                                           |
+| **Microbiology**     | BIOL-2060{{ page.4h }} **--OR--** BIOL-3300{{ page.4h }}                                                                                                      |
 | **General Chem**     | CHEM-1210{{ page.4h }} & CHEM-1215{{ page.1h }} _combo_ <br/>**--AND--** CHEM-1220{{ page.4h }} & CHEM-1225{{ page.1h }} _combo_ |
 | **Statistics**       | STAT-1040{{ page.3h }} **--OR--** STAT-3000{{ page.4h }}                                                                         |
 | **Math**             | MATH-1050{{ page.4h }} or higher                                                                                                 |
