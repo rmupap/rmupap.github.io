@@ -14,7 +14,7 @@ The following table reflects the anticipated courses and corresponding credit ho
 
 ### Summer Semester - Year One
 
-| **Summer Semester - Year One**   |                                              |     |
+|                                  |                                              |     |
 | :------------------------------: | -------------------------------------------- | :-: |
 | [PAS 501](#501)                  | Digitally Literate Reflective Practitioner   | 2   |
 | [PAS 502](#502)                  | History and Physical Exam                    | 3   |
