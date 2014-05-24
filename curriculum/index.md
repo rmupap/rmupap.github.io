@@ -22,9 +22,9 @@ The following table reflects the anticipated courses and corresponding credit ho
 | [PAS 504](#504)                  | Mechanisms of Disease                        | 2   |
 |                                  | <span style="float:right">**Total**</span>   | 10  |
 
-| **Fall Semester - Year One**     |                                              |      |
+### Fall Semester - Year One
 
-| **Prefix**                       | **Course Title**                             | #   |
+| **Prefix**                       | **Course Title**                             | #    |
 | :------------------------------: | -------------------------------------------- | :--: |
 | [PAS 511](#511)                  | Professsional Development I                  | 1    |
 | [PAS 691](#691)                  | Patient-Centered Care I                      | 2    |
@@ -33,9 +33,9 @@ The following table reflects the anticipated courses and corresponding credit ho
 | [PAS 507](#507)                  | Fundamentals of Clinical Medicine            | 4    |
 |                                  | <span style="float:right">**Total**</span>   | 14   |
 
-| **Winter Semester - Year One**   |                                              |      |
+### Winter Semester - Year One
 
-| **Prefix**                       | **Course Title**                             | #   |
+| **Prefix**                       | **Course Title**                             | #    |
 | :------------------------------: | -------------------------------------------- | :--: |
 | [PAS 512](#512)                  | Professional Development II                  | 1    |
 | [PAS 692](#692)                  | Patient-Centered Care II                     | 3    |
@@ -46,7 +46,9 @@ The following table reflects the anticipated courses and corresponding credit ho
 | [PAS 605](#605)                  | CM - Eyes, Ears, Nost, Throat (EENT)         | 2    |
 |                                  | <span style="float:right">**Total**</span>   | 16   |
 
-| **Summer Semester - Year Two**   |                                              |      |
+### Summer Semester - Year Two
+
+| **Prefix**                       | **Course Title**                             | #    |
 | :------------------------------: | -------------------------------------------- | :--: |
 | [PAS 513](#513)                  | Professional Development III                 | 1    |
 | [PAS 701](#701)                  | Clinical Rotation Prep Seminar               | 2    |
@@ -55,10 +57,12 @@ The following table reflects the anticipated courses and corresponding credit ho
 | [PAS 606](#606)                  | CM - Dermatology                             | 2    |
 |                                  | <span style="float:right">**Total**</span>   | 13   |
 
-| **Fall Semester - Year Two**     |                                              |      |
+### Fall Semester - Year Two
+
+| **Prefix**                       | **Course Title**                             | #    |
 | :------------------------------: | -------------------------------------------- | :--: |
 | [PAS 514](#514)                  | Professional Development IV                  | 1    |
-| [PAS 693](#693)                  | Patient-Centered Care III                     | 2    |
+| [PAS 693](#693)                  | Patient-Centered Care III                    | 2    |
 | [PAS 607](#607)                  | CM - Cardiovascular/EKG                      | 4    |
 | [PAS 608](#608)                  | CM - Pulmonology                             | 2    |
 | [PAS 609](#609)                  | CM - Genitourinary                           | 2    |
@@ -67,7 +71,9 @@ The following table reflects the anticipated courses and corresponding credit ho
 | [PAS 612](#612)                  | CM - Geriatrics                              | 2    |
 |                                  | <span style="float:right">**Total**</span>   | 17   |
 
-| **Winter Semester - Year Two**   |                                              |      |
+### Winter Semester - Year Two
+
+| **Prefix**                       | **Course Title**                             | #    |
 | :------------------------------: | -------------------------------------------- | :--: |
 | [PAS 515](#515)                  | Professional Development V                   | 1    |
 | [PAS 694](#694)                  | Patient-Centered Care IV                     | 2    |
@@ -79,7 +85,9 @@ The following table reflects the anticipated courses and corresponding credit ho
 | [PAS 699](#699)                  | Pre-Clinical Seminar                         | 0    |
 |                                  | <span style="float:right">**Total**</span>   | 16   |
 
-| **Summer Semester - Year Three** |                                              |      |
+### Summer Semester - Year Three
+
+| **Prefix**                       | **Course Title**                             | #    |
 | :------------------------------: | -------------------------------------------- | :--: |
 | [PAS 516](#516)                  | Professional Development VI                  | 1    |
 | [PAS 704](#700-2)                | Clinical Rotation (4 wk)                     | 4    |
@@ -88,7 +96,9 @@ The following table reflects the anticipated courses and corresponding credit ho
 | [PAS 707](#700-2)                | Clinical Rotation (4 wk)                     | 4    |
 |                                  | <span style="float:right">**Total**</span>   | 17   |
 
-| **Fall Semester - Year Three**   |                                              |      |
+### Fall Semester - Year Three
+
+| **Prefix**                       | **Course Title**                             | #    |
 | :------------------------------: | -------------------------------------------- | :--: |
 | [PAS 517](#517)                  | Professional Development VII                 | 1    |
 | [PAS 708](#700-2)                | Clinical Rotation (4 wk)                     | 4    |
@@ -97,7 +107,6 @@ The following table reflects the anticipated courses and corresponding credit ho
 | [PAS 711](#700-2)                | Clinical Rotation (4 wk)                     | 4    |
 | [PAS 799](#700-2)                | Summative Seminar                            | 0    |
 |                                  | <span style="float:right">**Total**</span>   | 17   |
-
 
 ## Course Descriptions
 
