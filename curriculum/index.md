@@ -14,7 +14,7 @@ The following table reflects the anticipated courses and corresponding credit ho
 
 ### Summer Semester - Year One
 
-|                                  |                                              |     |
+| **Prefix**                       | **Course Title**                             | #   |
 | :------------------------------: | -------------------------------------------- | :-: |
 | [PAS 501](#501)                  | Digitally Literate Reflective Practitioner   | 2   |
 | [PAS 502](#502)                  | History and Physical Exam                    | 3   |
@@ -23,6 +23,8 @@ The following table reflects the anticipated courses and corresponding credit ho
 |                                  | <span style="float:right">**Total**</span>   | 10  |
 
 | **Fall Semester - Year One**     |                                              |      |
+
+| **Prefix**                       | **Course Title**                             | #   |
 | :------------------------------: | -------------------------------------------- | :--: |
 | [PAS 511](#511)                  | Professsional Development I                  | 1    |
 | [PAS 691](#691)                  | Patient-Centered Care I                      | 2    |
@@ -32,6 +34,8 @@ The following table reflects the anticipated courses and corresponding credit ho
 |                                  | <span style="float:right">**Total**</span>   | 14   |
 
 | **Winter Semester - Year One**   |                                              |      |
+
+| **Prefix**                       | **Course Title**                             | #   |
 | :------------------------------: | -------------------------------------------- | :--: |
 | [PAS 512](#512)                  | Professional Development II                  | 1    |
 | [PAS 692](#692)                  | Patient-Centered Care II                     | 3    |
