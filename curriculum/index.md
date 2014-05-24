@@ -52,7 +52,7 @@ The following table reflects the anticipated courses and corresponding credit ho
 | **Fall Semester - Year Two**     |                                              |      |
 | :------------------------------: | -------------------------------------------- | :--: |
 | [PAS 514](#514)                  | Professional Development IV                  | 1    |
-| [PAS 693](#693)                  | Patient-Centered Care II                     | 2    |
+| [PAS 693](#693)                  | Patient-Centered Care III                     | 2    |
 | [PAS 607](#607)                  | CM - Cardiovascular/EKG                      | 4    |
 | [PAS 608](#608)                  | CM - Pulmonology                             | 2    |
 | [PAS 609](#609)                  | CM - Genitourinary                           | 2    |
