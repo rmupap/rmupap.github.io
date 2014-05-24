@@ -70,7 +70,7 @@ The following table reflects the anticipated courses and corresponding credit ho
 | [PAS 615](#615)                  | CM - Emergency Medicine                      | 3    |
 | [PAS 616](#616)                  | CM - Surgery                                 | 1    |
 | [PAS 617](#617)                  | CM - Musculoskeletal                         | 3    |
-| [PAS 618](#618)                  | Pre-Clinical Seminar                         | 0    |
+| [PAS 699](#699)                  | Pre-Clinical Seminar                         | 0    |
 |                                  | <span style="float:right">**Total**</span>   | 16   |
 
 | **Summer Semester - Year Three** |                                              |      |
