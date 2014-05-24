@@ -12,6 +12,8 @@ The following table reflects the anticipated courses and corresponding credit ho
 
 <span id="curriculum_table"></span>
 
+### Summer Semester - Year One
+
 | **Summer Semester - Year One**   |                                              |     |
 | :------------------------------: | -------------------------------------------- | :-: |
 | [PAS 501](#501)                  | Digitally Literate Reflective Practitioner   | 2   |
@@ -76,19 +78,19 @@ The following table reflects the anticipated courses and corresponding credit ho
 | **Summer Semester - Year Three** |                                              |      |
 | :------------------------------: | -------------------------------------------- | :--: |
 | [PAS 516](#516)                  | Professional Development VI                  | 1    |
-| [PAS 704](#700-2)                | Clinical Rotation                            | 4    |
-| [PAS 705](#700-2)                | Clinical Rotation                            | 4    |
-| [PAS 706](#700-2)                | Clinical Rotation                            | 4    |
-| [PAS 707](#700-2)                | Clinical Rotation                            | 4    |
+| [PAS 704](#700-2)                | Clinical Rotation (4 wk)                     | 4    |
+| [PAS 705](#700-2)                | Clinical Rotation (4 wk)                     | 4    |
+| [PAS 706](#700-2)                | Clinical Rotation (4 wk)                     | 4    |
+| [PAS 707](#700-2)                | Clinical Rotation (4 wk)                     | 4    |
 |                                  | <span style="float:right">**Total**</span>   | 17   |
 
 | **Fall Semester - Year Three**   |                                              |      |
 | :------------------------------: | -------------------------------------------- | :--: |
 | [PAS 517](#517)                  | Professional Development VII                 | 1    |
-| [PAS 708](#700-2)                | Clinical Rotation                            | 4    |
-| [PAS 709](#700-2)                | Clinical Rotation                            | 4    |
-| [PAS 710](#700-2)                | Clinical Rotation                            | 4    |
-| [PAS 711](#700-2)                | Clinical Rotation                            | 4    |
+| [PAS 708](#700-2)                | Clinical Rotation (4 wk)                     | 4    |
+| [PAS 709](#700-2)                | Clinical Rotation (4 wk)                     | 4    |
+| [PAS 710](#700-2)                | Clinical Rotation (4 wk)                     | 4    |
+| [PAS 711](#700-2)                | Clinical Rotation (4 wk)                     | 4    |
 | [PAS 799](#700-2)                | Summative Seminar                            | 0    |
 |                                  | <span style="float:right">**Total**</span>   | 17   |
 
