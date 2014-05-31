@@ -11,11 +11,11 @@ Applicants unable to fulfill these technical standards prior to, or any time aft
 
 Qualifying applicants and enrolled PA program students must possess aptitude, ability, and skills in the following categories:
 
-- **Observation**
-- **Communication**
-- **Sensory and Motor Functions**
-- **Intellectual Conceptualization, Integration, and Quantitation** 
-- **Behavioral and Social Attributes**
+&nbsp;&nbsp;&nbsp;&nbsp;**[➘ Observation](#observation)**  
+&nbsp;&nbsp;&nbsp;&nbsp;**[➘ Communication](#communication)**  
+&nbsp;&nbsp;&nbsp;&nbsp;**[➘ Sensory and Motor Functions](#sensory-and-motor-functions)**  
+&nbsp;&nbsp;&nbsp;&nbsp;**[➘ Intellectual Conceptualization, Integration, and Quantitation](#intellectual-conceptualization-integration-and-quantitation)**  
+&nbsp;&nbsp;&nbsp;&nbsp;**[➘ Behavioral and Social Attributes](#behavioral-and-social-attributes)**  
 
 ## Observation
 
