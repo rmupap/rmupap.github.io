@@ -22,19 +22,19 @@ The following list includes links to program policies pertaining to prospective 
 - [Supervised Clinical Practice][15]
 - [Technology][16]
 
-[01]: {{ site.hubroot }}POLICIES_Academic-Performance-Progression
-[02]: {{ site.hubroot }}POLICIES_Admissions
-[03]: {{ site.hubroot }}POLICIES_Attendance-Participation-Inclement-Weather
-[04]: {{ site.hubroot }}POLICIES_Dress-Standard
-[05]: {{ site.hubroot }}POLICIES_Policy-Administration
-[06]: {{ site.hubroot }}POLICIES_Program-Costs
-[07]: {{ site.hubroot }}POLICIES_SCPEs-Patient-Exposure
-[08]: {{ site.hubroot }}POLICIES_Safety-Infection-Control
-[09]: {{ site.hubroot }}POLICIES_Social-Media
-[10]: {{ site.hubroot }}POLICIES_Student-Advising
-[11]: {{ site.hubroot }}POLICIES_Student-Assessment
-[12]: {{ site.hubroot }}POLICIES_Student-Employment
-[13]: {{ site.hubroot }}POLICIES_Student-Health
-[14]: {{ site.hubroot }}POLICIES_Student-Role-in-Classroom-SCPEs
-[15]: {{ site.hubroot }}POLICIES_Supervised-Clinical-Practice
-[16]: {{ site.hubroot }}POLICIES_Technology
+[01]: {{ site.hubroot }}Academic-Performance-Progression
+[02]: {{ site.hubroot }}Admissions
+[03]: {{ site.hubroot }}Attendance-Participation-Inclement-Weather
+[04]: {{ site.hubroot }}Dress-Standard
+[05]: {{ site.hubroot }}Policy-Administration
+[06]: {{ site.hubroot }}Program-Costs
+[07]: {{ site.hubroot }}SCPEs-Patient-Exposure
+[08]: {{ site.hubroot }}Safety-Infection-Control
+[09]: {{ site.hubroot }}Social-Media
+[10]: {{ site.hubroot }}Student-Advising
+[11]: {{ site.hubroot }}Student-Assessment
+[12]: {{ site.hubroot }}Student-Employment
+[13]: {{ site.hubroot }}Student-Health
+[14]: {{ site.hubroot }}Student-Role-in-Classroom-SCPEs
+[15]: {{ site.hubroot }}Supervised-Clinical-Practice
+[16]: {{ site.hubroot }}Technology
