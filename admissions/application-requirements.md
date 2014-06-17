@@ -64,6 +64,10 @@ backtotoc: '<a href="#toc"><span style="font-size:70%;font-style:bold;float:righ
 
 {% include degree-requirements.md %}
 
+### Prerequisite Course Requirements
+
+Details on prerequisite course requirements can be found on the [Prerequisite Courses](/admissions/prerequisite-courses) page by [clicking here](/admissions/prerequisite-courses). 
+
 ### GPA Requirements
 
 {% include gpa-requirements.md %}

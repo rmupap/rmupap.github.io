@@ -1,4 +1,9 @@
-To be considered for an interview, **all applicants for whom English is a second language must achieve a minimum score of 550** on the paper-based version of the [Test of English as a Foreign Language][toefl] ([TOEFL][toefl]). Official TOEFL scores should be mailed directly to [CASPA]({{site.caspa}}) as described in the '[Standardized Tests][caspa-st]' section of their website:
+To be considered for an interview, **all applicants for whom English is a second language must satisfy at least one of the following requirements:**
+
+1. Successful completion of undergraduate or graduate degree at an institution where English was the primary language of instruction.
+2. Achieve a minimum score of 550 on the paper-based version of the [Test of English as a Foreign Language][toefl] ([TOEFL][toefl]). 
+
+Official TOEFL scores should be mailed directly to [CASPA]({{site.caspa}}) as described in the '[Standardized Tests][caspa-st]' section of their website:
 
 > Official TOEFL Scores should be mailed to CASPA in paper format. They must be original copies of the test and sent to CASPA directly from ETS. CASPA can NOT accept photocopied, faxed, or electronic TOEFL scores. Please mail all official TOEFL scores to:
 > 
