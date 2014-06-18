@@ -4,7 +4,7 @@ title: Admissions
 ---
 
 <p class="message">
-	Welcome to the admissions section of Rocky Mountain University of Health Profession's developing physician assistant program (RMUoHP-PAP)! What an exciting time to pursue your dream of becoming a physician assistant (PA)! We need you now, more than ever!
+	Welcome to the admissions section of Rocky Mountain University of Health Profession's (RMUoHP) developing Physician Assistant (PA) program! What an exciting time to pursue your dream of becoming a PA! We need you now, more than ever!
 </p>
 
 PAs are in high demand--and rightfully so.  **They provide a great breadth and depth of high quality healthcare services. We need dedicated individuals to join the profession and serve as exemplars in filling one of society’s greatest needs**. 
@@ -21,13 +21,14 @@ We invite you to **learn the details of our admissions criteria by navigating to
 
 We sincerely hope our program is a great fit for you, and look forward to receiving your application materials.
 
-### Admissions Criteria Pages
+### Admissions Pages
 
+- [Application Requirements][app-requirements]
 - [Prerequisite Courses][prereqs]
 - [Prerequisite Help Tables][prereqhelptables]
-- [Application Requirements][app-requirements]
+- [Application Analysis Process][analysis]
 
-### More Helpful Pages for Prospective Applicants
+### Additional Helpful Pages for Prospective Applicants
 
 - [Program Highlights][program-highlights] <span style="font-size:70%;font-style:italic;color:grey;"> coming soon!</span>
 - [Frequently Asked Questions][faq]
@@ -39,3 +40,4 @@ We sincerely hope our program is a great fit for you, and look forward to receiv
 [faq]: /admissions/frequently-asked-questions
 [info-web-group]: /admissions/rmuohp-pap-information-group
 [prereqhelptables]: /admissions/prerequisite-help-tables/
+[analysis]: /admissions/application-analysis-process
