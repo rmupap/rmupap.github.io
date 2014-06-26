@@ -232,10 +232,10 @@ Students also learn to perform male and female genitourinary examinations using 
 
 The first two supervised clinical practice experiences (SCPEs) are intentionally designed to place students into the real world of full-time patient care while in the midst of their didactic studies. Students are immersed in the experience of modern medical practice involving clinical reasoning, problem-solving, and accessing, interpreting, and applying high quality evidence-based information at the point-of-care. 
 
-The first two SCPEs are designed to facilitate the clinical problem-solving emphasis of the program's experiential-based curriculum, empowering students with strong clinical perspectives for the remainder of their didactic studies and thus preparing them to grasp concepts of greater complexity. As a result, faculty are able to design and implement more complex learning experiences for the final two didactic semesters. Students are better prepared for and achieve greater depth of understanding resulting in better preparation to more fully engage in their final eight rotations thereafter. Family Medicine and Behavioral Health are chosen specifically to emphasize a relationship-centered, holistic approach to patient care. 
+The first two SCPEs are designed to facilitate the clinical problem-solving emphasis of the program's experiential-based curriculum, empowering students with strong clinical perspectives for the remainder of their didactic studies and thus preparing them to grasp concepts of greater complexity. As a result, faculty are able to design and implement more complex learning experiences for the final two didactic semesters. Students are better prepared for and achieve greater depth of understanding resulting in better preparation to more fully engage in their final eight rotations thereafter. Family Medicine and Primary Care (Behavioral and Mental Health Care emphasis) are chosen specifically to emphasize a relationship-centered, holistic approach to patient care. 
 
-- **Family Medicine Rotation:** This core clinical practice rotation provides an opportunity to learn, understand, and gain supervised experience in practicing the principles of Family Medicine. The focus of this rotation is holistic, outpatient-based, relationship-centered care of patients of all ages. Emphases include prevention and wellness, patient education, and comprehensive management of commonly encountered primary care conditions.
-- **Behavioral Health Rotation:** This core clinical practice rotation provides an opportunity to learn, understand, and gain supervised experience in practicing the principles of behavioral health. Areas of focus include health promotion and wellness as well as diagnosis and treatment of mental health disorers. A biopsychosocial approach to care is emphasized.
+- **Family Medicine Rotation:** This core clinical practice rotation provides an opportunity to learn, understand, and gain supervised experience in practicing the principles of Family Medicine. The focus of this rotation is holistic, outpatient-based, relationship-centered care of patients of all ages. Emphases include management of commonly encountered primary care conditions, evidence-based preventive practices, and patient education.
+- **Primary Care (Behavioral and Mental Health Care emphasis):** This core clinical practice rotation provides an opportunity to learn, understand, and gain supervised experience in practicing the principles of behavioral and mental health care. Areas of focus include diagnosis and treatment of mental health disorders (pharmacotherapeutic and psychotherapeutic), health promotion and wellness, and appreciating the dynamic birectional influences between the psychosocial and all aspects of health and disease. 
 
 {{ page.backtotable }} 
 
@@ -367,19 +367,19 @@ Each four-week core clinical practice rotation provides an opportunity to learn,
 
 Brief descriptions of remaining practice areas are included below: 
 
-- **Primary Care Rotation:** The focus of this preceptorship is evaluation and management of commonly encountered conditions in a medically underserved and/or rural setting for patients of all ages and cultural backgrounds. 
+- **Primary Care (Rural and/or Underserved emphasis):** The focus of this preceptorship is evaluation and management of commonly encountered primary care conditions in a rural and/or medically underserved setting for patients of all ages and cultural backgrounds. 
 - **Internal Medicine Rotation:** The focus of this preceptorship is providing longitudinal health care for patients with chronic health problems.
 - **Pediatrics Rotation:** The focus of this preceptorship is acute and preventive health care for pediatric patients.
 - **Obstetrics/Gynecology Rotation:** Focus for this preceptorship includes obstetrical, gynecologic, and women’s preventive care.
-- **Emergency Medicine Rotation:** Emphasis of this preceptorship is providing emergency medical services.
+- **Emergency Medicine Rotation:** Emphasis of this preceptorship is evaluation and management of emergent medical conditions in the emergency department setting.
 - **General Surgery Rotation:** This rotation provides exposure to the operating room setting and function. The focus of this preceptorship is on evaluation and care of patients with commonly encountered conditions requiring surgical management.
-- **Inpatient Selective Rotation:** This mandatory four-week rotation includes a focus on providing care for patients in the inpatient setting and may be chosen from specialties such as orthopedics, cardiovascular surgery, or neurosurgery.
-- **Open Elective Rotation:** This mandatory elective four-week rotation provides students the opportunity to gain experience in a specific area of interest and may include a medical or surgical subspecialty, academic medicine, or medical research. 
+- **Inpatient Selective Rotation:** This mandatory rotation includes a focus on providing care in the inpatient setting and may be chosen from available medical or surgical (sub)specialty preceptorships with significant inpatient populations. 
+- **Open Elective Rotation:** This mandatory elective rotation provides students the opportunity to gain experience in a specific area of interest and may include a medical or surgical (sub)specialty, academic medicine, or medical research. 
 
 {{ page.backtotable }}  
 
 <h4 class="" id="799">PAS 799 Summative Seminar</h4> 
 
-The purpose of this pass/fail seminar is twofold: 1) for students to demonstrate knowledge, patient care skills, and professional competency sufficient to function as an entry-level physician assistant and 2) to prepare graduation candidates for the physician assistant national certifying examination (PANCE).
+The purpose of this pass/fail seminar is twofold: 1) for students to demonstrate knowledge, patient care skills, and professional competency sufficient to function as an entry-level physician assistant and 2) to prepare graduation candidates for the Physician Assistant National Certifying Examination (PANCE).
 
 {{ page.backtotable }} 
