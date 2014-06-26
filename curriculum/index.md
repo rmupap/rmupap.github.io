@@ -235,7 +235,7 @@ The first two supervised clinical practice experiences (SCPEs) are intentionally
 The first two SCPEs are designed to facilitate the clinical problem-solving emphasis of the program's experiential-based curriculum, empowering students with strong clinical perspectives for the remainder of their didactic studies and thus preparing them to grasp concepts of greater complexity. As a result, faculty are able to design and implement more complex learning experiences for the final two didactic semesters. Students are better prepared for and achieve greater depth of understanding resulting in better preparation to more fully engage in their final eight rotations thereafter. Family Medicine and Primary Care (Behavioral and Mental Health Care emphasis) are chosen specifically to emphasize a relationship-centered, holistic approach to patient care. 
 
 - **Family Medicine Rotation:** This core clinical practice rotation provides an opportunity to learn, understand, and gain supervised experience in practicing the principles of Family Medicine. The focus of this rotation is holistic, outpatient-based, relationship-centered care of patients of all ages. Emphases include management of commonly encountered primary care conditions, evidence-based preventive practices, and patient education.
-- **Primary Care (Behavioral and Mental Health Care emphasis):** This core clinical practice rotation provides an opportunity to learn, understand, and gain supervised experience in practicing the principles of behavioral and mental health care. Areas of focus include diagnosis and treatment of mental health disorders (pharmacotherapeutic and psychotherapeutic), health promotion and wellness, and appreciating the dynamic birectional influences between the psychosocial and all aspects of health and disease. 
+- **Primary Care Rotation (Behavioral and Mental Health Care emphasis):** This core clinical practice rotation provides an opportunity to learn, understand, and gain supervised experience in practicing the principles of behavioral and mental health care. Areas of focus include diagnosis and treatment of mental health disorders (pharmacotherapeutic and psychotherapeutic), health promotion and wellness, and appreciating the dynamic birectional influences between the psychosocial and all aspects of health and disease. 
 
 {{ page.backtotable }} 
 
@@ -367,7 +367,7 @@ Each four-week core clinical practice rotation provides an opportunity to learn,
 
 Brief descriptions of remaining practice areas are included below: 
 
-- **Primary Care (Rural and/or Underserved emphasis):** The focus of this preceptorship is evaluation and management of commonly encountered primary care conditions in a rural and/or medically underserved setting for patients of all ages and cultural backgrounds. 
+- **Primary Care Rotation (Rural and/or Underserved Care emphasis):** The focus of this preceptorship is evaluation and management of commonly encountered primary care conditions in a rural and/or medically underserved setting for patients of all ages and cultural backgrounds. 
 - **Internal Medicine Rotation:** The focus of this preceptorship is providing longitudinal health care for patients with chronic health problems.
 - **Pediatrics Rotation:** The focus of this preceptorship is acute and preventive health care for pediatric patients.
 - **Obstetrics/Gynecology Rotation:** Focus for this preceptorship includes obstetrical, gynecologic, and women’s preventive care.
