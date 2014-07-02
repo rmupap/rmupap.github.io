@@ -10,7 +10,7 @@ All applicants **must complete the required prerequisite coursework in the table
 
 ## Prerequisite Timeline Requirements
 
-To be considered for the Physician Assistant Program, <span class="highlight">each prerequisite course highlighted below must have been completed within ten years of the cohort start date</span>.
+To be considered for the Physician Assistant Program, <span class="highlight">each prerequisite course highlighted below must have been completed within ten years of the cohort start date</span>. Additionally, credits must have been earned from a regionally accredited institution or accepted by a [National Association of Credentialing Evaluation Services](http://www.naces.org/) ([NACES](http://www.naces.org/)) accredited U.S. equivalency reporting agency ([click for more information](http://rmupap.github.io/admissions/application-requirements/#foreign-student-applicants)).
 
 | Course                                                              | Description                                                                                                                      | Semester Credits   |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------         | :----------------: |
@@ -18,7 +18,7 @@ To be considered for the Physician Assistant Program, <span class="highlight">ea
 | <span class="highlight">Human Physiology w lab</span>[^physiology]  | Course covering human physiologic processes designed for Biology or Physiology majors.                                           | 4                  |
 | **General Biology w lab**                                           | General biology course designed for Biology or Physiology majors.[^bio]                                                          | 4                  |
 | <span class="highlight">Microbiology w lab</span>                   | This course **does not** have to be one designed for Microbiology majors.                                                        | 4                  |
-| **General Chemistry Course Series w lab**                           | Course series designed for Chemistry majors. A course series meeting degree requirements for Biology majors are also acceptable. | 8-10                  |
+| **General Chemistry Course Series w lab**                           | Course series designed for Chemistry majors. A course series meeting degree requirements for Biology majors are also acceptable. | 8-10               |
 | <span class="highlight">Statistics</span>[^stats]                   | 100-level or higher course directed towards an understanding of foundational statistics.                                         | 2-3                |
 | **College Algebra or Higher**                                       | 100-level or higher course covering the foundations of Algebra. A calculus course fulfills this requirement.                     | 3                  |
 | **Psychology**                                                      | 100-level or higher introductory or abnormal psychology course. Both are highly recommended.                                     | 3                  |
