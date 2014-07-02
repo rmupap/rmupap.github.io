@@ -1,4 +1,4 @@
-To be considered for an interview, **applicants must have 250 hours or more of direct patient contact experience**. 
+To be considered for an interview **applicants must have 250 hours or more of direct patient contact experience** documented in CASPA at the time of e-submission. 
 
 Examples of **specific positions that would qualify for direct patient contact experience include** but are not limited to:  
 
