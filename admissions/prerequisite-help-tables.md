@@ -21,8 +21,8 @@ published: true
 <li><a href="#uvu">➘ Utah Valley University (UVU)</a></li>
 <li><a href="#uofu">➘ University of Utah (UofU)</a></li>
 <li><a href="#usu">➘ Utah State University (USU)</a></li>
-<li><a href="#weberst">➘ Weber State University</a> <span style="font-size:70%;font-style:italic;color:grey;"> coming soon!</span></li>
-<li><a href="#dixiest">➘ Dixie State College of Utah</a> <span style="font-size:70%;font-style:italic;color:grey;"> coming soon!</span></li>
+<li><a href="#weberst">➘ Weber State University (WSU)</a></li>
+<li><a href="#dixiest">➘ Dixie State University (DSU)</a></li>
 <li><a href="#westminster">➘ Westminster College</a> <span style="font-size:70%;font-style:italic;color:grey;"> coming soon!</span></li>
 <li><a href="#suu">➘ Southern Utah University (SUU)</a> <span style="font-size:70%;font-style:italic;color:grey;"> coming soon!</span></li>
 </ul>
@@ -93,35 +93,35 @@ published: true
 
 {{ page.backtolist }}
 
-<h2 class="univ-heading-weberst" id="weberst">Weber State University</h2>   
+<h2 class="univ-heading-weberst" id="weberst">Weber State University (WSU)</h2>   
 
-|   **PREREQUISITE**   |           **COURSE, COURSE SERIES, or COURSE COMBO**           |
-|----------------------|----------------------------------------------------------------|
-| **Human Anatomy**    | ZOOL-2100{{ page.4h }}                                         |
-| **Human Physiology** | ZOOL-2200{{ page.4h }}                                         |
-| **General Biology**  | ZOOL-1110{{ page.4h }}                                         |
-| **Microbiology**     | MICR-2054{{ page.4h }} **--OR--** MICR-3305{{ page.5h }}       |
+|   **PREREQUISITE**   |         **COURSE, COURSE SERIES, or COURSE COMBO**        |
+|----------------------|-----------------------------------------------------------|
+| **Human Anatomy**    | ZOOL-2100{{ page.4h }}                                    |
+| **Human Physiology** | ZOOL-2200{{ page.4h }}                                    |
+| **General Biology**  | ZOOL-1110{{ page.4h }}                                    |
+| **Microbiology**     | MICR-2054{{ page.4h }} **--OR--** MICR-3305{{ page.5h }}  |
 | **General Chem**     | CHEM-1210{{ page.5h }} **--AND--** CHEM-1220{{ page.5h }} |
-| **Statistics**       | MATH-1040{{ page.3h }} **--OR--** PSY-3600{{ page.3h }}        |
-| **Math**             | MATH-1050{{ page.4h }} or higher                               |
-| **Psychology**       | PSY-1010{{ page.3h }} **--OR--** PSY-3010{{ page.3h }}         |
-| **Med Terminology**  | HTHS-1101{{ page.2h }}                                         |
+| **Statistics**       | MATH-1040{{ page.3h }} **--OR--** PSY-3600{{ page.3h }}   |
+| **Math**             | MATH-1050{{ page.4h }} or higher                          |
+| **Psychology**       | PSY-1010{{ page.3h }} **--OR--** PSY-3010{{ page.3h }}    |
+| **Med Terminology**  | HTHS-1101{{ page.2h }}                                    |
 
 {{ page.backtolist }}
 
-<h2 class="univ-heading-dixiest" id="dixiest">Dixie State College of Utah</h2>   
+<h2 class="univ-heading-dixiest" id="dixiest">Dixie State University</h2>   
 
-|   **PREREQUISITE**   | **COURSE, COURSE SERIES, or COURSE COMBO** |
-|----------------------|--------------------------------------------|
-| **Human Anatomy**    | coming soon                                |
-| **Human Physiology** | coming soon                                |
-| **General Biology**  | coming soon                                |
-| **Microbiology**     | coming soon                                |
-| **General Chem**     | coming soon                                |
-| **Statistics**       | coming soon                                |
-| **Math**             | coming soon                                |
-| **Psychology**       | coming soon                                |
-| **Med Terminology**  | coming soon                                |
+|   **PREREQUISITE**   |                                            **COURSE, COURSE SERIES, or COURSE COMBO**                                            |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| **Human Anatomy**    | BIOL-2320{{ page.3h }} & BIOL-2325 {{ page.2h }} _combo_                                                                         |
+| **Human Physiology** | BIOL-2420{{ page.3h }} & BIOL-2425 {{ page.1h }} _combo_                                                                         |
+| **General Biology**  | BIOL-1610{{ page.4h }} & BIOL-1615{{ page.1h }} _combo_                                                                          |
+| **Microbiology**     | BIOL-2060{{ page.3h }} & BIOL-2065{{ page.1h }} _combo_                                                                          |
+| **General Chem**     | CHEM-1210{{ page.4h }} & CHEM-1215{{ page.1h }} _combo_ <br/>**--AND--** CHEM-1220{{ page.4h }} & CHEM-1225{{ page.1h }} _combo_ |
+| **Statistics**       | MATH-1040{{ page.3h }} **--OR--** STAT-2040{{ page.4h }}                                                                         |
+| **Math**             | MATH-1050{{ page.4h }} or higher                                                                                                 |
+| **Psychology**       | PSY-1010{{ page.3h }} **--OR--** PSY-3400{{ page.3h }}                                                                           |
+| **Med Terminology**  | HLOC-1000{{ page.2h }}                                                                                                           |
 
 {{ page.backtolist }}
 
