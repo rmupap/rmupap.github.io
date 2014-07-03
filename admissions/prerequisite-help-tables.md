@@ -101,7 +101,7 @@ published: true
 | **Human Physiology** | ZOOL-2200{{ page.4h }}                                         |
 | **General Biology**  | ZOOL-1110{{ page.4h }}                                         |
 | **Microbiology**     | MICR-2054{{ page.4h }} **--OR--** MICR-3305{{ page.5h }}       |
-| **General Chem**     | CHEM-1210{{ page.5h }} <br/>**--AND--** CHEM-1220{{ page.5h }} |
+| **General Chem**     | CHEM-1210{{ page.5h }} **--AND--** CHEM-1220{{ page.5h }} |
 | **Statistics**       | MATH-1040{{ page.3h }} **--OR--** PSY-3600{{ page.3h }}        |
 | **Math**             | MATH-1050{{ page.4h }} or higher                               |
 | **Psychology**       | PSY-1010{{ page.3h }} **--OR--** PSY-3010{{ page.3h }}         |
