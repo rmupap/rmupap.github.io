@@ -5,6 +5,7 @@ title: Prerequisite Help Tables
 2h: "<sup><span style=\"color:#afafaf;background-color:#ffffff;font-size:90%;border:1px solid #D8D3FF;border-radius:100%;padding:0rem .3rem 0rem .25rem;margin-left:.15rem;\">2</span></sup>"
 3h: "<sup><span style=\"color:#afafaf;background-color:#ffffff;font-size:90%;border:1px solid #D8D3FF;border-radius:100%;padding:0rem .3rem 0rem .25rem;margin-left:.15rem;\">3</span></sup>"
 4h: "<sup><span style=\"color:#afafaf;background-color:#ffffff;font-size:90%;border:1px solid #D8D3FF;border-radius:100%;padding:0rem .3rem 0rem .25rem;margin-left:.15rem;\">4</span></sup>"
+5h: "<sup><span style=\"color:#afafaf;background-color:#ffffff;font-size:90%;border:1px solid #D8D3FF;border-radius:100%;padding:0rem .3rem 0rem .25rem;margin-left:.15rem;\">5</span></sup>"
 backtolist: "<a href=\"#list\"><span style=\"font-size:70%;font-style:bold;float:right;margin-top:-24px;margin-right:-8px;\">back to list</span></a>"
 published: true
 ---
@@ -83,7 +84,7 @@ published: true
 | **Human Anatomy**    | BIOL-2320{{ page.4h }}                                                                                                           |
 | **Human Physiology** | BIOL-2420{{ page.4h }}                                                                                                           |
 | **General Biology**  | BIOL-1610{{ page.4h }}                                                                                                           |
-| **Microbiology**     | BIOL-2060{{ page.4h }} **--OR--** BIOL-3300{{ page.4h }}                                                                                                      |
+| **Microbiology**     | BIOL-2060{{ page.4h }} **--OR--** BIOL-3300{{ page.4h }}                                                                         |
 | **General Chem**     | CHEM-1210{{ page.4h }} & CHEM-1215{{ page.1h }} _combo_ <br/>**--AND--** CHEM-1220{{ page.4h }} & CHEM-1225{{ page.1h }} _combo_ |
 | **Statistics**       | STAT-1040{{ page.3h }} **--OR--** STAT-3000{{ page.4h }}                                                                         |
 | **Math**             | MATH-1050{{ page.4h }} or higher                                                                                                 |
@@ -94,17 +95,17 @@ published: true
 
 <h2 class="univ-heading-weberst" id="weberst">Weber State University</h2>   
 
-|   **PREREQUISITE**   | **COURSE, COURSE SERIES, or COURSE COMBO** |
-|----------------------|--------------------------------------------|
-| **Human Anatomy**    | coming soon                                |
-| **Human Physiology** | coming soon                                |
-| **General Biology**  | coming soon                                |
-| **Microbiology**     | coming soon                                |
-| **General Chem**     | coming soon                                |
-| **Statistics**       | coming soon                                |
-| **Math**             | coming soon                                |
-| **Psychology**       | coming soon                                |
-| **Med Terminology**  | coming soon                                |
+|   **PREREQUISITE**   |           **COURSE, COURSE SERIES, or COURSE COMBO**           |
+|----------------------|----------------------------------------------------------------|
+| **Human Anatomy**    | ZOOL-2100{{ page.4h }}                                         |
+| **Human Physiology** | ZOOL-2200{{ page.4h }}                                         |
+| **General Biology**  | ZOOL-1110{{ page.4h }}                                         |
+| **Microbiology**     | MICR-2054{{ page.4h }} **--OR--** MICR-3305{{ page.5h }}       |
+| **General Chem**     | CHEM-1210{{ page.5h }} <br/>**--AND--** CHEM-1220{{ page.5h }} |
+| **Statistics**       | MATH-1040{{ page.3h }} **--OR--** PSY-3600{{ page.3h }}        |
+| **Math**             | MATH-1050{{ page.4h }} or higher                               |
+| **Psychology**       | PSY-1010{{ page.3h }} **--OR--** PSY-3010{{ page.3h }}         |
+| **Med Terminology**  | HTHS-1101{{ page.2h }}                                         |
 
 {{ page.backtolist }}
 

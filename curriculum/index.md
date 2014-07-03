@@ -26,7 +26,7 @@ The following table reflects the anticipated courses and corresponding credit ho
 
 | **Prefix**                       | **Course Title**                             | #    |
 | :------------------------------: | -------------------------------------------- | :--: |
-| [PAS 511](#511)                  | Professsional Development I                  | 1    |
+| [PAS 511](#511)                  | Professional Development I                  | 1    |
 | [PAS 691](#691)                  | Patient-Centered Care I                      | 2    |
 | [PAS 505](#505)                  | Applied Human Anatomy                        | 4    |
 | [PAS 506](#506)                  | Medical Physiology                           | 3    |
@@ -43,7 +43,7 @@ The following table reflects the anticipated courses and corresponding credit ho
 | [PAS 602](#602)                  | CM - Hematology/Oncology                     | 2    |
 | [PAS 603](#603)                  | CM - Endocrinology                           | 3    |
 | [PAS 604](#604)                  | CM - Infectious Disease                      | 2    |
-| [PAS 605](#605)                  | CM - Eyes, Ears, Nost, Throat (EENT)         | 2    |
+| [PAS 605](#605)                  | CM - Eyes, Ears, Nose, Throat (EENT)         | 2    |
 |                                  | <span style="float:right">**Total**</span>   | 16   |
 
 ### Summer Semester - Year Two
@@ -114,13 +114,13 @@ The following table reflects the anticipated courses and corresponding credit ho
 
 <h4 class="" id="501">PAS 501 Digitally Literate Reflective Practitioner</h4> 
 
-This course addresses the ever-changing use of technology in academic and healthcare settings. Students are empowered to become more effective and efficient learners and clinicians by grasping critical digital concepts and mastering multiple technologies. An emphasis on learning theory serves as a consistent thread for the duration of this course, with particular focus on how the latest technologies can support evidence-based educational approaches to maximizing learning in adults. Students discover how they can optimize patient care through reflective practice, high proficiency digital literacy, and dedication to evidence-based practice and lifelong-learning. Topics covered include but are not limited to: personal knowledge management, cloud and web-based data synchronization, personalized search aggregation, and real-time collaborative problem-solving and documentation. Moreover, students are challenged via clinical case vignettes to apply learned skills, demonstrating proficiences related to computerized documentation, point-of-care clinical information resources, collaborative networking, and human-computer-patient interface optimization.
+This course addresses the ever-changing use of technology in academic and healthcare settings. Students are empowered to become more effective and efficient learners and clinicians by grasping critical digital concepts and mastering multiple technologies. An emphasis on learning theory serves as a consistent thread for the duration of this course, with particular focus on how the latest technologies can support evidence-based educational approaches to maximizing learning in adults. Students discover how they can optimize patient care through reflective practice, high proficiency digital literacy, and dedication to evidence-based practice and lifelong-learning. Topics covered include but are not limited to: personal knowledge management, cloud and web-based data synchronization, personalized search aggregation, and real-time collaborative problem solving and documentation. Moreover, students are challenged via clinical case vignettes to apply learned skills, demonstrating proficiencies related to computerized documentation, point-of-care clinical information resources, collaborative networking, and human-computer-patient interface optimization.
 
 {{ page.backtotable }} 
 
 <h4 class="" id="502">PAS 502 History and Physical Exam</h4> 
 
-This course challenges students to develop the knowledge and skills required to competently elicit a comprehensive and problem-specific medical history. Students are taught principles of physical examination and develop foundational skills including inspection, auscultation, percussion, and palpation. Focus on normal exam findings are emphasized to provide students a solid foundation for recognition of abnormal findings in later courses and eventual practice. Recording and documentation of medical records is introduced and practiced. This course focuses on adult exam and documentation. Specific material for pediatric and geriatric examination is addressed in their respective courses.
+This course challenges students to develop the knowledge and skills required to competently elicit a comprehensive and problem-specific medical history. Students are taught principles of physical examination and develop foundational skills including inspection, auscultation, percussion, and palpation. A focus on normal exam findings are emphasized to provide students a solid foundation for recognition of abnormal findings in later courses and eventual practice. Recording and documentation of medical records is introduced and practiced. This course focuses on adult exam and documentation. Specific material for pediatric and geriatric examination is addressed in their respective courses.
 
 {{ page.backtotable }}
 
@@ -184,19 +184,19 @@ The patient-centered care (PCC) sequence of courses is designed to challenge stu
 
 <h4 class="" id="601">PAS 601 Behavioral Dynamics</h4> 
 
-This foundational course explores the psychosocial aspects of medicine. Students develop interpersonal and communication skills necessary to effectively communicate with patients and other healthcare professionals. Treatment are discussed from a biopsychological perspective with reference to psychotherapies, psychopharmacology, and environmental intervention. Recognition and management of common psychiatric and psychosocial problems encountered in primary care are highlighted. Indications for referral and hospitalization are discussed. Topics covered include but not be limited to: anxiety disorders, mood disorders, psychosis, substance use disorders, personality disorders, eating disorders, and psychiatric emergencies and crises. Case-based learning and role-play is employed to provide enhanced understanding of applying evidence-based practices to individual patient needs and circumstances.
+This foundational course explores the psychosocial aspects of medicine. Students develop interpersonal and communication skills necessary to effectively communicate with patients and other healthcare professionals. Treatments are discussed from a biopsychosocial perspective with reference to psychotherapies, psychopharmacology, and environmental intervention. Recognition and management of common psychiatric and psychosocial problems encountered in primary care are highlighted. Indications for referral and hospitalization are discussed. Topics covered include but not be limited to: anxiety disorders, mood disorders, psychosis, substance use disorders, personality disorders, eating disorders, and psychiatric emergencies and crises. Case-based learning and role-play is employed to provide enhanced understanding of applying evidence-based practices to individual patient needs and circumstances.
 
 {{ page.backtotable }} 
 
 <h4 class="" id="602">PAS 602 Hematology/Oncology</h4> 
 
-This course is a clinical medicine (CM) modular course using an organ-systems approach to facilitate student learning in the study of hematology and oncology. Focus includes commonly encountered medical issues affecting hematopoiesis, hemostasis, and the lymphoid organs. Topics emphasized include clinical presentation, epidemiology, pathophysiology, patient assessment, diagnosis, pathology, therapeutic interventions, disease management, and clinical course of common disorers. This course also includes introductory oncology content, with a focus on the global clinical aspects of cancer screening, diagnosis, staging, and therapeutic intervention. Organ-specific cancers are primarily discussed in corresponding CM modular courses.
+This course is a clinical medicine (CM) modular course using an organ-systems approach to facilitate student learning in the study of hematology and oncology. Focus includes commonly encountered medical issues affecting hematopoiesis, hemostasis, and the lymphoid organs. Topics emphasized include clinical presentation, epidemiology, pathophysiology, patient assessment, diagnosis, pathology, therapeutic interventions, disease management, and clinical course of common disorders. This course also includes introductory oncology content, with a focus on the global clinical aspects of cancer screening, diagnosis, staging, and therapeutic intervention. Organ-specific cancers are primarily discussed in corresponding CM modular courses.
 
 {{ page.backtotable }} 
 
 <h4 class="" id="603">PAS 603 Endocrinology</h4> 
 
-This course is a clinical medicine (CM) modular course using an organ-systems approach to facilitate student learning in the study of endocrinology. Commonly encountered medical problems primarily affecting metabolism and organs of the endocrine system are examined. Topic emphasized include clinical presentation, epidemiology, pathophysiology, patient assessment, diagnosis, pathology, therapeutic interventions, management, and clinical course of common diseases. 
+This course is a clinical medicine (CM) modular course using an organ-systems approach to facilitate student learning in the study of endocrinology. Commonly encountered medical problems primarily affecting metabolism and organs of the endocrine system are examined. Topics emphasized include clinical presentation, epidemiology, pathophysiology, patient assessment, diagnosis, pathology, therapeutic interventions, management, and clinical course of common diseases. 
 
 {{ page.backtotable }} 
 
@@ -230,12 +230,12 @@ Students also learn to perform male and female genitourinary examinations using 
 
 <h4 class="" id="700-1">PAS 702-703 Supervised Clinical Practice Experiences</h4> 
 
-The first two supervised clinical practice experiences (SCPEs) are intentionally designed to place students into the real world of full-time patient care while in the midst of their didactic studies. Students are immersed in the experience of modern medical practice involving clinical reasoning, problem-solving, and accessing, interpreting, and applying high quality evidence-based information at the point-of-care. 
+The first two supervised clinical practice experiences (SCPEs) are intentionally designed to place students into the real world of full-time patient care while in the midst of their didactic studies. Students are immersed in the experience of modern medical practice involving clinical reasoning, problem solving, and accessing, interpreting, and applying high quality evidence-based information at the point-of-care. 
 
 The first two SCPEs are designed to facilitate the clinical problem-solving emphasis of the program's experiential-based curriculum, empowering students with strong clinical perspectives for the remainder of their didactic studies and thus preparing them to grasp concepts of greater complexity. As a result, faculty are able to design and implement more complex learning experiences for the final two didactic semesters. Students are better prepared for and achieve greater depth of understanding resulting in better preparation to more fully engage in their final eight rotations thereafter. Family Medicine and Primary Care (Behavioral and Mental Health Care emphasis) are chosen specifically to emphasize a relationship-centered, holistic approach to patient care. 
 
 - **Family Medicine Rotation:** This core clinical practice rotation provides an opportunity to learn, understand, and gain supervised experience in practicing the principles of Family Medicine. The focus of this rotation is holistic, outpatient-based, relationship-centered care of patients of all ages. Emphases include management of commonly encountered primary care conditions, evidence-based preventive practices, and patient education.
-- **Primary Care Rotation (Behavioral and Mental Health Care emphasis):** This core clinical practice rotation provides an opportunity to learn, understand, and gain supervised experience in practicing the principles of behavioral and mental health care. Areas of focus include diagnosis and treatment of mental health disorders (pharmacotherapeutic and psychotherapeutic), health promotion and wellness, and appreciating the dynamic birectional influences between the psychosocial and all aspects of health and disease. 
+- **Primary Care Rotation (Behavioral and Mental Health Care emphasis):** This core clinical practice rotation provides an opportunity to learn, understand, and gain supervised experience in practicing the principles of behavioral and mental health care. Areas of focus include diagnosis and treatment of mental health disorders (pharmacotherapeutic and psychotherapeutic), health promotion and wellness, and appreciating the dynamic bidirectional influences between the psychosocial and all aspects of health and disease. 
 
 {{ page.backtotable }} 
 
@@ -323,7 +323,7 @@ This course examines important aspects of primary care pediatrics including asse
 
 <h4 class="" id="615">PAS 615 Emergency Medicine</h4> 
 
-This course provides fundamental instruction on the recognition and management of life-threatening patient presentations. Problem-based case studies and team-based activities are utilized extensively in this course. Team-work, collaboration, cooperation, and valuing interdisciplinary contributions to managing patients is emphasized. BLS and ACLS certification is included as part of this course.
+This course provides fundamental instruction on the recognition and management of life-threatening patient presentations. Problem-based case studies and team-based activities are utilized extensively in this course. Team work, collaboration, cooperation, and valuing interdisciplinary contributions to managing patients is emphasized. BLS and ACLS certification is included as part of this course.
 
 {{ page.backtotable }} 
 
@@ -361,7 +361,7 @@ This course is the seventh in a series designed to integrate the principles of p
 
 <h4 class="" id="700-2">PAS 704-711 Supervised Clinical Practice Experiences</h4> 
 
-The final set of supervised clinical practice experiences (SCPEs) are the culminating learning activities for students in the physician assistant program. Over the course of the final two semesters, students participate in eight full-time core rotations including an inpatient selective and one open elective in any of the medical specialties or subspecialties, medical research, or medical academia. During each rotation students work with certified practicing clinicians (referred to as preceptors) and actively participate in the delivery of patient-centered care as part of the health care team. 
+The final set of supervised clinical practice experiences (SCPEs) serve as the culminating learning activities for students in the physician assistant program. Over the course of the final two semesters, students participate in eight full-time core rotations including an inpatient selective and one open elective in any of the medical specialties or subspecialties, medical research, or medical academia. During each rotation students work with certified practicing clinicians (referred to as preceptors) and actively participate in the delivery of patient-centered care as part of the health care team. 
 
 Each four-week core clinical practice rotation provides an opportunity to learn, understand, and gain supervised experience in practicing principles associated with rotation specific experiences. 
 
