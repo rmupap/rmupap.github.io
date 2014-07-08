@@ -1,3 +1,3 @@
-<span class="highlight">The application cycle for the inaugural class</span> anticipated to matriculate on June 1st, 2015, pending achieving 'Accreditation-Provisional' status in March 2015, <span class="highlight">will run from April 21st, 2014 through January 2015</span>. Interested individuals must apply through the [Central Application Service for Physician Assistants][caspa] ([CASPA][caspa]).
+<span class="highlight">The application cycle for the inaugural class</span> anticipated to matriculate on May 11, 2015, pending achieving 'Accreditation-Provisional' status in March 2015, <span class="highlight">will run from April 21, 2014 through January 2015</span>. Interested individuals must apply through the [Central Application Service for Physician Assistants][caspa] ([CASPA][caspa]).
 
 [caspa]: https://portal.caspaonline.org/

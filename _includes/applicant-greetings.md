@@ -1,1 +1,1 @@
-Thank you for your interest in the Rocky Mountain University of Health Professions Physician Assistant Program (RMUoHP-PAP). **We are excited to provide an innovative new program designed to educate reflective professionals who value and practice evidence-based, patient-centered care!**
+Thank you for your interest in the Rocky Mountain University of Health Professions (RMUoHP) Physician Assistant (PA) Program. **We are excited to provide an innovative new program designed to educate reflective professionals who value and practice evidence-based, patient-centered care!**

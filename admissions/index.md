@@ -27,6 +27,7 @@ We sincerely hope our program is a great fit for you, and look forward to receiv
 - [Prerequisite Courses][prereqs]
 - [Prerequisite Help Tables][prereqhelptables]
 - [Application Analysis Process][analysis]
+- [Post-Acceptance Requirements][post-acceptance-requirements]
 
 ### Additional Helpful Pages for Prospective Applicants
 
@@ -41,3 +42,4 @@ We sincerely hope our program is a great fit for you, and look forward to receiv
 [info-web-group]: /admissions/rmuohp-pap-information-group
 [prereqhelptables]: /admissions/prerequisite-help-tables/
 [analysis]: /admissions/application-analysis-process
+[post-acceptance-requirements]: /admissions/post-acceptance-requirements
