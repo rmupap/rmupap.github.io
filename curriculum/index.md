@@ -4,11 +4,11 @@ title: Curriculum
 backtotable: "<a href=\"#curriculum_table\"><span style=\"font-size:70%;font-style:bold;float:right;margin-top:-20px;margin-right:-8px;\">back to table</span></a>"
 ---
 
-The Rocky Mountain University of Health Professions Physician Assistant Program (RMUoHP-PAP) has a dynamic curriculum, designed to educate clinicians with the knowledge and skills needed to thrive in our digitally pervasive world of complexity, diversity, and rapid change.
+The Rocky Mountain University of Health Professions (RMUoHP) Physician Assistant (PA) Program has a dynamic curriculum, designed to educate clinicians with the knowledge and skills needed to thrive in our digitally pervasive world of complexity, diversity, and rapid change.
 
 ## Anticipated Curriculum (At-A-Glance)
 
-The following table reflects the anticipated courses and corresponding credit hours that are included in the PA Program curriculum. Course descriptions are included below.
+The following table reflects the anticipated courses and corresponding credit hours included in the RMUoHP PA Program curriculum. Course descriptions are included below.
 
 <span id="curriculum_table"></span>
 

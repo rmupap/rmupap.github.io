@@ -15,7 +15,7 @@ The elderly population will double in the United States over the next 10-15 year
 
 <img src="{{site.imagepath}}/pastudents.jpg" style="max-width:100%; margin-left:auto; margin-right:auto; margin-top:1.2rem;">
 
-There has never been a better time to consider becoming a Physician Assistant.  The profession is amazing!  It’s flourishing now more than ever.
+There has never been a better time to consider becoming a PA.  The profession is amazing!  It’s flourishing now more than ever.
 
 We invite you to **learn the details of our admissions criteria by navigating to, and carefully reading through, the information on the pages listed below.** Links are provided below and also included in the navigation bar for your convenience. 
 

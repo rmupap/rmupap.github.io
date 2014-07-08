@@ -10,7 +10,7 @@ backtolist: "<a href=\"#list\"><span style=\"font-size:70%;font-style:bold;float
 published: true
 ---
 
-<p>We have included below help tables listing courses available at Universities and Colleges throughout Utah that meet prerequisite course requirements for <strong>Rocky Mountain University of Health Professions Physician Assistant Program</strong>.</p>
+<p>We have included below help tables listing courses available at Universities and Colleges throughout Utah that meet prerequisite course requirements for <strong>Rocky Mountain University of Health Professions (RMUoHP) Physician Assistant (PA) Program</strong>.</p>
 
 <p class="message"><strong>PLEASE NOTE:</strong> We strive to be as accurate as possible in completing the tables below. However, there may be courses that qualify for particular prerequisites that are not listed. Also important... the tables below are designed to highlight undergraduate-level courses meeting the prerequisites. If you have taken a graduate-level course you feel qualifies for a prerequisite, just ask!</p>
 

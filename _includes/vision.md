@@ -1,4 +1,4 @@
-The vision of RMUoHP-PAP is to:
+The vision of the RMUoHP PA Program is to:
 
 - foster a **culture of growth mindedness, unity of purpose, collegiality, and insatiable thirst for learning**, 
 - deliver a richly balanced, **application-based curriculum centered on critical principles** of health and disease,

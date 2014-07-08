@@ -5,7 +5,7 @@ title: Application Analysis Process
 
 Admission to the Rocky Mountain University of Health Professions (RMUoHP) Physician Assistant (PA) program is highly competitive. Individuals who submit applications meeting the minimum qualifications as described on the [Application Requirements](/admissions/application-requirements) and [Prerequisite Courses](/admissions/prerequisite-courses) pages will have their applications scored on a 100-point scale. Program Admissions Committee (PAC) members consider multiple factors in the scoring process including: 
 
-- perceived ability to successfully complete the RMUoHP PA educational program,
+- perceived ability to successfully complete the RMUoHP PA Program,
 - demonstrated communication and interpersonal skills, 
 - emotional maturity and life experiences, 
 - awareness of physician assistant roles and responsibilities, and 
@@ -49,7 +49,7 @@ Factors affecting scoring in this area include but are not limited to:
 - depth of responsibility and influence, and 
 - contact with PAs and other health care practitioners. 
 
-Please refer to the [Health Care Experience](/admissions/application-requirements/#health-care-experience) subsection of the 'Application Requirements' page for details on the PA program's goals, requirements, and expectations regarding acquisition of health care experience hours. 
+Please refer to the [Health Care Experience](/admissions/application-requirements/#health-care-experience) subsection of the 'Application Requirements' page for details on the PA Program's goals, requirements, and expectations regarding acquisition of health care experience hours. 
 
 ### Social Engagement
 
@@ -75,8 +75,8 @@ Personal narratives are assessed by evaluating the ability of applicants to arti
 - strengths upon which they can build to become excellent practitioners, and 
 - career aspirations.  
 
-Additional considerations include but are not limited to: clarity of purpose, style and voice, and professionalism.
+Additional considerations include but are not limited to: clarity of purpose, style, voice, and professionalism.
 
 ### References
 
-References provide an opportunity for program faculty to examine external perspectives of applicants' potential for success. Applicants are encouraged to choose references who are able to comment on the categories described above. **It is strongly recommended that at minimum one of these references be from a physician assistant or physician.**
+References provide an opportunity for program faculty to examine external perspectives of applicants' potential for success. Applicants are encouraged to choose references who are able to comment on the categories described above. **It is strongly recommended that at minimum one of these references be from a PA or physician.**

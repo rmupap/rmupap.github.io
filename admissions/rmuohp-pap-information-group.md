@@ -1,9 +1,9 @@
 ---
 layout: page
-title: RMUoHP-PAP Information Group
+title: RMUoHP PA Program Information Group
 ---
 
-Welcome to the **Rocky Mountain University of Health Professions Physician Assistant Program (RMUoHP-PAP)** Information Web Group.
+Welcome to the **Rocky Mountain University of Health Professions (RMUoHP) Physician Assistant (PA) Program** information web group.
 
 Please make sure you have carefully read through the following pages prior to submitting questions via the web group: [Accreditation][accreditation], [Prerequisite Courses][prereqs] and [Application Requirements][app-requirements].[^1]
 

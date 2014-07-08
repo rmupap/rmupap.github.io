@@ -20,7 +20,7 @@ All students accepting seats in the Rocky Mountain University of Health Professi
 
 ## Immunization History Documentation
 
-RMUoHP Program Policy requires all prematriculants provide proof that the following immunizations have been obtained and/or serologic testing results demonstrating proof of immunity:
+RMUoHP PA Program Policy requires all prematriculants provide proof that the following immunizations have been obtained and/or serologic testing results demonstrating proof of immunity:
 
 * **Hepatitis B:** Must provide quantitative hepatitis B surface antibody (HBsAB) test results to validate immune status or proof of non-converter status following administration of two separate series.[^hepBnonconverter]
 * **Measles (Rubeola):** Records of titer validating current immunity and/or 2-dose vaccine series being administered according to [CDC scheduling guidelines][cdcschedule].
@@ -41,7 +41,7 @@ Acceptable testing methods include tuberculin skin testing (TST) for purified pr
 
 ## Health Information Release
 
-In order for students to participate as active learners in the healthcare setting, clinical sites hosting SCPEs will require a copy of students' immunization history/status and tuberculosis screening results. To facilitate provision of this information, the PA Program requires prematriculants to sign a [Health Information Release Form](http://bit.ly/RMUoHPPAHealthInformationRelease), available to view and download [by clicking here](http://bit.ly/RMUoHPPAHealthInformationRelease), authorizing the Program to:
+In order for students to participate as active learners in the healthcare setting, clinical sites hosting SCPEs will require a copy of students' immunization history/status and tuberculosis screening results. To facilitate provision of this information, the PA Program requires prematriculants to sign a [Health Information Release Form](http://bit.ly/RMUoHPPAHealthInformationRelease), available to view and download [by clicking here](http://bit.ly/RMUoHPPAHealthInformationRelease), authorizing the RMUoHP PA Program to:
 
 - Maintain a copy of this information in their program student record, and
 - Release copies of this information to clinical sites where students will have SCPEs

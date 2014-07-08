@@ -1,1 +1,1 @@
-The mission of RMUoHP-PAP is to **educate competent physician assistant graduates who value and provide comprehensive, evidence-based, patient-centered care** and who are **committed to lifelong-learning, professional growth, and collaborative practice**.
+The mission of the RMUoHP PA Program is to **educate competent physician assistant graduates who value and provide comprehensive, evidence-based, patient-centered care** and who are **committed to lifelong-learning, professional growth, and collaborative practice**.

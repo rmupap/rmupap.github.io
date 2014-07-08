@@ -19,14 +19,14 @@ Qualifying applicants and enrolled PA program students must possess aptitude, ab
 
 ## Observation
 
-Qualifying applicants and enrolled PA program students...
+Qualifying applicants and enrolled PA Program students...
 
 1. must be able to observe and actively participate in all demonstrations and experiments in the basic medical and clinical sciences, including observations made through a microscope and demonstrations made in classroom and skills lab settings using standardized or classmate patient-models.
 2. must be able to observe a patient accurately and completely both at a distance and up close, noting both verbal and nonverbal signs.
 
 ## Communication
 
-Qualifying applicants and enrolled PA program students...
+Qualifying applicants and enrolled PA Program students...
 
 1. must possess the ability to comprehend written English at a level sufficient to adequately evaluate technical materials, medical reports, and biomedical texts and journals.
 2. must be able to communicate, both verbally and in writing, the results of their examination to the patient and to their colleagues with accuracy, clarity, and efficiency.
@@ -34,7 +34,7 @@ Qualifying applicants and enrolled PA program students...
 
 ## Sensory and Motor Functions
 
-Qualifying applicants and enrolled PA program students...
+Qualifying applicants and enrolled PA Program students...
 
 1. are expected to have sufficient somatic and sensory capabilities, including adequate senses of vision, hearing, and smell, to adequately perform the inspection, palpation, auscultation, and percussion components of the physical examination.
 2. must possess the gross and fine motor coordination skills necessary to learn and perform routine laboratory tests as well as diagnostic and therapeutic procedures.
@@ -42,14 +42,14 @@ Qualifying applicants and enrolled PA program students...
 
 ## Intellectual Conceptualization, Integration, and Quantitation
 
-Qualifying applicants and enrolled PA program students...
+Qualifying applicants and enrolled PA Program students...
 
 1. must be able to learn to quantify, analyze, integrate, synthesize, solve problems, and reach diagnostic and therapeutic judgments.
 2. must be able to learn and to demonstrate the ability to recognize limitations in their own knowledge, skills, and abilities, and seek appropriate assistance with their identified limitations.
 
 ## Behavioral and Social Attributes
 
-Qualifying applicants and enrolled PA program students...
+Qualifying applicants and enrolled PA Program students...
 
 1. must be able to work collaboratively with their classmates to sustain a non-competitive learning atmosphere and with their colleagues and patients to develop collaborative professional relationships.
 2. must possess the endurance to tolerate physically taxing workloads and to function effectively under stress.

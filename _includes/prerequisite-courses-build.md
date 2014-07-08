@@ -1,6 +1,6 @@
-All applicants **must complete the required prerequisite coursework in the table below prior to beginning the Physician Assistant Program**. Every course need not be completed prior to application. However, for applicants to whom it applies, there must be a feasible plan documented for completing any outstanding prerequisites prior to the program start date. 
+All applicants **must complete the required prerequisite coursework in the table below prior to beginning the Rocky Mountain University of Health Professions (RMUoHP) Physician Assistant (PA) Program**. Every course need not be completed prior to application. However, for applicants to whom it applies, there must be a feasible plan documented for completing any outstanding prerequisites prior to the program start date. 
 
-<p class="message"><strong>PLEASE NOTE:</strong> Under no circumstances will applicants be allowed to begin the Physician Assistant Program if prerequisite coursework is not completed prior to the program start date.</p>
+<p class="message"><strong>PLEASE NOTE:</strong> Under no circumstances will applicants be allowed to begin the PA Program if prerequisite coursework is not completed prior to the program start date.</p>
 
 ## Prerequisite Performance
 
@@ -10,7 +10,7 @@ All applicants **must complete the required prerequisite coursework in the table
 
 ## Prerequisite Timeline Requirements
 
-To be considered for the Physician Assistant Program, <span class="highlight">each prerequisite course highlighted below must have been completed within ten years of the cohort start date</span>. Additionally, credits must have been earned from a regionally accredited institution and be verifiable through official transcripts, or accepted by a [National Association of Credentialing Evaluation Services](http://www.naces.org/) ([NACES](http://www.naces.org/)) accredited U.S. equivalency reporting agency ([click for more information](http://rmupap.github.io/admissions/application-requirements/#foreign-student-applicants)).
+To be considered for the RMUoHP PA Program, <span class="highlight">each prerequisite course highlighted below must have been completed within ten years of the cohort start date</span>. Additionally, credits must have been earned from a regionally accredited institution and be verifiable through official transcripts, or accepted by a [National Association of Credentialing Evaluation Services](http://www.naces.org/) ([NACES](http://www.naces.org/)) accredited U.S. equivalency reporting agency ([click for more information](http://rmupap.github.io/admissions/application-requirements/#foreign-student-applicants)).
 
 | Course                                                              | Description                                                                                                                      | Semester Credits   |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------         | :----------------: |

@@ -19,16 +19,16 @@ title: Mission, Vision, Goals
 
 </p>
 
-...the **RMUoHP Physician Assistant Program (RMUoHP-PAP) has established the following** mission, vision, and goals.
+...the **RMUoHP Physician Assistant (PA) Program has established the following** mission, vision, and goals.
 
-## RMUoHP-PAP Mission
+## RMUoHP PA Program Mission
 
 {% include mission.md %}
 
-## RMUoHP-PAP Vision
+## RMUoHP PA Program Vision
 
 {% include vision.md %}
 
-## RMUoHP-PAP Goals
+## RMUoHP PA Program Goals
 
 {% include goals.md %}
