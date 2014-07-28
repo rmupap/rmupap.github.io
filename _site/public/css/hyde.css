@@ -92,8 +92,10 @@ html {
 }
 
 .sidebar-about img {
-  width:90%;
-  max-width: 130px;
+  width:100%;
+  max-width: 200px;
+  margin-top: -22px;
+
 }
 
 /* About section descriptor*/

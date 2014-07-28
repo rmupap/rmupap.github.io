@@ -29,7 +29,7 @@ RMUoHP PA Program Policy requires all prematriculants provide proof that the fol
 * **Varicella:** Records of titer validating current immunity and/or 2-dose vaccine series being administered according to [CDC scheduling guidelines][cdcschedule].[^varicella]
 * **Tetanus/Diphtheria/Pertussis:** Record of having received 1 dose Tdap.
 * **Meningococcal Disease:** Record of having received one vaccination.[^mening]
-* **Influenza:** Record of having received viral influenza immunization during the fall semester preceding matriculation.[^flu] 
+* **Influenza:** Record of having received viral influenza covering the winter season preceding matriculation.[^flu] 
 
 These immunization requirements are based on RMUoHP PA Program policy and the Centers for Disease Control and Prevention (CDC) [Recommended Vaccines for Healthcare Workers][cdcschedule]. You can view and download the [Immunization Documentation Form by clicking here](http://bit.ly/RMUoHPPAImmunizationForm).
 
