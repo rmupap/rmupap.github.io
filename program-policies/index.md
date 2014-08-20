@@ -7,24 +7,26 @@ The following list includes links to program policies pertaining to prospective 
 
 - [Academic Performance & Progression][01]
 - [Admissions][02]
-- [Attendance, Participation, & Inclement Weather][03]
-- [Dress Standard][04]
+- [Conduct & Behavior][CB]
+- [Student Attendance & Participation][03]
+- Dress Standard <span style="color: gray;font-size:85%;">&nbsp;<em>coming soon</em></span>
 - [Policy Administration][05]
 - [Program Costs][06]
 - [SCPEs Patient Exposure][07]
 - [Safety & Infection Control][08]
 - [Social Media][09]
 - [Student Advising][10]
-- [Student Assessment][11]
+- Student Assessment <span style="color: gray;font-size:85%;">&nbsp;<em>coming soon</em></span>
 - [Student Employment][12]
 - [Student Health][13]
 - [Student Role in Classroom & SCPEs][14]
 - [Supervised Clinical Practice][15]
-- [Technology][16]
+- Technology <span style="color: gray;font-size:85%;">&nbsp;<em>coming soon</em></span>
 
 [01]: {{ site.hubroot }}Academic-Performance-Progression
 [02]: {{ site.hubroot }}Admissions
-[03]: {{ site.hubroot }}Attendance-Participation-Inclement-Weather
+[CB]: {{ site.hubroot }}Conduct-Behavior
+[03]: {{ site.hubroot }}Student-Attendance-Participation
 [04]: {{ site.hubroot }}Dress-Standard
 [05]: {{ site.hubroot }}Policy-Administration
 [06]: {{ site.hubroot }}Program-Costs
