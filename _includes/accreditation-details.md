@@ -2,7 +2,7 @@ The purpose of accreditation is to establish and maintain standards of quality. 
 
 Rocky Mountain University of Health Professions (RMUoHP) PA Program is not accredited at this time, but has entered the formal process to earn accreditation.
 
-A formal application for 'Accreditation-Provisional' will be submitted to the ARC-PA in September 2014. A formal site visit will be conducted shortly thereafter in November 2014. Members of **the ARC-PA commision will convene in March of 2015 to render a decision on RMUoHP PA's accreditation status**, prior to anticipated matriculation of the inaugural RMUoHP PA class in May 2015.
+A formal application for 'Accreditation-Provisional' was submitted to the ARC-PA in August 2014. A formal site visit will be conducted in November 2014. Members of **the ARC-PA commision will then convene in March of 2015 to render a decision on RMUoHP PA's accreditation status**, prior to anticipated matriculation of the inaugural RMUoHP PA class in May 2015.
 
 The ARC-PA describes the provisional accreditation process as follows:
 

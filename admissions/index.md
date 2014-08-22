@@ -31,7 +31,6 @@ We sincerely hope our program is a great fit for you, and look forward to receiv
 
 ### Additional Helpful Pages for Prospective Applicants
 
-- [Program Highlights][program-highlights] <span style="font-size:70%;font-style:italic;color:grey;"> coming soon!</span>
 - [Frequently Asked Questions][faq]
 - [Information Web Group][info-web-group]
 
