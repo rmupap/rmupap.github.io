@@ -9,7 +9,7 @@ The following list includes links to program policies pertaining to prospective 
 - [Admissions][02]
 - [Conduct & Behavior][CB]
 - [Student Attendance & Participation][03]
-- Dress Standard <span style="color: gray;font-size:85%;">&nbsp;<em>coming soon</em></span>
+- [Dress Standard][04]
 - [Policy Administration][05]
 - [Program Costs][06]
 - [SCPEs Patient Exposure][07]

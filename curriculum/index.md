@@ -257,7 +257,7 @@ This is the final applied clinical reasoning course in the series specifically d
 
 <h4 class="" id="700">PAS 700 Clinical Rotation Preparatory Seminar</h4> 
 
-This course includes daily learning experiences for the first two weeks of the second summer semester and is designed to prepare students for their first full-time clinical rotations. Critical patient-care principles and concepts covered during the first three semesters are reviewed. New content focuses predominantly on the pragmatics of optimizing one’s learning opportunities during supervised clinical practice experiences (SCPEs). Topics include but are not limited to: self-care, electronic medical record access, interacting with and understanding the perspectives of preceptors, critical learner attributes of motivation, eagerness, professionalism, and work ethic, utilizing a learner-driven hypothesis and interrogative approach to developing preliminary assessments and plans supported with clinical science rationale, and refining oral case presentations.
+This course includes daily learning experiences for the first two weeks of the second summer semester and is designed to prepare students for their first full-time clinical rotation. Critical patient-care principles and concepts covered during the first three semesters are reviewed. New content focuses predominantly on the pragmatics of optimizing one’s learning opportunities during supervised clinical practice experiences (SCPEs). Topics include but are not limited to: self-care, electronic medical record access, interacting with and understanding the perspectives of preceptors, critical learner attributes of motivation, eagerness, professionalism, and work ethic, utilizing a learner-driven hypothesis and interrogative approach to developing preliminary assessments and plans supported with clinical science rationale, and refining oral case presentations.
 
 Students also learn to perform male and female genitourinary examinations using professional models. Finally, this course houses content related to HIPPA, OSHA, understanding clinical and hospital hierarchy, as well as the logistics of participating in SCPEs including patient logging requirements, completion of preceptor evaluations, and programmatic procedures related to housing, completing rotation specific assignments, and taking end-of-rotation examinations.
 
@@ -321,7 +321,7 @@ This course is a clinical medicine (CM) modular course using an organ-systems ap
 
 <h4 class="" id="699">PAS 699 Pre-Clinical Seminar</h4> 
 
-This pass/fail course evaluates students’ readiness to proceed into the final two semesters of supervised clinical practice experiences (SCPEs). Students are expected to have a strong depth and breadth of knowledge and skills in the basic medical and clinical sciences and must demonstrate essential cognitive and technical abilities learned in previous courses in order to proceed to SCPEs.
+This course evaluates students’ readiness to proceed into the final two semesters of supervised clinical practice experiences (SCPEs). Students are expected to have a strong depth and breadth of knowledge and skills in the basic medical and clinical sciences and must demonstrate essential cognitive and technical abilities learned in previous courses in order to proceed to SCPEs.
 
 {{ page.backtotable }} 
 
