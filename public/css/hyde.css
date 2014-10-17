@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Arial", Helvetica, sans-serif;
 }
 @media (min-width: 48rem) {
   html {
@@ -54,10 +54,11 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 1.2rem .5rem;
+  padding: 0 .5rem;
   color: rgba(255,255,255,.5);
-  background-color: #202020;
+  background-color: #002172;
   font-size: 18px;
+  padding-bottom: 8px;
 }
 @media (min-width: 48rem) {
   .sidebar {
@@ -83,7 +84,7 @@ html {
 /* About section header*/
 .sidebar-about h1 {
   color:#FFFFFF;
-  font-family:'yanone kaffeesatz', sans-serif;
+  font-family:'arial narrow', sans-serif;
   font-size:2.2rem;
   line-height:2.3rem;
   margin-bottom:0.8rem;
@@ -100,39 +101,48 @@ html {
 
 /* About section descriptor*/
 .sidebar-about p {
-  color:#a9a9a9;
-  font-family:'yanone kaffeesatz', sans-serif;
-  font-size:.9rem;
+  color:#fff;
+  font-family:'helvetica neue', sans-serif;
+  font-size:.6rem;
   max-width: 22rem;
-  padding-left:.9rem;
-  padding-right:.9rem;
-  line-height: 1rem;
+  padding-left:.7rem;
+  padding-right:.7rem;
+  line-height: .8rem;
+  padding-bottom: 0px;
+  margin-top: -14px;
+  padding-top: 10px;
+  margin-bottom: 14px;
 }
 
 /* Sidebar nav */
 .sidebar-nav {
   padding-left: 0;
   list-style: none;
-  font-family: 'Abel', sans-serif;
+  font-family: 'arial narrow', sans-serif;
   font-size: .8rem;
-  line-height: 1rem;
+  line-height: 1.1rem;
   width:100%;
   text-transform: uppercase;
   
 }
 
+div.sidebar-nav {
+	margin-top: 0px;
+}
+
 .sidebar-nav-item {
-  display: block;
-  padding: 3px 2px 2px 2px;
+  display: inline-block;
+  padding: 4px 2px 4px 2px;
   width: 100%;  
-  max-width: 245px;
+  max-width: 225px;
   margin-left:auto;
   margin-right:auto;
   text-align: center;
-  background: -webkit-linear-gradient(#202020, #383838); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(#202020, #383838); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(#202020, #383838); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(#202020, #383838); /* Standard syntax */
+  line-height: 1rem;
+  background: -webkit-linear-gradient(#d6d6d6, #7f7f7f); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#d6d6d6, #7f7f7f); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#d6d6d6, #7f7f7f); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#d6d6d6, #7f7f7f); /* Standard syntax */
 }
 
 .sidebar-nav-item a  {
@@ -142,11 +152,11 @@ html {
 .sidebar-nav-item a:hover,
 .sidebar-nav-item a:focus   {
   text-decoration: none;
-  color: #F8F190;
+  color: #0C2DB0;
 }
 
 .sidebar-nav-item a:active {
-  color: #F8F190;
+  color: #0C2DB0;
 }
 
 /* Sidebar signup Button */
@@ -188,17 +198,18 @@ html {
 .sidebar-nav-submenu-item,
 .sidebar-nav-submenu-item-highlights,
 .sidebar-nav-submenu-item-web-group {
-  font-size: 95%;
+  font-size: 100%;
   width:100%;
-  max-width: 230px;
+  max-width: 225px;
   margin-left:auto;
   margin-right:auto;
-  display: block;
-  background: -webkit-linear-gradient(#202020, #3e3a6e); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(#202020, #3e3a6e); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(#202020, #3e3a6e); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(#202020, #3e3a6e); /* Standard syntax */
-  padding: 3px 2px 2px 2px;
+  display: inline-block;
+  text-align: center;
+  background: -webkit-linear-gradient(#fff, #e1e1e1); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#fff, #e1e1e1); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#fff, #e1e1e1); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#fff, #e1e1e1); /* Standard syntax */
+  padding: 3px 2px;
   text-transform: capitalize;
   line-height: 1rem;
 }
@@ -214,7 +225,7 @@ html {
 .sidebar-nav-submenu-item a,
 .sidebar-nav-submenu-item-highlights a,
 .sidebar-nav-submenu-item-web-group a  {
-  color: #e7dfff;
+  color: #4c629c;
 }
 
 .sidebar-nav-submenu-item a:hover,
@@ -224,13 +235,13 @@ html {
 .sidebar-nav-submenu-item-web-group a:hover,
 .sidebar-nav-submenu-item-web-group a:focus   {
   text-decoration: none;
-  color: #F8F190;
+  color: #002172;
 }
 
 .sidebar-nav-submenu-item a:active,
 .sidebar-nav-submenu-item-highlights a:active,
 .sidebar-nav-submenu-item-web-group a:active  {
-  color: #F8F190;
+  color: #002172;
 }
 
 
@@ -256,13 +267,11 @@ html {
  */
 
 .header-image-div {
-  overflow:hidden;
+
 }
 
  .header-image {
-    width:100%;
-    max-width: 1080px;
-    min-width: 960px;
+    width: 960px;
  }
  
  .rmu-logo {
@@ -289,25 +298,26 @@ html {
  */
 
 .content {
-  padding-top:    1rem;
+  padding-top:    0.4rem;
   padding-bottom: 1rem;
-  padding-right: 1.3rem;
-  padding-left: 1.3rem;
+  padding-right: 2.3rem;
+  padding-left: 2.3rem;
 }
+
 
 @media (min-width: 48rem) {
   .content {
     max-width: 41rem;
-    margin-left: 15rem;
-    margin-right: 2rem;
-    margin-top: .5rem;
+    margin-left: 13rem;
+    margin-right: 0rem;
+    margin-top: 6.3rem;
   }
 }
 
 @media (min-width: 64rem) {
   .content {
-    margin-left: 15rem;
-    margin-right: 4rem;
+    margin-left: 13rem;
+    margin-right: 2rem;
   }
 }
 
@@ -393,7 +403,7 @@ html {
   color: #ffffff;
   /*border-left: .1rem solid #a09bbe;*/
  /* border-right: .1rem solid #565b87;*/
-  background-color: #8c94db;
+  background-color: #4c629c;
 }
 
 .highlight-rgt {
@@ -406,7 +416,7 @@ html {
   color: #ffffff;
   /*border-left: .1rem solid #a09bbe;*/
  /* border-right: .1rem solid #8c94db;*/
-  background-color: #565b87;
+  background-color: #002172;
 }
 
 .univ-heading-byu, 
@@ -584,11 +594,11 @@ html {
   width: 1.8em;
   border-style:solid;
   border-width: 1px;
-  border-color: #e5d3ff;
+  border-color: #cad1e1;
   border-radius: 0.3em;
   cursor: pointer;
   opacity: 1;
-  background-color: #faf7ff;
+  background-color: #ecedfa;
   -webkit-backface-visibility: hidden;
   line-height: 0;
   vertical-align: middle;
@@ -630,7 +640,7 @@ html {
   right: 0;
   display: block;
   font-size: 0.7em;
-  color: #5f28b9;
+  color: #0c2db0;
   font-family: 'Alegreya Sans', sans-serif;
   font-weight: normal;
   font-style: normal;
@@ -871,9 +881,9 @@ html {
 }
 
 .accordion li {
-	list-style-type: none;
-	padding: 0.4rem .625rem;
-	border-radius: .3rem;
+list-style-type: none;
+padding: 0.55rem 0.625rem;
+border-radius: .3rem;
 }
 
 
@@ -892,12 +902,12 @@ html {
 	
 .even {
 	border: 2px solid white;
-	background-color: #484d93;
+	background-color: #002172;
 }
 	
 .odd {
 	border: 2px solid white;
-	background: #757575;
+	background: #9a9a9a;
 }
 
 /* FAQ Headers */
@@ -938,7 +948,7 @@ div.faq-answer-purple {
   border-radius: 0 0 .3rem .3rem;
   border-style: solid;
   border-width: 1px;
-  border-color: #c9cdf3;
+  border-color: #cad1e1;
   margin-bottom: .6rem;
 }
 
@@ -978,7 +988,8 @@ ul.table-of-contents ul {
   font-weight: normal;
   list-style-type: none;
   margin-left:-8px;
-  margin-bottom: 0;
+  margin-bottom: 0px;
+  margin-top: 0px;
 }
 
 a.back-to-top {

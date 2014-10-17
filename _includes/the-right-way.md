@@ -5,7 +5,7 @@ Actions are predicated upon values. **Inasmuch as we commit ourselves to values 
 
 ## RMUoHP PA Additional Core Values 
 
-In addition to RMUoHP's core values, the RMUoHP PA Program espouses those values listed below. **Our commitment is to provide the best education possible for our students. To achieve this, we strive to think, make decisions, and act in accordance with these core values**. As a natural extension, **we strongly emphasize their importance and encourage their adoption to every student** we have the privilege of teaching and mentoring. **As anchors, these values serve as the pillars upon which all else is in the Program stands**. The acronym **R.I.G.H.T.** helps us easily remember and communicate these values:
+In addition to RMUoHP's core values, the RMUoHP PA Program espouses those values listed below. **Our commitment is to provide the best education possible for our students. To achieve this, we strive to think, make decisions, and act in accordance with these core values**. As a natural extension, **we strongly emphasize their importance and encourage their adoption to every student** we have the privilege of teaching and mentoring. **As anchors, these values serve as the pillars upon which all else in the Program stands**. The acronym **R.I.G.H.T.** helps us easily remember and communicate these values:
 
 ### <span class="highlight-rgt">R</span> - Relationships Come First
 

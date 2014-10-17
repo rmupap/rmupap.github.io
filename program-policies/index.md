@@ -21,7 +21,7 @@ The following list includes links to program policies pertaining to prospective 
 - [Student Health][13]
 - [Student Role in Classroom & SCPEs][14]
 - [Supervised Clinical Practice][15]
-- Technology <span style="color: gray;font-size:85%;">&nbsp;<em>coming soon</em></span>
+- [Technology][16]
 
 [01]: {{ site.hubroot }}Academic-Performance-Progression
 [02]: {{ site.hubroot }}Admissions

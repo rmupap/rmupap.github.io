@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         	kramdown
-pygments:         	true
+highlighter:        pygments
 
 # Permalinks
 permalink:        	pretty
@@ -8,7 +8,7 @@ permalink:        	pretty
 # Setup
 title:            	Rocky Mountain University of Health Professions Physician Assistant Program
 tagline:          	'Educating Clinicians to Practice in a Digital World'
-description:		'<span style="font-size:85%;">educating</span><span style="color:#f8c790"> reflective professionals</span><span style="font-size:85%;"> who value and practice</span><span style="color:#f8f89c"> evidence-based,</span><span style="color:#9eebaa"> patient-centered care</span><span style="font-size:85%;"> in the context of a</span><span style="color:#f89d9d"> digitally demanding world</span>'
+description:		'educating reflective professionals who value and practice evidence-based, patient-centered care in the context of a digitally demanding world'
 url:              	http://rmupap.github.io
 
 author:

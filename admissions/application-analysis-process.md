@@ -2,8 +2,15 @@
 layout: page
 title: Application Analysis Process
 ---
+## Application Screening
 
-Admission to the Rocky Mountain University of Health Professions (RMUoHP) Physician Assistant (PA) program is highly competitive. Individuals who submit applications meeting the minimum qualifications as described on the [Application Requirements](/admissions/application-requirements) and [Prerequisite Courses](/admissions/prerequisite-courses) pages will have their applications scored on a 100-point scale. Program Admissions Committee (PAC) members consider multiple factors in the scoring process including: 
+Admission to the Rocky Mountain University of Health Professions (RMUoHP) Physician Assistant (PA) program is highly competitive. Individuals who submit applications meeting the minimum qualifications as described on the [Application Requirements](/admissions/application-requirements) and [Prerequisite Courses](/admissions/prerequisite-courses) pages will have their applications scored on a 100-point scale. 
+
+An individual's application is screened only once—after all application materials have been verified by CASPA (including GRE scores). No additional materials pertaining to screening will be considered after this point for the application cycle. For example, if GPA requirements are not met at the time of application screening, GPA scores will not be recalculated to determine if an applicant qualifies for scoring in the event additional coursework is completed. Therefore, make sure your application fully qualifies at the time you submit it via CASPA.
+
+## Application Scoring
+
+Program Admissions Committee (PAC) members consider multiple factors in the scoring process including: 
 
 - perceived ability to successfully complete the RMUoHP PA Program,
 - demonstrated communication and interpersonal skills, 
@@ -11,7 +18,7 @@ Admission to the Rocky Mountain University of Health Professions (RMUoHP) Physic
 - awareness of physician assistant roles and responsibilities, and 
 - suitability for actively engaging in a collaborative environment as a self-motivated learner in accordance with the program's [core values](/core-values) and [mission, vision, and goals](/mission-vision-goals).
 
-## Scoring Areas and Weighting
+### Scoring Areas and Weighting
 
 Utilizing a detailed rubric, applicants receive a score in each of the five categories listed in the table below. The weight assigned to each category is included in the right hand column. 
 
@@ -26,7 +33,7 @@ Utilizing a detailed rubric, applicants receive a score in each of the five cate
 
 Additional details regarding each category are provided below...
 
-### Academic Strength
+#### Academic Strength
 
 Evaluation of academic strength is based on transcript history, GPA, and GRE scores. Several variables are considered including but not limited to: 
 
@@ -41,7 +48,7 @@ Evaluation of academic strength is based on transcript history, GPA, and GRE sco
 
 </p>
 
-### Health Care Experience
+#### Health Care Experience
 
 Factors affecting scoring in this area include but are not limited to:
 
@@ -51,7 +58,7 @@ Factors affecting scoring in this area include but are not limited to:
 
 Please refer to the [Health Care Experience](/admissions/application-requirements/#health-care-experience) subsection of the 'Application Requirements' page for details on the PA Program's goals, requirements, and expectations regarding acquisition of health care experience hours. 
 
-### Social Engagement
+#### Social Engagement
 
 Candidates with a history of active involvement volunteering and engaging in their communities, school settings, and via global opportunities are highly valued. Quantity, quality, and depth of involvement are considered, including the extent to which one engages with others either in leadership roles or as a participant in groups. Examples abound and include but are not limited to: 
 
@@ -67,7 +74,7 @@ Candidates with a history of active involvement volunteering and engaging in the
 
 </p>
 
-### Personal Narrative
+#### Personal Narrative
 
 Personal narratives are assessed by evaluating the ability of applicants to articulate their:
 
@@ -77,6 +84,6 @@ Personal narratives are assessed by evaluating the ability of applicants to arti
 
 Additional considerations include but are not limited to: clarity of purpose, style, voice, and professionalism.
 
-### References
+#### References
 
 References provide an opportunity for program faculty to examine external perspectives of applicants' potential for success. Applicants are encouraged to choose references who are able to comment on the categories described above. **It is strongly recommended that at minimum one of these references be from a PA or physician.**
