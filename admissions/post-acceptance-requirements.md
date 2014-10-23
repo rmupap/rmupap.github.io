@@ -13,6 +13,7 @@ Upon acceptance into the Physician Assistant (PA) program, incoming students (pr
 * [Program Release, Consent, and Waiver](#program-release-consent-and-waiver)
 * [Health Insurance Documentation](#health-insurance-documentation)
 * [Multimedia Consent/Release Form](#multimedia-consentrelease-form)
+* [Tuition and Fees Information Form](#tuition-and-fees-information-form)
 * [Official Transcripts of All Coursework](#official-transcripts-of-all-coursework)
 * [Conditional Acceptance Documentation](#conditional-acceptance-documentation)
 
@@ -67,6 +68,12 @@ RMUoHP PA Program students are required to carry and maintain personal health in
 ## Multimedia Consent/Release Form
 
 This document provides permission for RMUoHP to utilize your photographed image, videotaped image, and/or recorded voice for educational purposes. This form is available to view and download at [pa.rmuohp.link/MultimediaConsentForm](http://pa.rmuohp.link/MultimediaConsentForm).
+
+## Tuition and Fees Information Form
+
+This document provides information relative to the tuition and fees payment schedule for incoming PA students. It also details right to cancel, tuition refund, enrollment confirmation, payment methods, and financial aid information. The form that applies to students entering the program Summer 2015 is available to view and download at [pa.rmuohp.link/PATuition2015](http://pa.rmuohp.link/PATuition2015). 
+
+For further details on program costs, including semester by semester tuition and fees calculations, as well as additional program expenses (e.g. books, supplies, laptop), incurred during the PA educational experience with RMUoHP, please refer to the Program Costs policy, available at [pa.rmuohp.link/ProgramCosts](http://pa.rmuohp.link/ProgramCosts).
 
 ## Official Transcripts of All Coursework
 
