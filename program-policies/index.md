@@ -8,7 +8,6 @@ The following list includes links to program policies pertaining to prospective 
 - [Academic Performance & Progression][01]
 - [Admissions][02]
 - [Conduct & Behavior][CB]
-- [Student Attendance & Participation][03]
 - [Dress Standard][04]
 - [Policy Administration][05]
 - [Program Costs][06]
@@ -16,7 +15,8 @@ The following list includes links to program policies pertaining to prospective 
 - [Safety & Infection Control][08]
 - [Social Media][09]
 - [Student Advising][10]
-- Student Assessment <span style="color: gray;font-size:85%;">&nbsp;<em>coming soon</em></span>
+- [Student Assessment][11] 
+- [Student Attendance & Participation][03]
 - [Student Employment][12]
 - [Student Health][13]
 - [Student Role in Classroom & SCPEs][14]
@@ -26,7 +26,6 @@ The following list includes links to program policies pertaining to prospective 
 [01]: {{ site.hubroot }}Academic-Performance-Progression
 [02]: {{ site.hubroot }}Admissions
 [CB]: {{ site.hubroot }}Conduct-Behavior
-[03]: {{ site.hubroot }}Student-Attendance-Participation
 [04]: {{ site.hubroot }}Dress-Standard
 [05]: {{ site.hubroot }}Policy-Administration
 [06]: {{ site.hubroot }}Program-Costs
@@ -35,6 +34,7 @@ The following list includes links to program policies pertaining to prospective 
 [09]: {{ site.hubroot }}Social-Media
 [10]: {{ site.hubroot }}Student-Advising
 [11]: {{ site.hubroot }}Student-Assessment
+[03]: {{ site.hubroot }}Student-Attendance-Participation
 [12]: {{ site.hubroot }}Student-Employment
 [13]: {{ site.hubroot }}Student-Health
 [14]: {{ site.hubroot }}Student-Role-in-Classroom-SCPEs
