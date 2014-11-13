@@ -195,7 +195,7 @@ This course is a clinical medicine (CM) modular course emphasizing global consid
 
 <h4 class="" id="513">PAS 513 Professional Development 3</h4> 
 
-This course is the third in a series designed to integrate the principles of professionalism, ethics, profession-specific issues, and the business of medicine, with the practice of medicine. This course examines many of the legal and practice-based issues of healthcare including: electronic data management, coding, billing, reimbursement, rules and regulations, confidentiality, certification and licensure, and safety.
+This course is the third in a series designed to integrate the principles of professionalism, ethics, profession-specific issues, and the business of medicine, with the practice of medicine. This particular course evaluates health care disparities and provider sensitivity to cultural diversity, socioeconomic differences, and their impact on health and wellness. Complementary and alternative medical practice methods are also examined with particular attention given to integrative and preventive approaches.
 
 {{ page.backtotable }} 
 
@@ -245,7 +245,7 @@ This course examines important aspects of primary care pediatrics including asse
 
 <h4 class="" id="514">PAS 514 Professional Development 4</h4> 
 
-This course is the fourth in a series designed to integrate the principles of professionalism, ethics, profession-specific issues, and the business of medicine, with the practice of medicine. This particular course evaluates health care disparities and provider sensitivity to cultural diversity, socioeconomic differences, and their impact on health and wellness. Complementary and alternative medical practice methods are also examined with particular attention given to integrative and preventive approaches.
+This course is the fourth in a series designed to integrate the principles of professionalism, ethics, profession-specific issues, and the business of medicine, with the practice of medicine. This course examines many of the legal and practice-based issues of healthcare including: electronic data management, rules and regulations, confidentiality, certification and licensure, as well as infection control & personal safety.
 
 {{ page.backtotable }} 
 
@@ -297,7 +297,7 @@ This course provides a foundation for addressing medical problems commonly seen 
 
 <h4 class="" id="515">PAS 515 Professional Development 5</h4> 
 
-This course is the fifth in a series designed to integrate the principles of professionalism, ethics, profession-specific issues, and the business of medicine, with the practice of medicine. This particular course occurs during the final didactic semester just prior to students engaging in the final two full-time supervised clinical practice experiences (SCPEs) semesters. The focus during this course is developing skills needed to become a lifelong learner through practice-based learning/self-improvement and developing awareness of health policy and current trends/issues. There is a continued emphasis on professionalism as it applies to clinical practice.
+This course is the fifth in a series designed to integrate the principles of professionalism, ethics, profession-specific issues, and the business of medicine, with the practice of medicine. This particular course occurs during the final didactic semester just prior to students engaging in the final two full-time supervised clinical practice experiences (SCPEs) semesters. The focus during this course is developing skills needed to become a lifelong learner through practice-based learning/self-improvement and developing awareness of health policy and current trends/issues. Also discussed are the critical topics of risk management, error prevention, patient safety, and quality improvement.
 
 {{ page.backtotable }} 
 
@@ -340,7 +340,9 @@ Please refer to listing of supervised clinical practice experience types below
 
 <h4 class="" id="516">PAS 516 Professional Development 6 (Summer)</h4> 
 
-This course is the sixth in a series designed to integrate the principles of professionalism, ethics, profession-specific issues, and the business of medicine, with the practice of medicine. This particular course covers the organizational and economic elements of systems-based practice. This course also focuses on cost-effective and efficient health care, case management, risk management, error prevention, patient safety, and quality improvement.
+This course is the sixth in a series designed to integrate the principles of professionalism, ethics, profession-specific issues, and the business of medicine, with the practice of medicine. This particular course covers the organizational and economic elements of systems-based practice. This course also focuses on cost-effective and efficient health care, case management, healthcare delivery systems, as well as coding and billing. 
+
+coding, billing, reimbursement
 
 {{ page.backtotable }} 
 

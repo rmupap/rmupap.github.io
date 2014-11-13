@@ -1,8 +1,6 @@
-The purpose of accreditation is to establish and maintain standards of quality. The [Accreditation Review Commission on Education for the Physician Assistant (ARC-PA)][arc] is the agency authorized to accredit Physician Assistant (PA) educational programs in the United States.
+The purpose of accreditation is to establish and maintain standards of quality.Rocky Mountain University of Health Professions (RMUoHP) has applied for Accreditation - Provisional from the Accreditation Review Commission on Education for the Physician Assistant (ARC-PA). RMUoHP anticipates matriculating its first class in May 2015, pending achieving Accreditation - Provisional status at the March 2015 ARC-PA meeting. Accreditation - Provisional is an accreditation status for a new PA program that, at the time of its initial accreditation review, demonstrated its preparedness to initiate a program in accordance with the accreditation Standards.
 
-Rocky Mountain University of Health Professions (RMUoHP) PA Program is not accredited at this time, but has entered the formal process to earn accreditation.
-
-A formal application for 'Accreditation-Provisional' was submitted to the ARC-PA in August 2014. A formal site visit will be conducted in November 2014. Members of **the ARC-PA commision will then convene in March of 2015 to render a decision on RMUoHP PA's accreditation status**, prior to anticipated matriculation of the inaugural RMUoHP PA class in May 2015.
+The formal application for 'Accreditation-Provisional' was submitted to the ARC-PA in August 2014. A formal site visit will be conducted in November 2014. Members of **the ARC-PA commision will then convene in March of 2015 to render a decision on RMUoHP PA's accreditation status**, prior to anticipated matriculation of the inaugural RMUoHP PA class in May 2015.
 
 The ARC-PA describes the provisional accreditation process as follows:
 
