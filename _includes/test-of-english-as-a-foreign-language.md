@@ -5,7 +5,7 @@ To be considered for an interview, **all applicants for whom English is a second
 
 Official TOEFL scores should be mailed directly to [CASPA]({{site.caspa}}) as described in the '[Standardized Tests][caspa-st]' section of their website:
 
-> Official TOEFL Scores should be mailed to CASPA in paper format. They must be original copies of the test and sent to CASPA directly from ETS. CASPA can NOT accept photocopied, faxed, or electronic TOEFL scores. Please mail all official TOEFL scores to:
+> Official TOEFL scores should be mailed to CASPA in paper format. They must be original copies of the test and sent to CASPA directly from ETS. CASPA can NOT accept photocopied, faxed, or electronic TOEFL scores. Please mail all official TOEFL scores to:
 > 
 > <span style="font-size:90%; margin-left:1.75rem; display: block; line-height:100%;">CASPA TOEFL SCORES  
 > P.O. Box 9108  

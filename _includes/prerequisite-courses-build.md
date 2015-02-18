@@ -1,4 +1,4 @@
-All applicants **must complete the required prerequisite coursework in the table below prior to beginning the Rocky Mountain University of Health Professions (RMUoHP) Physician Assistant (PA) Program**. Every course need not be completed prior to application. However, for applicants to whom it applies, there must be a feasible plan documented for completing any outstanding prerequisites prior to the program start date. 
+All applicants **must complete the required prerequisite coursework in the table below prior to beginning the Rocky Mountain University of Health Professions (RMUoHP) Physician Assistant (PA) Program**. Every course need not be completed prior to application. The RMUoHP PA program allows applicants to have up to nine credits of prerequisite coursework in progress or planned at the time of application submission to CASPA. A feasible plan to complete outstanding prerequisite coursework must be documented in the CASPA application. 
 
 <p class="message"><strong>PLEASE NOTE:</strong> Under no circumstances will applicants be allowed to begin the PA Program if prerequisite coursework is not completed prior to the program start date.</p>
 
@@ -12,6 +12,8 @@ All applicants **must complete the required prerequisite coursework in the table
 
 To be considered for the RMUoHP PA Program, <span class="highlight">each prerequisite course highlighted below must have been completed within ten years of the cohort start date</span>. Additionally, credits must have been earned from a regionally accredited institution and be verifiable through official transcripts, or accepted by a [National Association of Credentialing Evaluation Services](http://www.naces.org/) ([NACES](http://www.naces.org/)) accredited U.S. equivalency reporting agency ([click for more information](http://rmupap.github.io/admissions/application-requirements/#foreign-student-applicants)).
 
+## Required Prerequisites
+
 | Course                                                              | Description                                                                                                                      | Semester Credits   |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------         | :----------------: |
 | <span class="highlight">Human Anatomy w lab</span>[^anatomy]        | Human anatomy course covering all body regions and systems designed for Biology or Physiology majors.                            | 3-4                |
@@ -23,6 +25,12 @@ To be considered for the RMUoHP PA Program, <span class="highlight">each prerequ
 | **College Algebra or Higher**                                       | 100-level or higher course covering the foundations of Algebra. A calculus course fulfills this requirement.                     | 3                  |
 | **Psychology**                                                      | 100-level or higher introductory or abnormal psychology course. Both are highly recommended.                                     | 3                  |
 | <span class="highlight">Medical Terminology</span>                  | 100-level or higher medical terminology course. An upper-level version is recommended.                                           | 1-3                |
+
+
+## Additional Recommended Courses
+
+| Course                                                              | Description                                                                                                                      | Semester Credits   |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------         | :----------------: |
 | **Genetics or Cellular Biology**[^extrabio]                         | Though not required, taking at least one of these courses is highly recommended.                                                 | 3-4                |
 | **Organic Chemistry or Biochemistry**[^extrachem]                   | Though not required, taking at least one of these courses is highly recommended.                                                 | 3-4                |
 
