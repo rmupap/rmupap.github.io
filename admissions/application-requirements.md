@@ -11,7 +11,6 @@ backtotoc: '<a href="#toc"><span style="font-size:70%;font-style:bold;float:righ
 <li><a href="#application-timeline-information">➘ Application Timeline Information</a>
     <ul>
     <li><a href="#application-deadline">➘ Application Deadline</a></li>
-    <li><a href="#early-consideration-deadline">➘ Early Consideration Deadline</a></li>
     </ul>
 </li>
 <li><a href="#academic-requirements">➘ Academic Requirements</a>
@@ -51,10 +50,6 @@ Thank you for your interest in the Rocky Mountain University of Health Professio
 ### Application Deadline
 
 {% include application-deadline.md %}
-
-### Early Consideration Deadline
-
-{% include early-consideration-deadline.md %}
 
 {{ page.backtotoc }}
 
