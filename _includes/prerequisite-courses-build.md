@@ -12,7 +12,7 @@ All applicants **must complete the required prerequisite coursework in the table
 
 To be considered for the RMUoHP PA Program, <span class="highlight">each prerequisite course highlighted below must have been completed within ten years of the cohort start date</span>. Additionally, credits must have been earned from a regionally accredited institution and be verifiable through official transcripts, or accepted by a [National Association of Credentialing Evaluation Services](http://www.naces.org/) ([NACES](http://www.naces.org/)) accredited U.S. equivalency reporting agency ([click for more information](http://rmupap.github.io/admissions/application-requirements/#foreign-student-applicants)).
 
-## Required Prerequisites
+## Required Prerequisite Coursework
 
 | Course                                                              | Description                                                                                                                      | Semester Credits   |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------         | :----------------: |
