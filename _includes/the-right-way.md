@@ -9,15 +9,15 @@ In addition to RMUoHP's core values, the RMUoHP PA Program espouses those values
 
 ### <span class="highlight-rgt">R</span> - Relationships Come First
 
-Nothing is more important than our relationships with others. **People are more important than things**. It is _people_ who give care, and _people_ who receive care. At RMUoHP PA, people come first.
+Nothing is more important than our relationships with others. **People are more important than things**. It is _people_ who give care, and _people_ who receive care. Furthermore, people come from all walks of life and carry with them unique backgrounds, personalities, philosophies, perspectives, and opinions. They stand as products of the infinite number of combinations that result from genetic diversity, social milieu, environmental influence, and personal choice. At RMUoHP PA, **we regard each individual as an equal member of the human family**, and therefore strive to serve each with our utmost attention, concern, and diligence. At RMUoHP PA, people come first.
 
-### <span class="highlight-ih">I</span> - It's All About the Team
+### <span class="highlight-ih">I</span> - Innovative Culture
 
-Time and again we see the evidence. **Collective decision-making is superior to independent decision-making**. Whether it be in health care, education, business, or any other endeavor, the team approach proves best. At RMUoHP PA, we emphasize teamwork in all we do.
+We are living in the midst of dramatic change. Not only is the medical industry changing quickly, but the educational arena as well. We strongly value supporting and sustaining a culture of innovation because as a result, our students and faculty are empowered to act as forward-thinking creatives,  bringing unique and dynamic perspectives in their contributions to addressing the most challenging of problems.
 
-### <span class="highlight-rgt">G</span> - Gotta Think of the Patient
+### <span class="highlight-rgt">G</span> - Growth Mindset
 
-The medical world is remarkably complex. So many dynamics, so many considerations. **Unfortunately, in the midst of the chaos, thinking about and doing what's best for the patient can slip to the back burner**. At RMUoHP PA, we keep the patient front and center. **The patient comes first, always**.
+_currently in draft_
 
 <img src="{{site.imagepath}}/familymedicine.jpg" style="max-width:100%; margin-left:auto; margin-right:auto; margin-top:1.5rem;">
 
@@ -25,6 +25,6 @@ The medical world is remarkably complex. So many dynamics, so many consideration
 
 Yes, we are here to serve students. But more importantly, we are here to serve the patients whom our students will serve. **Without high expectations, we risk compromising the education of our students, and thus ultimately the care of their patients**. RMUoHP PA holds the standard high. The patient deserves nothing but our best.
 
-### <span class="highlight-rgt">T</span> - Take Time for Every Person
+### <span class="highlight-rgt">T</span> - Think About the Patient
 
-People come from all walks of life and carry with them unique backgrounds, personalities, philosophies, perspectives, and opinions. They stand as products of the infinite number of combinations that result from genetic diversity, social milieu, environmental influence, and personal choice. At RMUoHP PA, **we regard each individual as an equal member of the human family**, and therefore strive to serve each with our utmost attention, concern, and diligence.
+The medical world is remarkably complex. So many dynamics, so many considerations. **Unfortunately, in the midst of the chaos, thinking about and doing what's best for the patient can slip to the back burner**. At RMUoHP PA, we keep the patient front and center. **The patient comes first, always**.
