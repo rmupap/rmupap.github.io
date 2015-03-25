@@ -1,1 +1,1 @@
-Only graduates of programs accredited by the ARC-PA or its predecessors are eligible to take the [Physician Assistant National Certifying Examination][pance] ([PANCE][pance]). Certification is required to be eligible for licensure to practice as a PA.
+Graduates of programs accredited by the ARC-PA or its predecessors are eligible to take the [Physician Assistant National Certifying Examination][pance] ([PANCE][pance]). Certification is required to be eligible for licensure to practice as a Physician Assistant.

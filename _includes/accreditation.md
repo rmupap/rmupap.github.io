@@ -2,7 +2,7 @@
 
 {% include accreditation-details.md %}
 
-## Implications for RMUoHP PA Applicants
+## Implications for RMUoHP PA Students
 
 {% include accreditation-implications.md %}
 
