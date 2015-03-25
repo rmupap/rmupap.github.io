@@ -12,6 +12,6 @@ title: RMUoHP Physician Assistant Program
 
 <p class="message">
 
-<strong>ACCREDITATION NOTE:</strong>{% include accreditation-note.md %}
+<strong>ACCREDITATION NOTE:</strong> {% include accreditation-note.md %}
 
 </p>
