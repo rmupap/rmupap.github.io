@@ -1,0 +1,459 @@
+---
+"/Users/dpayne/Sites/rmupap.github.io/_posts/2014-03-15-focus-on-the-roots.md":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/post.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/assets/archive/00_Policy_TEMPLATE.md":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/assets/archive/01_Policy_Administration.md":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/admissions/application-analysis-process.md":
+  mtime: 2014-09-29 11:04:06.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/admissions/application-requirements.md":
+  mtime: 2015-03-25 08:03:33.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/accreditation-note.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/application-timeline-information.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/application-deadline.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/degree-requirements.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/gpa-requirements.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/health-care-experience-intro.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/direct-patient-contact-experience.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/provider-shadowing.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/graduate-record-examination.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/test-of-english-as-a-foreign-language.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/foreign-student-applicants.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/advanced-placement.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/atom.xml":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/admissions/frequently-asked-questions.md":
+  mtime: 2015-03-25 08:24:55.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/faq-accordion.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/advanced-placement.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/404/index.html":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/blog/index.html":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/admissions/index.md":
+  mtime: 2014-08-22 14:11:12.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/accreditation/index.md":
+  mtime: 2014-07-08 15:51:03.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/accreditation.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/accreditation-details.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/accreditation-implications.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/additional-accreditation-information.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/coming-soon/index.md":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/core-values/index.md":
+  mtime: 2014-07-08 15:50:48.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/the-right-way.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/curriculum/index.md":
+  mtime: 2014-11-13 03:09:33.000000000 -07:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/program-highlights/index.md":
+  mtime: 2014-06-26 06:01:14.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/active-and-collaborative-learning.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/progressive-experiential-design.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/high-proficiency-digital-literacy.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/integrated-medical-curricula.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/self-reflective-practice-portfolio.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/index.md":
+  mtime: 2015-03-25 07:45:28.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/program-introduction.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/invitation-to-learn-more.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/accreditation-note.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/mission-vision-goals/index.md":
+  mtime: 2014-07-08 15:50:42.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/mission.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/vision.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/goals.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/program-outcomes/index.md":
+  mtime: 2014-09-01 08:55:25.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/outcomes-accordion.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/program-policies/index.md":
+  mtime: 2014-10-29 03:18:19.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/technical-standards/index.md":
+  mtime: 2014-07-08 15:50:34.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/meetings/index.md":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/program-performance/index.md":
+  mtime: 2014-05-31 11:28:50.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/information/index.md":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/admissions/post-acceptance-requirements.md":
+  mtime: 2014-10-23 10:44:30.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/admissions/prerequisite-courses.md":
+  mtime: 2014-07-08 15:50:57.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/prerequisite-courses-build.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/admissions/prerequisite-help-tables.md":
+  mtime: 2014-10-17 07:19:26.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/admissions/rmuohp-pap-information-group.md":
+  mtime: 2014-07-08 15:50:44.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/web-group.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/information/rmupap-email-information-response.md":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/applicant-greetings.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/arc-pa-language.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/program-introduction.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/active-and-collaborative-learning.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/progressive-experiential-design.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/integrated-medical-curricula.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/self-reflective-practice-portfolio.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/accreditation-details.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/accreditation-implications.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/additional-accreditation-information.md"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/assets/images/PALogoJumbo975x500.jpg":
+  mtime: 2014-08-29 11:56:03.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/assets/images/PALogoMedium600x275.jpg":
+  mtime: 2014-08-29 11:56:03.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/assets/images/PALogoSmall400x150.jpg":
+  mtime: 2014-08-29 11:56:03.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/assets/images/PALogoTiny215x90.jpg":
+  mtime: 2014-08-29 11:56:03.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/assets/images/bannerfade.png":
+  mtime: 2014-10-14 11:26:12.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/assets/images/bannerfade1920.png":
+  mtime: 2014-10-14 12:00:34.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/assets/images/pabanner.jpg":
+  mtime: 2014-09-13 17:05:04.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/assets/images/pabanner.png":
+  mtime: 2014-09-13 17:04:29.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/assets/images/rmu-black.png":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/assets/images/rmuheader.png":
+  mtime: 2014-05-07 09:58:02.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/assets/images/rmuohplogowhite.png":
+  mtime: 2014-07-28 12:42:21.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/assets/images/rmuohplogowhiteswitch.png":
+  mtime: 2014-07-28 14:00:45.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/assets/images/rmutransparent.png":
+  mtime: 2014-07-08 23:42:07.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/information/sitemap.md":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/js/bigfoot.js":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/js/jAccordion.js":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/js/jquery.min.js":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/public/apple-touch-icon-144-precomposed.png":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/public/css/hyde.css":
+  mtime: 2015-04-17 02:13:35.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/public/css/poole.css":
+  mtime: 2014-10-17 07:13:50.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/public/css/syntax.css":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/public/favicon.ico":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_layouts/post.html":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/accreditation-note.md":
+  mtime: 2015-03-24 19:50:39.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/faq-accordion.html":
+  mtime: 2015-03-25 08:03:24.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/head.html":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/accreditation.md":
+  mtime: 2015-03-24 19:33:37.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/the-right-way.md":
+  mtime: 2015-02-18 14:51:13.000000000 -07:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/active-and-collaborative-learning.md":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/program-introduction.md":
+  mtime: 2014-07-08 15:55:51.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/mission.md":
+  mtime: 2014-07-08 15:50:54.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/outcomes-accordion.html":
+  mtime: 2014-09-02 07:09:12.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/prerequisite-courses-build.md":
+  mtime: 2015-02-18 12:10:10.000000000 -07:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/web-group.html":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/applicant-greetings.md":
+  mtime: 2014-07-08 15:51:21.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html":
+  mtime: 2014-10-16 06:39:53.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/application-timeline-information.md":
+  mtime: 2015-02-18 10:07:35.000000000 -07:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/advanced-placement.md":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/accreditation-details.md":
+  mtime: 2015-03-24 19:48:00.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/invitation-to-learn-more.md":
+  mtime: 2014-07-08 15:55:28.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/program-policies copy/index.md":
+  mtime: 2014-10-29 03:18:19.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/_includes/vision.md":
+  mtime: 2014-07-08 15:51:02.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/progressive-experiential-design.md":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/arc-pa-language.md":
+  mtime: 2014-08-22 14:11:04.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html":
+  mtime: 2015-04-16 22:28:51.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/application-deadline.md":
+  mtime: 2015-02-18 10:09:03.000000000 -07:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/accreditation-implications.md":
+  mtime: 2015-03-24 19:48:02.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/resources/index.md":
+  mtime: 2015-04-17 02:01:01.000000000 -06:00
+  deps:
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/sidebar.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
+  - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
+"/Users/dpayne/Sites/rmupap.github.io/_includes/goals.md":
+  mtime: 2014-07-08 15:50:55.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/high-proficiency-digital-literacy.md":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/integrated-medical-curricula.md":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html":
+  mtime: 2014-09-13 08:34:50.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/degree-requirements.md":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/additional-accreditation-information.md":
+  mtime: 2015-03-24 19:48:11.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/self-reflective-practice-portfolio.md":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/gpa-requirements.md":
+  mtime: 2015-02-18 12:28:07.000000000 -07:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/health-care-experience-intro.md":
+  mtime: 2014-07-02 11:47:34.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/direct-patient-contact-experience.md":
+  mtime: 2014-07-02 11:47:33.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/provider-shadowing.md":
+  mtime: 2014-07-02 11:47:29.000000000 -06:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/graduate-record-examination.md":
+  mtime: 2015-02-18 11:02:43.000000000 -07:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/test-of-english-as-a-foreign-language.md":
+  mtime: 2015-02-18 10:52:49.000000000 -07:00
+  deps: []
+"/Users/dpayne/Sites/rmupap.github.io/_includes/foreign-student-applicants.md":
+  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  deps: []
