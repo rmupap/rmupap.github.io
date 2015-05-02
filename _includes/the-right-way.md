@@ -17,7 +17,7 @@ We are living in the midst of dramatic change. Not only is the medical industry 
 
 ### <span class="highlight-rgt">G</span> - Growth Mindset
 
-_currently in draft_
+A fixed mindset clings to notions of innate ability and capacity, or lack thereof. By contrast, a growth mindset engenders the learning and progress born when persevering through challenge and failure. We are not completed works of varying perfection or imperfection, but products of ongoing experiential and reflective states of being. As such, our best days are inherently ahead of us.
 
 <img src="{{site.imagepath}}/familymedicine.jpg" style="max-width:100%; margin-left:auto; margin-right:auto; margin-top:1.5rem;">
 
