@@ -70,7 +70,7 @@ Candidates with a history of active involvement volunteering and engaging in the
 
 <p class="message">
 
-<strong>PLEASE NOTE:</strong> <a href="https://portal.caspaonline.org" target="_blank">CASPA</a> does not provide a section in their online application system specifically entitled <i>Social Engagement</i>. Please include experiences appropriate for this category in the <i>Volunteer/Community Enrichment</i> section. Candidates who have already e-submitted via CASPA but feel they have experiences fitting for this area not included, can submit additional experiences to be added to their application by <a href="http://bit.ly/socialengagementsupplement" target="_blank">clicking here</a>.
+<strong>PLEASE NOTE:</strong> <a href="https://portal.caspaonline.org" target="_blank">CASPA</a> does not provide a section in their online application system specifically entitled <i>Social Engagement</i>. Please include experiences appropriate for this category in the <i>Volunteer/Community Enrichment</i> section.
 
 </p>
 
