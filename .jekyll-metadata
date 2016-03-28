@@ -408,7 +408,7 @@
   mtime: 2015-03-24 19:48:02.000000000 -06:00
   deps: []
 "/Users/dpayne/Sites/rmupap.github.io/resources/index.md":
-  mtime: 2016-03-28 12:58:44.000000000 -06:00
+  mtime: 2016-03-28 13:58:40.000000000 -06:00
   deps:
   - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
   - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
