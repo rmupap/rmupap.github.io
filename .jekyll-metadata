@@ -24,7 +24,7 @@
   - "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html"
   - "/Users/dpayne/Sites/rmupap.github.io/_layouts/default.html"
 "/Users/dpayne/Sites/rmupap.github.io/admissions/application-analysis-process.md":
-  mtime: 2014-09-29 11:04:06.000000000 -06:00
+  mtime: 2015-06-02 11:31:59.000000000 -06:00
   deps:
   - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
   - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
@@ -343,7 +343,7 @@
   mtime: 2015-03-24 19:33:37.000000000 -06:00
   deps: []
 "/Users/dpayne/Sites/rmupap.github.io/_includes/the-right-way.md":
-  mtime: 2015-02-18 14:51:13.000000000 -07:00
+  mtime: 2015-05-02 09:06:19.000000000 -06:00
   deps: []
 "/Users/dpayne/Sites/rmupap.github.io/_includes/active-and-collaborative-learning.md":
   mtime: 2014-04-22 10:40:56.000000000 -06:00
@@ -399,7 +399,7 @@
   mtime: 2014-08-22 14:11:04.000000000 -06:00
   deps: []
 "/Users/dpayne/Sites/rmupap.github.io/_includes/navigation-menu.html":
-  mtime: 2015-04-16 22:28:51.000000000 -06:00
+  mtime: 2015-05-07 10:52:16.000000000 -06:00
   deps: []
 "/Users/dpayne/Sites/rmupap.github.io/_includes/application-deadline.md":
   mtime: 2015-02-18 10:09:03.000000000 -07:00
@@ -408,7 +408,7 @@
   mtime: 2015-03-24 19:48:02.000000000 -06:00
   deps: []
 "/Users/dpayne/Sites/rmupap.github.io/resources/index.md":
-  mtime: 2015-04-22 14:45:08.000000000 -06:00
+  mtime: 2016-03-28 12:58:44.000000000 -06:00
   deps:
   - "/Users/dpayne/Sites/rmupap.github.io/_layouts/page.html"
   - "/Users/dpayne/Sites/rmupap.github.io/_includes/head.html"
@@ -455,5 +455,5 @@
   mtime: 2015-02-18 10:52:49.000000000 -07:00
   deps: []
 "/Users/dpayne/Sites/rmupap.github.io/_includes/foreign-student-applicants.md":
-  mtime: 2014-04-22 10:40:56.000000000 -06:00
+  mtime: 2015-05-01 07:31:55.000000000 -06:00
   deps: []
